@@ -1,2 +1,152 @@
 //  Foundation for Sites Settings
 //  -----------------------------
+
+// 1. Global
+// ---------
+
+$global-width: 62.5rem;
+$small-font-size: 1.3125rem;
+$light-gray: white;
+$global-padding: 1.5rem;
+$global-margin: 1rem;
+$global-weight-normal: normal;
+th {
+    font-weight: normal;
+    font-size:1em;
+}
+
+.mine{
+  font-family: Georgia;
+}
+
+.meta{
+  margin-left: 1rem;
+}
+
+ul {
+ list-style: none;
+}
+
+// 22. Menu
+// --------
+$menu-margin-nested: 0rem;
+$dropdownmenu-arrow-color: #2EC4B6;
+$dropdownmenu-background:#2EC4B6;
+
+
+// NOTE: intro section
+.intro{
+  margin: 2rem;
+}
+.small-12 columns{
+  border-bottom: 1px solid #999;
+}
+
+// Base Typography
+// ------------------
+$paragraph-margin-bottom: 1.5rem;
+$header-sizes: (
+  small: (
+    'h1': 24,
+    'h2': 20,
+    'h3': 19,
+    'h4': 18,
+    'h5': 17,
+    'h6': 16,
+  ),
+  medium: (
+    'h1': 40,
+    'h2': 31,
+    'h3': 25,
+    'h4': 20,
+    'h5': 16,
+    'h6': 14,
+  ),
+);
+.row medium-uncollapse large-collapse{
+  padding: 1rem ;
+}
+
+.videosul {
+list-style-type:none;
+}
+
+// imagenes
+// ------------------
+.container-article img {
+    margin: 1.5em auto;
+}
+
+// Newsletter
+// ------------------
+
+.section-index-wide-carte {
+    max-width: 57.75rem;
+    margin-top: 3rem;
+}
+.section-carte-panel {
+        padding: 1rem;
+        color: #444;
+        margin-bottom: 1rem;
+}
+.section-carte-newsletter {
+    margin-bottom: 1.5rem;
+    padding: 1.5rem;
+}
+.section-carte-index-panel, .section-carte-panel {
+    border-style: solid;
+    border-width: 1px 1px .125rem;
+    border-color: #ededed;
+    background: #FFF;
+}
+.section-carte-newsletter-description {
+    margin-bottom: 0;
+    line-height: 1.5rem;
+}
+.button-newsletter {
+  border-color: #e2ebf1;
+  background-color: #a6dbff;
+  color: #1468a0;
+  line-height: 1;
+  cursor: pointer;
+  -webkit-appearance: none;
+  transition: background-color 0.25s ease-out, color 0.25s ease-out;
+  vertical-align: middle;
+  border: 1px solid;
+  padding: 0.85em 1em;
+  margin: 0 0 1rem 0;
+  font-size: 0.9rem;
+  border-radius: 20%;
+}
+
+.news {
+    margin-top: 0.6rem;
+}
+.section-carte-newsletter input {
+  margin-bottom: 0;
+}
+
+.link-menu {
+  color: #444;
+}
+
+// Video individual
+// ------------------
+
+.video-individual {
+  padding: 1em;
+}
+
+// Footer
+// ------------------
+
+.footer {
+    display:inline;
+}
+
+// Videos
+// ------------------
+.row .row.collapse {
+    margin-bottom: 0.7rem;
+    margin-top: 0.6rem;
+}

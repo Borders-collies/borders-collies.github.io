@@ -1,11 +1,11 @@
-- link: Home
-  url: /
+- link: Border Collie Cria
+  url: /border-collie-cria
 
-- link: Blog
-  url: /blog
+- link: Border Collie Cuidados
+  url: /border-collie-cuidados
 
-- link: Sample Page
-  url: /samplepage
+- link: Border Collie Adiestramiento
+  url: /border-collie-adiestramiento
 
-- link: Kitchen Sink
-  url: /kitchen-sink
+- link: Border Collie Videos
+  url: /border-collie-videos

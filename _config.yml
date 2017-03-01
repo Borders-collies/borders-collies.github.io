@@ -1,16 +1,16 @@
 # Site settings
-language:               ""
-title:                  "Site Title"
-description:            "Site description"
+language:               "es"
+title:                  "borders-collies"
+description:            "Toda la informacion que necesitas sobre la cria, el adiestramiento y los cuidados del Border Collie."
 google-verification:    ""
 
 # Handling Reading
 include:
   - ".htaccess"
   - "_pages"
+  - "/assets/"
 
 exclude:
-  - "/assets/"
   - "bower.json"
   - "composer.json"
   - "composer.lock"
@@ -38,8 +38,8 @@ incremental:      true
 # baseurl:        "" # does not include hostname
 
 # Outputting
-permalink:        "/blog/:year/:title/"
-paginate_path:    "/blog/page:num"
+permalink:        "/:title/"
+paginate_path:    "/page:num"
 paginate:         5
 
 compress_html:

@@ -1,0 +1,65 @@
+---
+layout: default
+description: "Toda la informacion que necesitas sobre la cria, el adiestramiento y los cuidados del Border Collie."
+---
+
+<div class="media-object small-8 small-centered columns">
+  <div class="text-center">
+    <img class="show-for-medium" src="assets/img/border-collie-home.PNG" width="100%" height="100%" alt="Border Collie jugando con burbujas.">
+  </div>
+</div>
+<main>
+  <h1 class="text-center">Últimos articulos</h1>
+    <div class="small-8 small-centered columns">
+    </div>
+    {% assign categories = site.categories.articulos | sort: 'date' | reverse %}
+    {% for post in categories limit:5 %}
+    <div class="media-object stack-for-small small-8 small-centered columns">
+      <div class="media-object-section">
+        <div class="thumbnail">
+          <img src= "{{site.url}}/assets/img/articulos/{{ post.image }}" width="300" height="auto" alt="{{ post.title }}">
+        </div>
+      </div>
+       <div class="media-object-section">
+          <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+          <p class="post-meta">{{ post.date | date: '%d.%m.%Y' }}</p>
+          <p>"{{ post.intro }}"</p>
+          <a href="{{ post.url }}">Seguir leyendo...</a>
+        </div>
+      </div>
+  {% endfor %}
+<h1 class="text-center">Últimos videos</h1>
+<div class="row medium-uncollapse large-collapse">
+  <div class="small-10 small-centered columns">
+    <ul class="videosul">
+     {% assign categories = site.categories.border-collie-videos | sort: 'date' | reverse %}
+      {% for post in categories limit:6 %}
+      <li class="small-4 columns show-for-medium">
+        <div>
+          {% if post.id-youtube %}
+            <a href="{{site.url}}/{{ post.permalink }}"><img src="http://img.youtube.com/vi/{{ post.id-youtube | remove: ' ' }}/mqdefault.jpg" alt="{{ post.title }}" width="219" height="106" /></a>
+          {% endif %}
+            <div class="row collapse">
+              <div class="grid">
+                <a href="{{ post.permalink }}">{{ post.title }}</a>
+              </div>
+            </div>
+        </div>
+      </li>
+      <li class="show-for-small-only">
+        <div>
+          {% if post.id-youtube %}
+            <img src="http://img.youtube.com/vi/{{ post.id-youtube | remove: ' ' }}/mqdefault.jpg" alt="{{ post.title }}" width="219" height="106" />
+          {% endif %}
+            <div class="row collapse">
+              <div class="grid">
+                <a href="{{ post.permalink }}">{{ post.title }}</a>
+              </div>
+            </div>
+        </div>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+</div>
+</main>

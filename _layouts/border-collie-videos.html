@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="small-8 small-centered columns">
+    <h4 class="text-center"><b>{{ page.title }} 🎥</b></h4>
+    <p class="text-center">Videos divertidos y sorprendentes que hemos encontrado en la red con los Border Collie como protagonistas</p>
+</div>
+<main>
+  <div class="row medium-uncollapse large-collapse">
+    <div class="small-10 small-centered columns">
+      <ul class="videosul">
+       {% assign categories = site.categories.border-collie-videos | sort: 'date' | reverse %}
+        {% for post in categories %}
+        <li class="small-4 columns show-for-medium">
+          <div>
+            {% if post.id-youtube %}
+              <a href="{{site.url}}/{{ post.permalink }}"><img src="http://img.youtube.com/vi/{{ post.id-youtube | remove: ' ' }}/mqdefault.jpg" alt="{{ post.title }}" width="219" height="106" /></a>
+            {% endif %}
+              <div class="row collapse">
+                <div class="grid">
+                  <a href="{{ post.permalink }}">{{ post.title }}</a>
+                </div>
+              </div>
+          </div>
+        </li>
+        <li class="small-centered columns show-for-small-only">
+          <div>
+            {% if post.id-youtube %}
+              <img src="http://img.youtube.com/vi/{{ post.id-youtube | remove: ' ' }}/mqdefault.jpg" alt="{{ post.title }}" width="219" height="106" />
+            {% endif %}
+              <div class="row collapse">
+                <div class="grid">
+                  <a href="{{ post.permalink }}">{{ post.title }}</a>
+                </div>
+              </div>
+          </div>
+        </li>
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
+</main>

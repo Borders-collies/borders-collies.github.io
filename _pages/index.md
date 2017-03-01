@@ -1,7 +1,5 @@
 ---
-permalink: /
-layout: index
-title: Homepage
+permalink: "/"
+layout: "index"
+title: "inicio"
 ---
-
-Welcome to your new Jekyll site.

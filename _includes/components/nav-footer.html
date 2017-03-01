@@ -1,7 +1,13 @@
-<nav>
-  <ul class="menu clearfix float-right">
-    {% for item in site.data.nav-footer %}
-      <li><a href="{{ item.url }}">{{ item.link }}</a></li>
-    {% endfor %}
-  </ul>
-</nav>
+<div class="container-article">
+ <div class="row">
+    <p class="text-center small">Has llegado al final! ¯\_(⊙︿⊙)_/¯</p>
+ <div class="menu-centered">
+   <ul class="menu">
+      {% for item in site.data.nav-footer %}
+        <li><a href="{{ item.url }}">{{ item.link }}</a></li>
+      {% endfor %}
+    </ul>
+    <p class="text-center small">© 2016 <a href="http://www.borders-collies.com" title="Borders Collies – Informacion para los amantes de los border collie">Borders-collies</a> – Todos los derechos reservados</p>
+  </div>
+ </div>
+</div>
