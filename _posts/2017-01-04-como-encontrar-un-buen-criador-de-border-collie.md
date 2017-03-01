@@ -2,7 +2,7 @@
 layout: "post"
 title:  "Cómo encontrar un buen criador de Border Collie"
 date: "2017-01-02 18:33:00"
-image: "como-encontrar-un-criador-respetable-de-border-collie.PNG"
+image: "como-encontrar-un-criador-respetable-de-border-collie.png"
 category: "articulos"
 tags: "cria"
 intro: "Por desgracia no todo el mundo es sincero y honesto en lo que se refiere a la cría de perros. Desde que la venta de..."

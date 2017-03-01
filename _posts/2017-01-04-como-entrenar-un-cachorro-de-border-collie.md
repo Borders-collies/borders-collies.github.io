@@ -2,7 +2,7 @@
 layout: "post"
 title:  "¿Cómo entrenar un cachorro de Border Collie?"
 date: "2017-01-03 20:33:00"
-image: "como-entrenar-un-cachorro-de-border-collie.JPG"
+image: "como-entrenar-un-cachorro-de-border-collie.jpg"
 category: "articulos"
 tags: "adiestramiento"
 intro: "Si estás leyendo este post imagino que tienes un nuevo miembro en la familia, concretamente un maravilloso cachorro Border Collie. ¡Felicidades!"

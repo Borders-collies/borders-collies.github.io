@@ -2,7 +2,7 @@
 layout: "post"
 title:  "Qué hacer para que tu Border Collie deje de morder todas tus cosas"
 date: "2017-01-04 19:00:00"
-image: "que-hacer-para-que-tu-border-collie-deje-de-morder-todas-tus-cosas.PNG"
+image: "que-hacer-para-que-tu-border-collie-deje-de-morder-todas-tus-cosas.png"
 category: "articulos"
 tags: "adiestramiento"
 intro: "Un Border Collie que se ha desarrollado el hábito de morderlo todo será un perro caro de mantener. Ya puedes decir adiós a tus fantásticos zapatos, muebles y ropa a menos de que hagas algo para solucionar este problema de conducta."

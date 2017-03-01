@@ -2,7 +2,7 @@
 layout: "post"
 title:  "¿Cuánto dar de comer a un Border Collie?"
 date: "2017-01-04 21:00:00"
-image: "cuanto-dar-de-comer-a-un-border-collie.JPG"
+image: "cuanto-dar-de-comer-a-un-border-collie.jpg"
 category: "articulos"
 tags: "cuidados"
 intro: "Cuánto dar de comer a tu Border Collie depende de muchos factores. Depende de la edad del perro, el nivel de actividad y del tipo de comida con el que estás alimentando. Sin embargo no juzgues cuánto tienes que alimentarlo por el hambre del perro ya..."

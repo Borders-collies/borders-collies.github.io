@@ -4,7 +4,7 @@ title:  "Raza de perro Border Collie"
 date: "2017-01-02 19:00:00"
 category: "articulos"
 tags: "cria"
-image: "historia-de-la-raza-border-collie.JPG"
+image: "historia-de-la-raza-border-collie.jpg"
 intro: "El Border Collie es conocido por ser la mejor raza de perro pastor. Son perros extremadamente inteligentes, atléticos y no tienen rival cuando hablamos de obediencia..."
 description: "Te contamos el origen del Border Collie"
 ---

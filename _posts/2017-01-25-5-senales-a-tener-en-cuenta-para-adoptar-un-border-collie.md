@@ -2,7 +2,7 @@
 layout: "post"
 title:  "5 señales a tener en cuenta para adoptar un border collie"
 date: "2017-01-05 09:15:00"
-image: "5-senales-a-tener-en-cuenta-para-adoptar-un-border-collie.JPG"
+image: "5-senales-a-tener-en-cuenta-para-adoptar-un-border-collie.jpg"
 category: "articulos"
 tags: "cria"
 intro: "Adoptar un Border Collie es una forma genial de encontrar un nuevo compañero y al mismo tiempo de dar a un perro adulto una segunda oportunidad. Sin embargo hay ciertas “señales de peligro” que debes tener en cuenta antes de la adopción..."

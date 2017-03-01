@@ -2,7 +2,7 @@
 layout: "post"
 title:  "Alimentos toxicos para tu Border Collie"
 date: "2017-01-04 17:23:57"
-image: "comida-venenosa-para-tu-border-collie-2.PNG"
+image: "comida-venenosa-para-tu-border-collie-2.png"
 category: "articulos"
 tags: "cuidados"
 intro: "Si tu Border Collie es como la mayoría, apuesto a que nunca se cansa de comer comida de personas.

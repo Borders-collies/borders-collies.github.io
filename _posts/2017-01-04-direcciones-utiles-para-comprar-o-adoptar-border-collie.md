@@ -2,7 +2,7 @@
 layout: "post"
 title:  "Direcciones útiles para comprar o adoptar un border collie"
 date: "2017-01-03 17:00:00"
-image: "direcciones-utiles-para-encontrar-un-buen-criador.JPG"
+image: "direcciones-utiles-para-encontrar-un-buen-criador.jpg"
 category: "articulos"
 tags: "cria"
 intro: "Algunas direcciones útiles de asociaciones de club de Border Collie en España donde podrás dirigirte para pedir referencias de criadores."
