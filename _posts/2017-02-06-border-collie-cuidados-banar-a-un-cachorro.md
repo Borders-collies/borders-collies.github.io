@@ -68,7 +68,7 @@ Ahora que está todo mojado, es hora de empezar a lavar tu cachorro. Comienza de
 <h4>Paso 5 - Enjuaga a tu cachorro</h4>
 Enciende la ducha de nuevo y empieza a enjuagar y quitar el champú del cachorro. Una vez más, comienza desde la parte superior y trabaja hacia abajo. Ten mucho cuidado al enjuagar al cachorro ya que no querrás que le queden restos en su pelaje.
 
-<h4>Paso 6 - Secar a tu Border Collie</h4>
+<h4>Paso 6 - Seca a tu Border Collie</h4>
 
 ¡Ya casi has terminado! Todo lo que tienes que hacer es secar al cachorro y habrás acabado.
 La mejor manera de hacerlo es dejar que el cachorro se sacuda algo del agua mientras está todavía en la bañera. Algunos perros lo hacen por sí mismos cuando se sienten mojados, otros necesitan un poco de estímulo. Me parece que si le haces cosquillas en la oreja va a pensar que es agua y tratará de sacudirla. Una vez que hayas hecho esto, coge una toalla y quitale la humedad.

@@ -10,7 +10,7 @@ layout: default
         <img src="{{site.url}}/assets/img/articulos/{{ page.image }}" width="400" height="auto" alt="{{ page.title }}">
         </div>
           {% if page.date %}
-            <p class="meta">{{ page.date | date_to_string }} @borders-collies.com</p>
+            <p class="small-8 small-centered columns">{{ page.date | date_to_string }}</p>
           {% endif %}
         <div class="small-8 small-centered columns">
           {{ content }}

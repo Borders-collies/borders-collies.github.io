@@ -30,12 +30,14 @@ Ahora que entiendes por qué tu Border Collie está tirando de la correa cada ve
 
 1. Si tu Border Collie se excita cada vez que sacar la correa, no se la pongas hasta que esté sentado y calmado. Si está saltando, gimiendo y mendigando tenemos que decirle  "No" y luego decirle que se siente. Sólo le pondremos la correa cuando esté sentado y esperando pacientemente.
 
-2. ¿le ponemos la correa? ¡Estupendo! Apuesto a que la emoción está de vuelta. Así que ahora necesitas que se calme de nuevo hasta que se siente tranquilamente. No abras la puerta hasta que el perro se sienta relajado. Probablemente se pondrá más ansioso porque lo estas haciendo esperar, no te preocupes. Esto le enseñará que necesita ser paciente si quiere salir a dar un paseo contigo.
+2. ¿Le ponemos la correa? ¡Estupendo! Apuesto a que la emoción está de vuelta!
+Ahora necesitas que se calme de nuevo hasta que se siente tranquilamente. No abras la puerta hasta que el perro se sienta relajado. Probablemente se pondrá más ansioso porque lo estas haciendo esperar, no te preocupes. Esto le enseñará que necesita ser paciente si quiere salir a dar un paseo contigo.
 
 3. Saca al perro y detente siempre tan pronto como el perro empiece a tirar de la correa. Haz que se siente y espere. Muestrale que tu decides cuándo andas y a donde vas - no dejes que él tire hacia donde quiera ir.
 
 4. Tienes que hacer esto cada vez que lo saques y decirle a otros miembros de la familia que hagan lo mismo cada vez que lo paseen. Forma parte del <a href="{{ site.url }}/como-entrenar-un-cachorro-de-border-collie"> entrenamiento de tu Border Collie.</a>
 
-Entiendo que al principio todos estos pasos no son tampoco divertidos, pero es la práctica necesaria para conseguir que tu perro no tire de la correa. También es una buena idea pasear a tu Border Collie más a menudo, de esta manera aprenderá mucho más rápido.
+Entiendo que al principio todos estos pasos no son divertidos pero son los pasos necesarios para conseguir que tu perro no tire de la correa.
+Otra buena idea es pasear a tu Border Collie más a menudo, de esta manera aprenderá mucho más rápido.
 
 — Sara de borders-collies.com
