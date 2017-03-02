@@ -1,0 +1,12 @@
+---
+layout: "border-collie-videos-individual"
+permalink: "cachorros-border-collie-jugando-con-mama"
+title:  "Cachorros border collie jugando con mama"
+category: "videos"
+date: "2017-03-02"
+permalink: "cachorros-border-collie-jugando-con-mama/"
+video: "https://www.youtube.com/embed/Jf_GJ5n-fZU"
+id-youtube: "uBqvsgTYh4M"
+video-description: "Peripecias de una mama con sus cachorros Border Collie. Jugando, educando, haciendose mimos y descubriendo, este trio no para un momento 😍"
+source: "Youtube"
+---
