@@ -1,6 +1,6 @@
 ---
 layout: "border-collie-videos-individual"
-permalink: "border-collie-perro-más-inteligente-del-mundo"
+permalink: "border-collie-perro-mas-inteligente-del-mundo"
 title:  "Border Collie, ¿El perro más inteligente del mundo?"
 category: "videos"
 date: "2016-12-15"
