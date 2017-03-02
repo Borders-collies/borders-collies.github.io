@@ -48,7 +48,7 @@
 //@include foundation-label;
 @include foundation-media-object;
 @include foundation-off-canvas;
-// @include foundation-orbit;
+@include foundation-orbit;
 @include foundation-pagination;
 // @include foundation-progress-bar;
 // @include foundation-slider;
@@ -65,3 +65,4 @@
 
 @include motion-ui-transitions;
 @include motion-ui-animations;
+@include foundation-flex-video;
