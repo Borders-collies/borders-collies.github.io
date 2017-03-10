@@ -11,10 +11,10 @@ layout: null
         {% for post in site.posts %}
           <item>
             <title>{{ post.title | xml_escape }}</title>
-            {% if post.description %}
-                <description>{{ post.description | xml_escape }}</description>
-            {% elsif post.video-description %}
-                <description>{{ post.video-description | xml_escape }}</description>
+            {% if post.category == 'videos' %}
+              <description>{{ post.video-description | xml_escape }}</description>
+            {% else %}
+              <description>{{ post.content | xml_escape }}</description>
             {% endif %}
             <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
             <link>{{ site.url }}{{ post.url }}</link>
