@@ -37,7 +37,7 @@ Buena señal, está claro que has encontrado al criador de Border Collie apropia
 
 <h3>Donde encontrar un buen criador</h3>
 
-Saber como diferenciar un buen criador de uno malo es la mitad del trabajo. Ahora necesitas saber <a href="{{ site.url }}/direcciones-utiles-para-comprar-o-adoptar-border-collie>donde encontrar uno bueno</a>. Aquí tienes algunas fuentes donde encontrar un cachorro sano disponible:  
+Saber como diferenciar un buen criador de uno malo es la mitad del trabajo. Ahora necesitas saber <a href="{{ site.url }}/direcciones-utiles-para-comprar-o-adoptar-border-collie">donde encontrar uno bueno</a>. Aquí tienes algunas fuentes donde encontrar un cachorro sano disponible:  
 
 - Mira en una asociación registrada de Border Collie
 

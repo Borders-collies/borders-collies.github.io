@@ -12,9 +12,11 @@ layout: null
           <item>
             <title>{{ post.title | xml_escape }}</title>
             {% if post.category == 'videos' %}
-              <description>{{ post.video-description | xml_escape }}</description>
+              <description><iframe class="video-individual" width="640" height="360" src="{{ post.video }}" frameborder="0" allowfullscreen></iframe> <br>
+              {{ post.video-description | xml_escape }}</description>
             {% else %}
-              <description>{{ post.content | xml_escape }}</description>
+              <description><img src="{{site.url}}/assets/img/articulos/{{ post.image }}"/><br>
+              {{ post.content | xml_escape }}</description>
             {% endif %}
             <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
             <link>{{ site.url }}{{ post.url }}</link>
