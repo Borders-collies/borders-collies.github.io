@@ -39,7 +39,11 @@ El tercero es un grupo de Facebook que se dedica a anunciar perros, adultos o ca
 
 - Border collie adopción España-Border collie rescue Spain<a href="https://www.facebook.com/groups/69972707515/"> Facebook</a>
 
-Se publican varios anuncios diarios en todas las paginas asi que es muy probable que si quieres adoptar un Border encuentres
-uno.
+Se publican varios anuncios diarios en todas las paginas asi que es muy probable que si quieres adoptar un Border encuentres uno.
+
+Tienes algo que comentar o aportar? Hay algo que quieres compartir? Estamos encantados de escucharte, mandanos un mensaje a hola@borders-collies.com.
+Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀
+
+Estamos en contacto
 
 — Sara de borders-collies.com

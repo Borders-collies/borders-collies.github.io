@@ -56,4 +56,8 @@ Nos despedimos con un video genial que hemos visto en imgur 😍 del entrenamien
 <img src="{{ site.url }}/assets/img/articulos/entrenamiento-3-meses.GIF" width="560" height="315" frameborder="0" allowfullscreen>
 </div>
 
+Hay algo que quieres compartir? Estamos a tu disposicion, escribenos a hola@borders-collies.com 😀
+
+Estamos en contacto
+
 — Sara de borders-collies.com

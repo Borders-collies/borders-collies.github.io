@@ -40,4 +40,9 @@ Cuando estés visitando la asociación, estaría bien que toda la familia te aco
 
 Por último si no estás seguro de algo pregunta a los trabajadores de la protectora o asociacion estarán encantados en ayudarte.
 
+Tienes algo que comentar o aportar? Hay algo que quieres compartir? Estamos encantados de escucharte, escríbenos a hola@borders-collies.com.
+Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀
+
+Estamos en contacto
+
 — Sara de borders-collies.com

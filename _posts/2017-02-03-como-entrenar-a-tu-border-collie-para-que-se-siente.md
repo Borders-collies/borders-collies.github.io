@@ -30,4 +30,9 @@ Nunca fuerces al perro hacia abajo, aprenderá el truco mucho más rápido si no
 
 Haznos saber en los comentarios cuánto tiempo te llevo entrenar a tu Border Collie a sentarse utilizando este método. Paciencia! hay que practicar un poquito cada dia.
 
+Tienes algo que comentar o aportar? Hay algo que quieres compartir? Estamos encantados de escucharte, escríbenos a hola@borders-collies.com.
+Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀
+
+Estamos en contacto
+
 — Sara de borders-collies.com

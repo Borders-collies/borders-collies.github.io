@@ -73,4 +73,9 @@ Enciende la ducha de nuevo y empieza a enjuagar y quitar el champú del cachorro
 ¡Ya casi has terminado! Todo lo que tienes que hacer es secar al cachorro y habrás acabado.
 La mejor manera de hacerlo es dejar que el cachorro se sacuda algo del agua mientras está todavía en la bañera. Algunos perros lo hacen por sí mismos cuando se sienten mojados, otros necesitan un poco de estímulo. Me parece que si le haces cosquillas en la oreja va a pensar que es agua y tratará de sacudirla. Una vez que hayas hecho esto, coge una toalla y quitale la humedad.
 
+Tienes algo que comentar o aportar? Hay algo que quieres compartir? Estamos encantados de escucharte, escríbenos a hola@borders-collies.com.
+Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀
+
+Estamos en contacto
+
 — Sara de borders-collies.com

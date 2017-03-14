@@ -38,4 +38,8 @@ Otro problema que presentan estas indicaciones es que no saben cuanta actividad 
 
 Las etiquetas se deben utilizar como una guía general, pero sin confiar demasiado en ellas. Se recomienda controlar el peso del perro para una estimación mucho más precisa de cuánto debes alimentar a tu border collie.
 
+Tienes un comentario, una pregunta, ganas de expresar tu opinión o experiencia? Envíanos un mensaje a hola@borders-collies.com.
+
+Cuidate!
+
 — Sara de borders-collies.com

@@ -46,4 +46,9 @@ Hay muchas frutas que no son malas, sin embargo tienes siempre que evitar las se
 
 Si tu perro ha comido alguna de estas cosas, llama a tu veterinario con el peso de tu perro y la cantidad del alimento consumido. Algunos de los alimentos mencionadas anteriormente son inofensivos en pequeñas cantidades y sólo son peligrosas en cantidades más grandes.
 
+Tienes algo que comentar o aportar? Hay algo que quieres compartir? Estamos encantados de escucharte, escríbenos a hola@borders-collies.com.
+Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀
+
+Estamos en contacto
+
 — Sara de borders-collies.com

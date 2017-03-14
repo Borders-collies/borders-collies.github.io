@@ -60,3 +60,10 @@ Hace un tiempo que te das cuenta que amas a los border collies, que este animal 
 ![](https://s3-us-west-2.amazonaws.com/notion-static/bb91386498854d40bde810d0ead5f4fb/PAREJA_BC.jpg)
 
 No estamos locos, simplemente nosotros ❤️️ los Border Collie.
+
+Hay algo que quieres compartir? Estamos encantados de escucharte, escríbenos a hola@borders-collies.com.
+Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros locos del Border Collie 😀
+
+Estamos en contacto
+
+— Sara de borders-collies.com

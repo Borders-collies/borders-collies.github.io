@@ -51,3 +51,10 @@ Siempre se consistente con tu método. Si dejas de jugar con tu cachorro o si gr
 <h4>Consejo de entrenamiento 5</h4>
 
 Dile a otros miembros de la familia y amigos que hagan lo mismo. Tus esfuerzos serán mucho más eficaces si todos los demás reaccionan también de la misma manera. Tu cachorro aprenderá mucho más rápido que morder a otros durante los juegos no es un comportamiento aceptable.
+
+Tienes algo que comentar o aportar? Hay algo que quieres compartir? Estamos encantados de escucharte, escríbenos a hola@borders-collies.com.
+Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀
+
+Estamos en contacto
+
+— Sara de borders-collies.com

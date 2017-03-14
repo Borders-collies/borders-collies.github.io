@@ -27,4 +27,9 @@ El carácter del Border Collie depende también en gran medida de lo aburrido qu
 
 Un juguete que funciona bien es el Kong ya que tiene un objetivo y es que el perro consiga comer los premios que contiene este mordedor en su interior. además el material es muy resistente, y el resultado es duradero.
 
+Tienes algo que comentar o aportar? Hay algo que quieres compartir? Estamos encantados de escucharte, mandanos un mensaje a hola@borders-collies.com.
+Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀
+
+Estamos en contacto
+
 — Sara de borders-collies.com
