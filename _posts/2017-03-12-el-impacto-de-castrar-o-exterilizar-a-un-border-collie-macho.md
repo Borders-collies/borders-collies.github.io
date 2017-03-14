@@ -1,12 +1,12 @@
 ---
 layout: "post"
-title:  "El impacto de castrar o exterilizar a un Border Collie macho"
+title:  "El impacto de castrar o esterilizar a un Border Collie macho"
 date: "2017-03-12 08:00:00"
 image: "border-collie-sombrero.png"
 category: "articulos"
 tags: "cuidados"
 intro: "Quizás te estás preguntando si debes o no debes castrar a tu Border Collie y qué beneficios y desventajas puede conllevar la castración para nuestro amigo perruno."
-description: "Quizás te estás preguntando si debes o no debes castrar a tu Border Collie y qué beneficios y desventajas puede conllevar la castración para nuestro amigo perruno."
+description: "Te estás preguntando si castrar o esterilizar a tu Border Collie? Conoces qué beneficios y desventajas puede conllevar para nuestro amigo perruno?"
 ---
 
 Quizás te estás preguntando si debes o no debes castrar a tu Border Collie y qué beneficios y desventajas puede conllevar para nuestro amigo perruno. Además puede que no estés muy seguro que opciones están a tu disposición, castración o esterilización? algo te suena pero no sabes en qué se diferencian? A continuación te contamos en qué consiste cada una de estas dos técnicas y cómo influyen en el estado físico y mental de tu perro.
