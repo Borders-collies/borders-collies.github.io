@@ -11,10 +11,7 @@ layout: null
         {% for post in site.posts %}
           <item>
             <title>{{ post.title | xml_escape }}</title>
-            {% if post.category == 'videos' %}
-              <description><iframe class="video-individual" width="640" height="360" src="{{ post.video }}" frameborder="0" allowfullscreen></iframe> <br>
-              {{ post.video-description | xml_escape }}</description>
-            {% else %}
+            {% if post.content %}
               <description><img src="{{site.url}}/assets/img/articulos/{{ post.image }}"/><br>
               {{ post.content | xml_escape }}</description>
             {% endif %}
