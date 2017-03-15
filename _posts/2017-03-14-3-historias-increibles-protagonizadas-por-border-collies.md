@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title:  "3 Historias increíble protagonizadas por Border collies"
+title:  "3 Historias increíbles protagonizadas por Border collies"
 date: "2017-03-14 08:00:00"
 image: "3-historias.jpg"
 category: "articulos"
