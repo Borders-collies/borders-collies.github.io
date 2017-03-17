@@ -26,7 +26,7 @@ Así que si llegas a casa y tu perro está mordiendo tus zapatos, primero obtén
 
 <h3>El Border Collie que muerde cosas por aburrimiento</h3>
 
-Si tu Collie sólo muerde cosas cuando lo dejas solo en casa (enlace a Cure Border Collie Separation Anxiety), probablemente lo haga por aburrimiento. El perro seguramente se siente solo cuando te has ido y para mantener su mente ocupada, empieza a morder tu silla favorita, tus zapatos, tu ropa, etc.
+Si tu Collie sólo muerde cosas cuando lo dejas solo en casa, probablemente lo haga por aburrimiento. El perro seguramente se siente solo cuando te has ido y para mantener su mente ocupada, empieza a morder tu silla favorita, tus zapatos, tu ropa, etc.
 Cuando esté en casa puedes dejarle una pelota o hueso de Kong. Este juguete consiste en meter en el interior premios que tu perro irá obteniendo conforme juegue con el juguete. Este artículo puede tenerlo entretenido un rato y evitar que se aburra mientras está solo.
 
 Puedes saber si el perro sabe que ha hecho algo mal o no. Si llegas a casa y ves la silla mordida y a tu Border debajo de la mesa y la cola entre las patas, el perro sabe ha hecho algo mal y se siente culpable. Sin embargo, si tu perro te saluda como si no pasara nada entonces no sabe que morder la silla es malo.
