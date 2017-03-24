@@ -1,6 +1,6 @@
 ---
 layout: "border-collie-videos-individual"
-title:  "Border Collie Cheza nos enseña sus trucos mas divertidos"
+title:  "Cheza, sus trucos mas divertidos"
 permalink: "border-collie-cheza-nos-ensena-sus-trucos-mas-divertido"
 category: "videos"
 date: "2017-01-12 17:00:00"

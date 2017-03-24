@@ -1,6 +1,6 @@
 ---
 layout: "border-collie-videos-individual"
-title:  "Camada de Border Collie vs grupo de patos"
+title:  "Border Collie vs grupo de patos"
 permalink: "camada-de-border-collie-vs-grupo-de-patos"
 category: "videos"
 date: "2017-01-02 17:00:00"

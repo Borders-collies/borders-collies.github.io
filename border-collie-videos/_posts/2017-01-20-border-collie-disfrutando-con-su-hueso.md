@@ -1,6 +1,6 @@
 ---
 layout: "border-collie-videos-individual"
-title:  "Border collie disfrutando con su hueso"
+title:  "BC disfrutando con su hueso"
 permalink: "border-collie-disfrutando-con-su-hueso"
 category: "videos"
 date: "2017-01-20 17:00:00"

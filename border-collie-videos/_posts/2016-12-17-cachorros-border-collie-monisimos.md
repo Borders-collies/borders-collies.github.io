@@ -1,7 +1,7 @@
 ---
 layout: "border-collie-videos-individual"
 permalink: "cachorros-border-collie-monisimos"
-title:  "Cachorros de Border Collie monísimos"
+title:  "Cachorros BC pastoreando"
 category: "videos"
 date: "2017-01-02 17:00:00"
 video: "https://www.youtube.com/embed/H6rFm3jhrVU"
