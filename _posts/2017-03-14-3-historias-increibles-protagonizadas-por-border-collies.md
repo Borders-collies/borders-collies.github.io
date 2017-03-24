@@ -9,7 +9,7 @@ intro: "Hoy solo queremos hacernos eco y compartir con vosotros tres historias c
 description: "Ya sabemos que los Borders Collies son muy listos, no queremos repetirnos hoy solo queremos hacernos eco y compartir con vosotros tres historias diferentes, conmovedoras y que no te dejan indiferente en las que los border collies son los protagonistas."
 ---
 
-Ya sabemos que los Borders Collies son unos perros muy listos y no queremos repetirnos, hoy solo vamos a hacernos eco y compartir con vosotros tres historias diferentes y conmovedoras que tienen a los border collies como protagonistas.
+Ya sabemos que los Borders Collies son unos perros muy listos y no queremos repetirnos, hoy solo vamos a hacernos eco y compartir con vosotros tres historias diferentes y conmovedoras que tienen a los <a href="{{ site.url }}/raza-de-perro-border-collie/">border collies</a> como protagonistas.
 
  **No importa lo lejos que estes porque te encontraré**
 

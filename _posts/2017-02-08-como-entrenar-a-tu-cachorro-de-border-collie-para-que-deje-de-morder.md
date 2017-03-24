@@ -10,7 +10,7 @@ description: "Tu cachorro de Border Collie te ha salido morderdor? Te damos los 
 ---
 
 Cualquier persona que ha tenido un cachorro ha tenido algún tipo de experiencia con este problema en particular. Empiezas a jugar con tu cachorro y durante el juego se emociona demasiado y te muerde. O mientras juegas en la calle empiezas a correr y tu Border Collie comienza a perseguirte y a morderte las piernas.
-Este es un problema común con muchos cachorros. Por mucho que te guste jugar con tu perro, la mordedura constante puede arruinar su diversión, por no mencionar tu ropa que probablemente estará llenos de agujeros ya del pequeño mordedor.
+Este es un problema común con muchos cachorros. Por mucho que te guste jugar con tu perro, la mordedura constante puede arruinar su diversión, por no mencionar tu ropa que probablemente estará llena de agujeros ya del pequeño mordedor.
 
 Por lo general, los cachorros superan este tipo de comportamiento en el momento en que llegan a la edad adulta y no muerden más. A veces sin embargo, si no aprenden que el morder no es la manera divertida de jugar, pueden guardar este hábito en la vida adulta. Por lo tanto, es mejor que hagas algo y detengas los mordiscos antes de que empiecen a doler de verdad.
 
@@ -22,7 +22,8 @@ Así que cuando se emocionan y realmente quieren jugar contigo, están obligados
 
 Por lo general, los cachorros aprenden que morder duele y que nadie jugara con ellos siempre como sus hermanos. Cuando uno de los cachorros de Border Collie muerde otro demasiado fuerte, el que ha sido mordido aúlla y deja de jugar con el mordedor. Al principio, el mordedor podría no darse cuenta de por qué la diversión se detuvo, pero después de un par de juegos más donde eso sucede, aprenderá que morder demasiado duro terminará el juego.
 
-Sin embargo, si el cachorro es separado de sus hermanos demasiado pronto, no tendrá la oportunidad de aprender todo esto. Desafortunadamente para ti y para tus manos, esto significa que continuará mordiendo mientras que juega como antes. Afortunadamente, sin embargo, hay muchas maneras de entrenar a tu cachorro Border Collie para que deje de morder.
+Sin embargo, si el cachorro es separado de sus hermanos demasiado pronto, no tendrá la oportunidad de aprender como gestionar el juego. Desafortunadamente para ti y para tus manos, esto significa que continuará mordiendo mientras juega como hacia antes.
+Por suerte hay muchas maneras de entrenar a tu cachorro Border Collie para que deje de morder y te vamos a explicar algunas de ellas.
 
 <div class="text-center">
   <img src= "{{site.url}}/assets/img/articulos/border-collie-deje-de-morder.jpg" width="550" height="auto" alt="Cachorro border collie">

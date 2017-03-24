@@ -9,7 +9,7 @@ intro: "Sit es una de las órdenes básicas y la más fácil que puedes enseñar
 description: "Te explicamos como educar y entrenar a tu Border Collie para enseñarle una de las primeras ordenes basicas, sit o sentarse"
 ---
 
-Sit es una de las órdenes básicas y la más fácil que puedes enseñar a un Border Collie. Puedes empezar el entrenamiento de tu Border Collie de este truco, incluso cuando es un cachorros. Todo lo que necesitas para practicar es un poco de tiempo y premios.
+Sit es una de las <a href="{{ site.url }}/como-entrenar-un-cachorro-de-border-collie/">órdenes básicas</a> y la más fácil que puedes enseñar a un Border Collie. Puedes empezar el entrenamiento de tu Border Collie de este truco, incluso cuando es un cachorros. Todo lo que necesitas para practicar es un poco de tiempo y premios.
 
 Hay una gran cantidad de métodos para enseñar este truco. Desde mi experiencia el que os voy a proponer no me ha fallado. El cachorro aprende el truco muy rápido y no tienes que tocar o forzar al perro para que se siente.
 Enseñando la orden “Sit”

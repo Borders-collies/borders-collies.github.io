@@ -27,13 +27,13 @@ A pesar de que la raza no contaba con un nombre hasta ese momento, los Border Co
 
 La gente ha empezado a adquirir Border Collies atraídos por su imagen de inteligencia, energía y las ganas que tienen de trabajar con personas. Aunque la principal función de estos animales es el trabajo en el campo, se han vuelto populares como mascotas, ya que son muy listos y  juguetones.
 
-Sin embargo el Border Collie no es un ¨perro de casa¨, necesitan espacio, y actividad tanto física, ejercicios, juegos, como mental. Estas características los convierte en unas mascotas exigentes, no aptas para cualquiera.
+Sin embargo el <a href="{{ site.url }}/el-caracter-del-border-collie/">Border Collie no es un ¨perro de casa¨</a>, necesitan espacio, y actividad tanto física, ejercicios, juegos, como mental. Estas características los convierte en unas mascotas exigentes, no aptas para cualquiera.
 
 En un entorno apropiado y con un dueño comprometido y que desee sacar lo mejor de esta energética raza pueden ser la mascota perfecta.
 
 El adiestramiento de un Border Collie debe comenzar pronto, mientras es todavía un cachorro, simplemente porque es más fácil entrenar a un perro cuando su cerebro está todavía desarrollándose.
 
-Además los Borders son muy populares entre los entrenadores porque son obedientes y entusiastas cuando tienen que trabajar. Como hemos señalado anteriormente son muy inteligentes y les gusta aprender cosas nuevas por lo que es muy fácil trabajar con ellos esto hace que los adiestradores de perros los adoren.
+Además los Borders son muy populares entre los entrenadores porque son obedientes y entusiastas cuando tienen que trabajar. Como hemos señalado anteriormente son muy inteligentes y les gusta aprender cosas nuevas por lo que es muy fácil <a href="{{ site.url }}/como-entrenar-un-cachorro-de-border-collie/">trabajar con ellos</a> esto hace que los adiestradores de perros los adoren.
 
 Tienes algo que comentar o aportar? Hay algo que quieres compartir? Estamos encantados de escucharte, mandanos un mensaje a hola@borders-collies.com.
 Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀

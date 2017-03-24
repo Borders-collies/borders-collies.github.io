@@ -9,7 +9,7 @@ intro: "Hace un tiempo que te das cuenta que amas a los border collies, que este
 description: "Hace un tiempo que te das cuenta que amas a los border collies, que este animal es una pasion para ti. Te contamos 10 señales inequivocas que demuestran que eres un apasionado de estos peludos."
 ---
 
-Hace un tiempo que te das cuenta que amas a los border collies, que este animal es una pasion para ti. Te contamos 10 señales inequivocas que demuestran que eres un apasionado de estos peludos.
+Hace un tiempo que te das cuenta que amas a los <a href="{{ site.url }}/raza-de-perro-border-collie/">border collies</a>, que este animal es una pasion para ti. Te contamos 10 señales inequivocas que demuestran que eres un apasionado de estos peludos.
 
 1) Esta es una foto real de ti en el futuro. Casa en el campo + camada.
 

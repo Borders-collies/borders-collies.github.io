@@ -11,7 +11,7 @@ description: "Un check list a tener en cuenta antes de adoptar un border collie"
 
 Adoptar un Border Collie es una forma genial de encontrar un nuevo compañero y al mismo tiempo de dar a un perro adulto una segunda oportunidad. Sin embargo hay ciertas “señales de peligro” que debes tener en cuenta antes de la adopción.  
 
-Normalmente antes de adoptar la protectora o asociación te realizará una entrevista personal para encontrar el perro que se adapte mejor a tu hogar y estilo de vida.
+Normalmente antes de <a href="{{ site.url }}/direcciones-utiles-para-comprar-o-adoptar-border-collie/">adoptar</a> la protectora o asociación te realizará una entrevista personal para encontrar el perro que se adapte mejor a tu hogar y estilo de vida.
 Aún así, es mejor tener las ideas claras y saber exactamente lo que buscas para asegurarte de que las cosas van a funcionar sin problemas.
 
 Antes de dejarte llevar por las ganas de adoptar, te invitamos a pensar sobre estas ideas importantes que te ayudarán a tomar tu decisión.  
