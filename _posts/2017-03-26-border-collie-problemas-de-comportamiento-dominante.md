@@ -9,7 +9,7 @@ intro: "Hay un par de señales a las que necesitar prestar atención si sospecha
 description: "Hay un par de señales a las que necesitar prestar atención si sospechas que tu perro ha desarrollado problemas de dominancia."
 ---
 
-Hay un par de señales a las que necesitaS prestar atención si sospechas que tu perro ha desarrollado problemas de dominancia. Si tu perro tiene un par de los hábitos de comportamiento enumerados a continuación, no significa necesariamente que tu Border collie tenga un comportamiento dominante. A veces es fácil confundir la dominación con el comportamiento normal del perro, así que no saques conclusiones demasiado rápido.
+Hay un par de señales a las que necesitas prestar atención si sospechas que tu perro ha desarrollado problemas de dominancia. Si tu perro tiene un par de los hábitos de comportamiento enumerados a continuación, no significa necesariamente que tu Border collie tenga un comportamiento dominante. A veces es fácil confundir la dominación con el comportamiento normal del perro, así que no saques conclusiones demasiado rápido.
 
  **Tirar de la correa**
 
