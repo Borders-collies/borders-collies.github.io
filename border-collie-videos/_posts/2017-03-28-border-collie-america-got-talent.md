@@ -3,7 +3,7 @@ layout: "border-collie-videos-individual"
 permalink: "border-collie-america-got-talent"
 title:  "BC en America Got Talent"
 category: "videos"
-date: "2017-03-24 08:00:00"
+date: "2017-03-28 08:00:00"
 video: "https://www.youtube.com/watch?v=TBs2xDAX6wY"
 id-youtube: "TBs2xDAX6wY"
 video-description: "Una historia muy bonita detrás de la participación de esta pareja de Border Collie y su dueño en el programa de la edición 2016 de America Got Talent.
