@@ -4,7 +4,7 @@ title:  "Comida para perros: pienso seco o comida en lata"
 date: "2017-03-28 08:00:00"
 image: "comida-para-perros-pienso-seco-o-comida-enlatada.png"
 category: "articulos"
-tags: "adiestramiento"
+tags: "cuidados"
 intro: "Los dos tipos más populares de alimentos para perros en el mercado son el pienso seco o la comida enlatada, a la hora de la verdad, cuál es mejor?"
 description: "Los dos tipos más populares de alimentos para perros en el mercado son el pienso seco (o croquetas), que la mayoría de los propietarios parecen elegir para sus Border Collies, o la comida enlatada, que parece sabrosa y deliciosa. Pero, a la hora de la verdad, cual es mejor?"
 ---
