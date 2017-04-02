@@ -1,5 +1,5 @@
 ---
-permalink: "descripcion-confirmada-descargar-la-guía-para-elegir-tu-border-collie/"
+permalink: "inscripcion-confirmada-descargar-la-guia-para-elegir-tu-border-collie/"
 layout: page
 description: "Inscripción confirmada descargar la guía para elegir tu Border Collie"
 ---
