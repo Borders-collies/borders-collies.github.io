@@ -1,6 +1,6 @@
 ---
 permalink: "descargar-la-guia-para-elegir-tu-border-collie/"
-layout: default
+layout: page
 title: Descargar la guia para elegir tu Border Collie
 description: "Descargar la guia para elegir tu Border Collie"
 ---
