@@ -1,6 +1,7 @@
 ---
 permalink: "inscripcion-confirmada-descargar-la-guia-para-elegir-tu-border-collie/"
 layout: page
+title: Inscripción confirmada
 description: "Inscripción confirmada descargar la guía para elegir tu Border Collie"
 ---
 
