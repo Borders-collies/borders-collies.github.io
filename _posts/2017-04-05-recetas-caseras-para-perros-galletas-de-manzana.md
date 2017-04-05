@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title:  "Recetas caseras para perros: Galletas de manzana"
-date: "2017-04-04 08:00:00"
+date: "2017-04-05 08:00:00"
 image: "recetas-caseras-para-perros-galletas-de-manzana.jpg"
 category: "articulos"
 tags: "cuidados"
