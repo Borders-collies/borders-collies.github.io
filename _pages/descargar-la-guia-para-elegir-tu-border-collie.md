@@ -11,7 +11,7 @@ description: "Descargar la guia para elegir tu Border Collie"
     <h4 class="text-center">Por qué?<br> Para estar seguros de que nuestros mensaje son para ti.</h4>
     <h4 class="text-center">Mientras esperas el email de confirmacion que debe estar al llegar, gracias por tu tiempo y tu confianza!</h4>
     <div class="text-center">
-     <iframe src="//giphy.com/embed/fsw1xeISsGhW" width="480" height="313.6" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-dog-puppy-fsw1xeISsGhW">via GIPHY</a></p>
+        <img src= "{{site.url}}/assets/img/articulos/la-guia-para-elegir-tu-border-collie.gif" width="500" height="auto" alt="{{ post.title }}">
     </div>
   </div>
-</main>
+  <p class="text-center"><a href="https://giphy.com/gifs/cat-dog-puppy-fsw1xeISsGhW/download">giphy</a>
