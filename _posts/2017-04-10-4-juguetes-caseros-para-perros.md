@@ -2,7 +2,7 @@
 layout: "post"
 title:  "4 Juguetes caseros para perros"
 date: "2017-04-10 08:00:00"
-image: "4-juguetes-caseros-para-perros-2.jpg"
+image: "4-juguetes-caseros-para-perros.jpg"
 category: "articulos"
 tags: "cuidados"
 intro: "El Do it yourself, más que una moda pasajera es una filosofía de vida que ha llegado para quedarse. Tras implantarse en nuestros hogares, donde cada vez más nos remangamos la camisa para decorar y..."
