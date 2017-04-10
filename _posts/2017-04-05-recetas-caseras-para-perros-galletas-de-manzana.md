@@ -45,7 +45,7 @@ Hay que tener en cuenta que la manzana es una de las frutas mas tratadas, asi qu
 Y por último y lo más importante ve a entrenar con tu Border Collie y llevate algunas para que las pruebe, seguro que le encantan!
 
 <div class="text-center">
-<img src= "{{site.url}}/assets/img/articulos/recetas-caseras-para-perros-galletas-de-manzana-border.jpg" width="500" height="auto" alt="{{ post.title }}">
+  <img src= "{{site.url}}/assets/img/articulos/recetas-caseras-para-perros-galletas-de-manzana-border.jpg" width="500" height="auto" alt="{{ post.title }}">
 </div>
 
 Te animas a probar esta receta? Si lo haces estaremos encantados de que nos cuentes qué le parece a tu perro. Escríbenos a hola@borders-collies.com.
