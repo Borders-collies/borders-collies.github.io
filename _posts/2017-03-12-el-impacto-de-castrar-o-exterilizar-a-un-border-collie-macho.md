@@ -87,6 +87,8 @@ La respuesta también es positiva. Como hemos visto la esterilización ofrece be
 
 Ahora que conoces las dos opciones puedes valorar junto con tu veterinario cual puede ser mas idonea para tu Border Collie en función de su carácter y edad.
 
+Si quieres descubrir más consejos para cuidar a tu perro es por<a href="{{ site.url }}/border-collie-cuidados/"> aquí</a>.
+
 Quieres compartir tu experiencia y la de tu perro? Estamos encantados de escucharte, escríbenos a hola@borders-collies.com.
 Te ha gustado lo que te hemos contado? comparte nuestro artículo con otros amantes del Border Collie 😀
 

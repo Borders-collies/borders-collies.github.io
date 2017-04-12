@@ -63,9 +63,11 @@ Primero cepilla a tu cachorro para deshacerte del cabello suelto y desenredar el
 Yo uso el cabezal de ducha para este paso. Si no puedes usar la suya, puedes hacerlo con una jarra o, si lo haces en el exterior, usar una manguera de agua. Comienza desde la parte superior y moja completamente el pelo de su perro. Ten mucho cuidado y trata de no meter agua en las orejas del cachorro.
 
 <h4>Paso 4 - Pon champú al cachorro</h4>
+
 Ahora que está todo mojado, es hora de empezar a lavar tu cachorro. Comienza desde la parte superior y trabaja hacia abajo. Al hacer la cabeza y la cara, no uses el guante. Masajea el champú en el pelaje con los dedos y tratar de evitar que le entre algo en los ojos. Luego continúa con el guante por su cuello, la espalda, el trasero, el pecho, sigue por el vientre dejando las piernas y los pies para el final.
 
 <h4>Paso 5 - Enjuaga a tu cachorro</h4>
+
 Enciende la ducha de nuevo y empieza a enjuagar y quitar el champú del cachorro. Una vez más, comienza desde la parte superior y trabaja hacia abajo. Ten mucho cuidado al enjuagar al cachorro ya que no querrás que le queden restos en su pelaje.
 
 <h4>Paso 6 - Seca a tu Border Collie</h4>
@@ -73,7 +75,10 @@ Enciende la ducha de nuevo y empieza a enjuagar y quitar el champú del cachorro
 ¡Ya casi has terminado! Todo lo que tienes que hacer es secar al cachorro y habrás acabado.
 La mejor manera de hacerlo es dejar que el cachorro se sacuda algo del agua mientras está todavía en la bañera. Algunos perros lo hacen por sí mismos cuando se sienten mojados, otros necesitan un poco de estímulo. Me parece que si le haces cosquillas en la oreja va a pensar que es agua y tratará de sacudirla. Una vez que hayas hecho esto, coge una toalla y quitale la humedad.
 
-Tienes algo que comentar o aportar? Hay algo que quieres compartir? Estamos encantados de escucharte, escríbenos a hola@borders-collies.com.
+El resultado? un perro bien limpio!
+Si quieres ver otros consejos para cuidar a tu perro es por <a href="{{ site.url }}/border-collie-cuidados/">aquí</a>.
+
+Tienes algo que comentar o aportar?Estamos encantados de escucharte, escríbenos a hola@borders-collies.com.
 Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀
 
 Estamos en contacto

@@ -23,9 +23,11 @@ Como hemos comentado, <a href="{{ site.url }}/raza-de-perro-border-collie/">el o
 
 Creo que no se puede hacer suficiente hincapié en la cantidad de energía que tienen estos perros, así que si no estás dispuesto a trabajar con él y a comprometerte  es mejor que no tengas uno. Si no será un desastre tanto para tí como para el perro .
 
-El carácter del Border Collie depende también en gran medida de lo aburrido que este. Si estás en el trabajo todo el día y tu BC está encerrado en casa sin nada que hacer es sólo cuestión de tiempo que comience a actuar de forma negativa. Asegúrate de dejarle un juguete para mantenerlo ocupado y que tenga algo que hacer. Los BC tienen que estar a menudo haciendo algo, así que trata de ser creativo.  Con ellos puedes estar constantemente enseñándoles nuevos trucos y órdenes.
+El carácter del Border Collie depende también en gran medida de lo aburrido que este. Si estás en el trabajo todo el día y tu BC está encerrado en casa sin nada que hacer es sólo cuestión de tiempo que comience a actuar de forma negativa. Asegúrate de dejarle un juguete para mantenerlo ocupado y que tenga algo que hacer. Los BC tienen que estar a menudo haciendo algo, así que trata de ser creativo.  Con ellos puedes estar constantemente enseñándoles <a href="{{ site.url }}/border-collie-adiestramiento/">nuevos trucos y órdenes</a>.
 
-Un juguete que funciona bien es el Kong ya que tiene un objetivo y es que el perro consiga comer los premios que contiene este mordedor en su interior. además el material es muy resistente, y el resultado es duradero.
+Un juguete que funciona bien es el Kong ya que tiene un objetivo y es que el perro consiga comer los premios que contiene este mordedor en su interior. Además el material es muy resistente, y el resultado es duradero.
+
+Si te gusta hacer las cosas tu mismo echa un vistazo a estas ideas de <a href="{{ site.url }}/4-juguetes-caseros-para-perros/">juguetes caseros para perros</a>.
 
 Tienes algo que comentar o aportar? Hay algo que quieres compartir? Estamos encantados de escucharte, mandanos un mensaje a hola@borders-collies.com.
 Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀

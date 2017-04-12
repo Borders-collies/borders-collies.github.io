@@ -65,6 +65,9 @@ Segun diferentes test realizados por la <a href="http://revista.dgt.es/es/sabia-
 Ahora que conoces las diferentes posibilidades esta en tu mano decidir como viajas con tu Border Collie. Buen viaje! 🌇 🚗
 
 Quieres compartir tu experiencia y la de tu perro? Estamos encantados de escucharte, escríbenos a hola@borders-collies.com.<br>
+
+Si quieres descubrir más consejos para cuidar a tu perro es por<a href="{{ site.url }}/border-collie-cuidados/"> aquí</a>.
+
 Te ha gustado lo que te hemos contado? comparte nuestro artículo con otros amantes del Border Collie 😀
 
 Estamos en contacto

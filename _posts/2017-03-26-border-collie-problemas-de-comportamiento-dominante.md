@@ -21,7 +21,7 @@ Si tu perro comienza a gruñir o desconfía de que toques su plato cuando está 
 
  **Mendigar comida**
 
-Esta señal es otro de esos "tal vez". Mendigar constantemente por comida, incluso después de una comida, puede significar que el perro piensa que él merece comer primero, en lugar de ti. Otras veces simplemente puede significar que tu perro adora la comida humana y que quiere un poco.
+Esta señal es otro de esos "tal vez". Mendigar constantemente por [comida](http://www.borders-collies.com/alimentos-toxicos-para-tu-border-collie/), incluso después de una comida, puede significar que el perro piensa que él merece comer primero, en lugar de ti. Otras veces simplemente puede significar que tu perro adora la comida humana y que quiere un poco.
 
  **Se niega a escucharte**
 
@@ -88,6 +88,8 @@ Controlar la comida es una cosa, pero castigarlo sin darle de comer es directame
 La persona que te dio ese consejo no sabe nada sobre Border Collies.
 
 Tu Border Collie ha tenido un comportamiento dominante? Como has reaccionado? Comparte con nosotros tu historia enviandonos un mensaje a hola@borders-collies.com.<br>
+
+Continua el entrenamiento de tu Border Collie con<a href="{{ site.url }}/border-collie-adiestramiento/"> estos consejos</a>.
 
 Si te ha gustado lo que te hemos contado, haz llegar este artículo a otros amantes de los Border Collies 😃
 

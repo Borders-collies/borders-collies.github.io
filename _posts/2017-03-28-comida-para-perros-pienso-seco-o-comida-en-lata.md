@@ -110,6 +110,8 @@ Asi conseguiremos que tu perro tenga que morder comida dura, lo que beneficiará
 
 Y tú qué comida prefieres para tu perro? comparte tu opinión con nosotros en hola@borders-collies.com 😃
 
+Puedes consultar otros consejos sobre como cuidar a tu perro <a href="{{ site.url }}/border-collie-cuidados/">aquí</a>.
+
 Que tengas buen día!
 
 — Sara de borders-collies.com

@@ -11,7 +11,7 @@ description: "Algunos consejos que te ayudaran a encontrar un buen ciador de Bor
 
 Por desgracia no todo el mundo es sincero y honesto en lo que se refiere a la cría de perros. Desde que la venta de  mascotas  da mucho dinero algunas personas quieren sacar provecho a cualquier precio.
 
-Si has decidido comprar un cachorro de Border Collie tienes que asegurarte de que el criador que has elegido cuida y se preocupa de los perros que cría.
+Si has decidido comprar un cachorro de <a href="{{ site.url }}/el-caracter-del-border-collie/">Border Collie</a> tienes que asegurarte de que el criador que has elegido cuida y se preocupa de los perros que cría.
 
 Un buen criador de border collie tendrá cachorros mucho más sanos y felices que el que es una simple "fábrica de cachorros". Así que antes incluso de mirar si tienen perros disponibles en venta, te aconsejo que hables con el criador y le hagas algunas preguntas para asegurarte de que estas comprando tu perro a la persona adecuada.
 

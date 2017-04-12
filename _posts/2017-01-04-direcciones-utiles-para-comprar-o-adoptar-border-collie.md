@@ -9,7 +9,7 @@ intro: "Algunas direcciones útiles de asociaciones de club de Border Collie en 
 description: "Listado de asociaciones para encontrar un buen criador de Border Collie y para adoptar un Border Collie"
 ---
 
-Ya hemos hecho una lista con los puntos a tener en cuenta para <a href="{{ site.url }}/como-encontrar-un-buen-criador-de-border-collie/">encontrar un buen cuidador</a>, a continuación hemos preparado una lista con direcciones útiles de asociaciones de club de Border Collie en España donde podrás dirigirte para pedir referencias de criadores para comprar tu Border Collie.
+Ya hemos hecho una lista con los puntos a tener en cuenta para <a href="{{ site.url }}/como-encontrar-un-buen-criador-de-border-collie/">encontrar un buen cuidador</a>, a continuación hemos preparado una lista con direcciones útiles de asociaciones de club de Border Collie en España donde podrás dirigirte para pedir referencias de criadores para comprar tu <a href="{{ site.url }}/raza-de-perro-border-collie/">Border Collie</a>.
 
 Es hora de poner en práctica los consejos para encontrar ¨El criador¨ donde adquirir a tu BC. Aquí te dejo dos referencias:
 

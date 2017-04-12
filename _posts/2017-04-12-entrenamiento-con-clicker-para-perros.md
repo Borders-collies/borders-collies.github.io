@@ -41,7 +41,7 @@ Con el clicker tenemos que ser precios. Pensar cuál es la orden que queremos qu
 ¿Te estás preguntando si deberías usar el clicker para entrenar a tu Border Collie?
 Bueno, hay algunos beneficios de hacerlo, pero esos beneficios no son para todos.
 
-El entrenamiento con clicker para perros por lo general sólo vale la pena si planeas enseñar a tu perro un montón de trucos o pasar mucho tiempo formandolo. En caso contrario el uso de solo premios funcionará correctamente.
+El entrenamiento con clicker para perros por lo general sólo vale la pena si planeas enseñar a tu perro un <a href="{{ site.url }}/border-collie-adiestramiento/">montón de trucos</a> o pasar mucho tiempo formandolo. En caso contrario el uso de solo premios funcionará correctamente, y mas si son <a href="{{ site.url }}/recetas-caseras-para-perros-galletas-de-manzana/">galletas caseras</a>.
 
 El principal **beneficio** del clicker es que se trata de un **método positivo** para indicar el **buen comportamiento**. Además, el **sonido** del clicker tiene la ventaja de **destacar** entre otros sonidos ambientales o normales (como la voz).
 

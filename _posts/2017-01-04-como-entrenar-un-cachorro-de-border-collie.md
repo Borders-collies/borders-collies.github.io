@@ -15,7 +15,9 @@ Ahora déjame decirte que es muy importante entrenar a tu Border Collie mientras
 
 <h3>Entrenamiento de obediencia</h3>
 
-Hay una leyenda urbana  que dice que no es necesario el entrenamiento ni la obediencia si tu perro no te está todavía desobedeciendo. Sin embargo esto no es cierto. Un entrenamiento en obediencia va a enseñar a tu perro a relacionarse con personas. Se trata de enseñarle normas básicas, a que no salte a la gente, a no morderte o a no ponerse pesado suplicando comida, incluso antes de que comience a hacer todas estas cosas. No tienes que esperar a que tu perro tenga estos malos hábitos para corregirlos porque entonces será mucho más difícil deshacer estas costumbres y obtener un buen comportamiento. La obediencia no se usa sólo para arreglar problemas de comportamiento sino también para prevenirlos.
+Hay una leyenda urbana  que dice que no es necesario el entrenamiento ni la obediencia si tu perro no te está todavía desobedeciendo. Sin embargo esto no es cierto. Un entrenamiento en obediencia va a enseñar a tu perro a relacionarse con personas. Se trata de enseñarle normas básicas, a que no salte a la gente, a no morderte o a no ponerse pesado suplicando comida, incluso antes de que comience a hacer todas estas cosas.
+
+No tienes que esperar a que tu perro tenga estos malos hábitos para corregirlos porque entonces será mucho más difícil deshacer estas costumbres y obtener un buen comportamiento. La obediencia no se usa sólo para arreglar problemas de comportamiento sino también para prevenirlos.
 
 <h3>Trucos para entrenar a tu cachorro</h3>
 
@@ -53,8 +55,10 @@ Práctica cada truco individualmente y haz que lo repita entre 3 y 4 veces segui
 Nos despedimos con un video genial que hemos visto en imgur 😍 del entrenamientos a una Border Collie de 3 meses:
 
 <div class="text-center">
-<img src="{{ site.url }}/assets/img/articulos/entrenamiento-3-meses.gif" width="560" height="315" frameborder="0" allowfullscreen>
+  <img src="{{ site.url }}/assets/img/articulos/entrenamiento-3-meses.gif" width="560" height="315" frameborder="0" allowfullscreen>
 </div>
+
+Si quieres ver mas videos chulos con otros trucos que puedes enseñar a tu Border Collie visita esta <a href="{{ site.url }}/border-collie-videos/">sección.</a>
 
 Hay algo que quieres compartir? Estamos a tu disposicion, escribenos a hola@borders-collies.com 😀
 

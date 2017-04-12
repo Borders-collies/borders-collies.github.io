@@ -5,8 +5,7 @@ date: "2017-01-04 17:23:57"
 image: "comida-venenosa-para-tu-border-collie-2.png"
 category: "articulos"
 tags: "cuidados"
-intro: "Si tu Border Collie es como la mayoría, apuesto a que nunca se cansa de comer comida de personas.
-Es fácil dejarse llevar por esos ojitos..."
+intro: "Si tu Border Collie es como la mayoría, apuesto a que nunca se cansa de comer comida de personas. Es fácil dejarse llevar por esos ojitos..."
 description: "Informate sobre cuales son los alimentos que no debes dar bajo ningun concepto a tu Border Collie"
 ---
 
@@ -46,8 +45,11 @@ Hay muchas frutas que no son malas, sin embargo tienes siempre que evitar las se
 
 Si tu perro ha comido alguna de estas cosas, llama a tu veterinario con el peso de tu perro y la cantidad del alimento consumido. Algunos de los alimentos mencionadas anteriormente son inofensivos en pequeñas cantidades y sólo son peligrosas en cantidades más grandes.
 
-Tienes algo que comentar o aportar? Hay algo que quieres compartir? Estamos encantados de escucharte, escríbenos a hola@borders-collies.com.
-Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀
+Si te apetece darle un capricho sano a tu perro consulta esta <a href="{{ site.url }}/recetas-caseras-para-perros-galletas-de-manzana/">receta casera de galletas de manzana</a>.
+
+Hay algo que quieres compartir? Escríbenos a hola@borders-collies.com, estamos encantados de escucharte.
+
+Si te ha gustado este artículo compártelo con otras personas que tengan un border collie 😀 y síguenos en <a href="https://www.facebook.com/borderscolliescom/">facebook</a>.
 
 Estamos en contacto
 

@@ -50,6 +50,8 @@ Y por último y lo más importante ve a entrenar con tu Border Collie y llevate 
 
 Te animas a probar esta receta? Si lo haces estaremos encantados de que nos cuentes qué le parece a tu perro. Escríbenos a hola@borders-collies.com.
 
+Si quieres descubrir más consejos para cuidar a tu perro es por<a href="{{ site.url }}/border-collie-cuidados/"> aquí</a>.
+
 Si te ha gustado esta receta comparte este artículo con otras personas que tengan perro 😀 y síguenos en <a href="https://www.facebook.com/borderscolliescom/">facebook</a>.
 
 Estamos en contacto

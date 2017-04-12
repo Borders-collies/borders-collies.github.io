@@ -64,6 +64,8 @@ Si esto no funciona prueba a dejar la radio o la televisión en marcha mientras 
 
 Te ha salido un Border collie hablador? Quieres compartir tu experiencia sobre los ladridos de tu perro con otros lectores? Mandanos un mensaje a hola@borders-collies.com.<br>
 
+Continua el entrenamiento de tu Border Collie con<a href="{{ site.url }}/border-collie-adiestramiento/"> estos consejos</a>.
+
 Te ha gustado lo que te hemos contado? Haz llegar nuestro artículo a otros amantes del Border Collie 😀
 
 Estamos en contacto
