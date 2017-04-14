@@ -67,7 +67,7 @@ Cuando estén listos ya puedes darselos a tu perro para que los disfrute.
 
 Se pueden guardar en el frigo hasta 3 días o un mes como máximo en el congelador.
 
-Te animas a probar esta receta? Si lo haces estaremos encantados de que nos cuentes qué le parece a tu perro. Escríbenos a hola@borders-collies.com.
+Te animas a probar esta receta? Si lo haces estaremos encantados de que nos cuentes qué le parece a tu perro. Escríbenos a hola@borders-collies.com
 
 Puedes encontrar más consejos para cuidar a tu perro en nuestra [sección dedicada](http://www.borders-collies.com/border-collie-cuidados/).
 
