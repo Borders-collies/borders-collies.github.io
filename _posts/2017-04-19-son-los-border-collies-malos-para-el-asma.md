@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title:  "¿Son los Border Collie malos para el asma?"
-date: "2017-04-17 08:00:00"
+date: "2017-04-19 08:00:00"
 image: "border-collies-y-el-asma.jpg"
 category: "articulos"
 tags: "cuidados"
