@@ -34,7 +34,7 @@ La doble capa de pelo del border collie ayuda a mantenerlo caliente en invierno 
 Para mantenerse cómodo sin importar la temperatura exterior el Border Collie, como otros tantos perros de muda, con **cada temporada** muda su pelo para asegurarse de que tiene el espesor perfecto. Esta pérdida libera grandes cantidades de caspa en el medio ambiente, ya que nuestro perro deja pelo por todas partes por las que pasa o cuando se sacude. Para las personas asmáticas sensibles a la caspa puede representar un gran problema.
 
 <div class="text-center">
- <img src= "{{site.url}}/assets/img/articulos/son-los-border-collies-malos-para-el-asma.jpg" width="650" height="auto" alt="{{ post.title }}">
+ <img src= "{{site.url}}/assets/img/articulos/son-los-border-collies-malos-para-el-asma.jpg" width="500" height="auto" alt="{{ post.title }}">
 </div>
 <p class="text-center">Puedo quitarte el aliento, o tal vez no... 😎</p>
 
