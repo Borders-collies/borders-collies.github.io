@@ -23,6 +23,8 @@ El término “Border Collie” se utilizo por primera vez en 1915. El secretari
 
 A pesar de que la raza no contaba con un nombre hasta ese momento, los Border Collies habían trabajado con muchos pastores en las inmediaciones de la frontera entre Inglaterra y Escocia durante cientos de años y habían cultivado mucho éxito por su calidad e inteligencia.
 
+{% include components/descargar-guia-como-elegir-tu-border-collie-post.html %}
+
 <h3>Los Border Collies en la actualidad</h3>
 
 La gente ha empezado a adquirir Border Collies atraídos por su imagen de inteligencia, energía y las ganas que tienen de trabajar con personas. Aunque la principal función de estos animales es el trabajo en el campo, se han vuelto populares como mascotas, ya que son muy listos y  juguetones.

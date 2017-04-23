@@ -43,6 +43,8 @@ Hay muchas frutas que no son malas, sin embargo tienes siempre que evitar las se
 - Productos con cafeína
 - Alcohol y frutos del lúpulo
 
+{% include components/descargar-guia-como-elegir-tu-border-collie-post.html %}
+
 Si tu perro ha comido alguna de estas cosas, llama a tu veterinario con el peso de tu perro y la cantidad del alimento consumido. Algunos de los alimentos mencionadas anteriormente son inofensivos en pequeñas cantidades y sólo son peligrosas en cantidades más grandes.
 
 Si te apetece darle un capricho sano a tu perro consulta esta <a href="{{ site.url }}/recetas-caseras-para-perros-galletas-de-manzana/">receta casera de galletas de manzana</a>.

@@ -35,6 +35,8 @@ Si se dedica a la cría de varias razas de perros, es mejor descartarlo. Es un s
 
 Buena señal, está claro que has encontrado al criador de Border Collie apropiado. Esto demuestra dos cosas, que no cría demasiado a menudo, y además que sus camadas tienen éxito.
 
+{% include components/descargar-guia-como-elegir-tu-border-collie-post.html %}
+
 <h3>Donde encontrar un buen criador</h3>
 
 Saber como diferenciar un buen criador de uno malo es la mitad del trabajo. Ahora necesitas saber <a href="{{ site.url }}/direcciones-utiles-para-comprar-o-adoptar-border-collie">donde encontrar uno bueno</a>. Aquí tienes algunas fuentes donde encontrar un cachorro sano disponible:  

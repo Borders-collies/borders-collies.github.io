@@ -43,6 +43,8 @@ Albatrox y Alfonso Martínez, su guía, han recogido varios premios 🥇 por su 
 
 Desde borders_collies.com aplaudimos la iniciativa y damos la enhorabuena a este gran equipo.
 
+{% include components/descargar-guia-como-elegir-tu-border-collie-post.html %}
+
  **No hay peligro si hay cerca un Border Collie**
 
 El periódico gratuito [20 minutos en Suiza](http://www.20min.ch/ro/news/suisse/story/Les-aboiements-de-leur-chien-les-ont-sauves-27102495) publicó a primeros de febrero la que podría haber sido una trágica historia que afortunadamente tuvo un final feliz gracias a un Border Collie.

@@ -61,6 +61,8 @@ Hace un tiempo que te das cuenta que amas a los <a href="{{ site.url }}/raza-de-
 
 No estamos locos, simplemente nosotros ❤️️ los Border Collie.
 
+{% include components/descargar-guia-como-elegir-tu-border-collie-post.html %}
+
 Hay algo que quieres compartir? Estamos encantados de escucharte, escríbenos a hola@borders-collies.com.
 Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros locos del Border Collie 😀
 

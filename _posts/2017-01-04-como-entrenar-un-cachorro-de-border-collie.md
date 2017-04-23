@@ -36,6 +36,8 @@ Ahora ya puedes incluir el “hablar”, “traer algo” o “rodar” y otros 
 
 Todo vale en esta edad. Si quieres entrenar a tu border collie a que llame al timbre cuando tiene que salir, o traer el periódico por la mañana al estilo americano, este es el momento adecuado para hacerlo.
 
+{% include components/descargar-guia-como-elegir-tu-border-collie-post.html %}
+
 <h3>Preguntas frecuentes:</h3>
 
 P: ¿A qué edad empiezo a entrenar a mi cachorro?

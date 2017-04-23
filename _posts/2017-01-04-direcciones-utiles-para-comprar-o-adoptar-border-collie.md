@@ -25,6 +25,8 @@ Si estáis interesados en los Borders como perros de trabajos seguramente la aso
 
 Además organiza diferentes concursos de pastoreo a lo largo del año como el organizado a principios de octubre en Cangas de Onis.
 
+{% include components/descargar-guia-como-elegir-tu-border-collie-post.html %}
+
 Si quieres tener un Border Collie y no puedes permitirte el comprarlo o simplemente eres más afín con la filosofía de la adopción te propongo tres enlaces interesantes.
 
 El primero es de una asociación protectora de Border Collie y perros pastores:

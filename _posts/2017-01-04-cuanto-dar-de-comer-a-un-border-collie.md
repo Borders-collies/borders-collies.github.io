@@ -30,6 +30,8 @@ Si tu Border Collie comienza a ganar un poco de peso extra,  o bien reduces la c
 
 Llevar a tu Border Collie al veterinario regularmente te ayudará porque lo primero que hacen es pesar al perro. Tu veterinario podrá aconsejarte si el perro tiene que perder unos kilos o está dentro de los percentiles.
 
+{% include components/descargar-guia-como-elegir-tu-border-collie-post.html %}
+
 <h3>No confíes en las recomendaciones de los envases.</h3>
 
 Las recomendaciones impresas en los paquetes de comida para perros siempre estiman al alza la cantidad que debes dar a tu perro. Esto no nos tiene que resultar sorprendente ya que cuanto más alimentes a tu perro, más comida tendrás que acabar comprando.

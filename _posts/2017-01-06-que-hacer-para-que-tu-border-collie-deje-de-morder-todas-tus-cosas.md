@@ -33,6 +33,8 @@ Puedes saber si el perro sabe que ha hecho algo mal o no. Si llegas a casa y ves
 
 Si tu perro muerde cosas aunque demuestra culpabilidad necesitas encontrarle otras actividades que hacer cuando estas fuera. Trata de darle juguetes, golosinas masticables o juguetes en los que él debe sacar la golosina. Tus pertenencias estarán seguras siempre y cuando él tenga la cabeza concentrada en otra cosa.  
 
+{% include components/descargar-guia-como-elegir-tu-border-collie-post.html %}
+
 ### El Border Collie que muerde cosas para sacar el estrés
 
 Morder cosas para algunos Border Collie es una de las mejores maneras de aliviar el estrés. Si está ansioso por algo o preocupado, morder cosas le ayuda a aliviar su mente. El estrés y la ansiedad pueden ser causados por estar solo mucho tiempo, por no tener suficiente actividad, durante el día o incluso por ruidos o sonidos extraños del exterior.

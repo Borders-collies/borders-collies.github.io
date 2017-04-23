@@ -26,6 +26,8 @@ Si no estás seguro de poder lidiar con un perro que muerda, que se tire a morde
 
 Si crees que estás preparado para ello, en primer lugar ¡ánimo! tienes mucho trabajo por delante, y en segundo lugar te recomendamos que contactes con un buen profesional en conducta canina para que os ayude a solucionar los problemas de tu Border Collie.
 
+{% include components/descargar-guia-como-elegir-tu-border-collie-post.html %}
+
 - ¿Tiene el perro problemas serios de salud?
 
 Algunas enfermedades requieren cuidados  y atención especial. (vigilancia, acompañamiento, visitas asiduas al veterinario) ¿Estás preparado para tener un perro en estas condiciones? ¿Eres consciente del desembolso economico que puede suponer? ¿Quieres y puedes hacer frente a ello?
