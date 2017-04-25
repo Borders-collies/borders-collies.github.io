@@ -1,12 +1,11 @@
 ---
-layout: "post"
+layout: "post" 
 title:  "Conoces los colores del Border Collie?"
 date: "2017-04-24 08:00:00"
 image: "todos-los-colores-del-border-collie.jpg"
 category: "articulos"
 tags: "cria"
-intro: "Todos hemos oído hablar de las ventajas que supone para nuestra lozanía
-tener un animal en el hogar."
+intro: "A pesar de la creencia popular de que el Border Collie es solo de color blanco y negro existe una gran variedad de colores para esta raza. Como se trata de un tema que requiere un conocimiento profundo de genética he decidido investigar..."
 description: "Todos hemos oído hablar de las ventajas que supone para nuestra lozanía
 tener un animal en el hogar."
 ---
@@ -163,6 +162,8 @@ Para ilustrar de una manera más visual toda la teoría que acabamos de aprender
 Y a ti, qué color de Border collie te gusta más? Cuentanoslo en [@borderscolliescom](https://www.facebook.com/borderscolliescom/)
 
 Si te ha gustado este artículo compártelo con otros amantes de los Border Collie 😀
+
+Puedes encontrar más información interesante sobre los Border Collie [aqui](http://www.borders-collies.com/border-collie-cria/).
 
 Qué pases buen día!
 
