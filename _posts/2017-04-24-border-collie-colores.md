@@ -1,5 +1,5 @@
 ---
-layout: "post" 
+layout: "post"
 title:  "Conoces los colores del Border Collie?"
 date: "2017-04-24 08:00:00"
 image: "todos-los-colores-del-border-collie.jpg"
@@ -158,6 +158,49 @@ Para ilustrar de una manera más visual toda la teoría que acabamos de aprender
  <img src= "{{site.url}}/assets/img/articulos/a4-all-colors2.png" width="650" height="auto" alt="{{ post.title }}">
 </div>
 <p class="text-center">Fuente <a href="https://bordercolliecolors.wordpress.com">bordercolliecolors.wordpress.com</a></p>
+
+**Combinaciones de color entre los border collie MITOS**
+
+**1. No debes dejar criar un border collie chocolate con otro chocolate o red con otro red porque diluyen el color**
+
+No hay absolutamente ninguna base genética o biológica en esta declaración y para ser absolutamente honesta me he encontrado a menudo la situación contraria en la práctica. Algunos de los perros rojos oscuros y blancos que he visto vienen de apareamientos entre red y red.
+
+Dicho esto, no estoy segura de por qué la gente piensa que más oscuro = a mejor. En mi experiencia los Border Collie red más pálidos tienden a tener mejor pigmentación en la trufa y el borde del ojo. Lo mismo ocurre con los Border Collie chocolate, no hay una sombra correcta o incorrecta de color, sólo diferentes. Estan controladas por varios genes modificadores y no presentan ninguna diferencia si estos genes vienen de dos padres que son del mismo color o dos padres de diferente color.
+
+**2. No debes juntar azul con azul porque tienes cachorros débiles y enfermos**
+
+Una vez más, un mito común que proviene del diagnóstico de una condición conocida como ["síndrome del Collie Gris"](https://genmolecular.com/2015/11/18/neutropenia-ciclica-en-collies-monografias-de-alumnos/)
+Se trata de una condición, similar a la TNS, que afecta tanto a los Border Collie de pelo largo como corto.
+El color gris que se ve en las capas de los animales afectados es en realidad un producto de la condición y no está en modo alguno relacionado con el gen diluido que tienen los Border Collie.
+
+**3. No debes cruzar azul con azul porque los cachorros tendra alopecia de dilución (pérdida de pelo)**
+
+Esta es otra cosa que oigo mucho que tiene sus orígenes en alguna verdad pero que ha sido mal interpretada.
+La [alopecia de dilución ](http://www.gopetsamerica.com/dog-health/color_dilution_alopecia.aspx) es una condición real que afecta a los perros de color diluido (azul y lila) en una variedad de razas. Sin embargo, el hecho de que un animal sea doblemente recesivo para el gen de dilución y por lo tanto sea azul o lila es lo que lo hace un posible candidato para la condición, proceder de dos padres diluidos no está relacionado con esto.
+
+Ten en cuenta que las razas diluidas son ciertas en algunas razas de perros. El [braco de Weimar](https://es.wikipedia.org/wiki/Braco_de_Weimar) es  un ejemplo clásico, TODOS están diluidos por lo que todos los apareamientos son entre diluido y diluido.
+
+Vale la pena señalar que la alopecia de dilución es muy rara en todas las razas y sobre todo en Border collies. He criado y conocido a cientos de Border Collie azul y lila y sólo he visto uno afectado con esta condición, mientras visitaba a una exhibición de perros. No se debe criar ningún animal afectado.
+
+{% include components/descargar-guia-como-elegir-tu-border-collie-post.html %}
+
+**Combinaciones de color entre los border collie… los hechos**
+
+Sólo hay realmente un "no, no" en cuanto a los apareamientos de color y que es **merle con merle**. Esta combinación da como resultado una proporción de la camada que es homocigótica para el gen merle (dos copias) que normalmente da como resultado una **coloración blanca excesiva y conduce a las anomalías de ojo y oído**, (sordera y mala vista).
+
+Debido a un par de otros colores, **ee red y sable claro** que tienen la capacidad de enmascarar el gen merle, no es aconsejable emparejar cualquiera de estos colores a un merle cualquiera.
+
+Hay un argumento sólido para tener cuidado al criar desde los rasgos recesivos (tales como el color) en base a otros, rasgos recesivos desconocidos en las líneas pueden ser más probable que aparezcan. Esto es suponiendo que el gen recesivo es relativamente raro (la mayoría lo son) y provendrá de un pequeño número de animales que portan o exhiben los mismos rasgos recesivos que compartirán ancestros comunes y que pueden por lo tanto compartir otros, menos deseables como los rasgos recesivos. Hemos visto este tipo de genes que han pasado a primer plano con TNS, CL y CEA en los últimos años y somos extremadamente afortunados de que haya pruebas de ADN para poder tratar cada uno de ellos.
+
+Un ejemplo clásico de esto en las líneas de sangre del Reino Unido es de Wiston Cap. El y sus hijos fueron tan ampliamente utilizados para reproducirse que están detrás de casi todas las líneas de sangre del Reino Unido de hoy. Este Border Collie llevaba el gen del color chocolate por lo que es probablemente la fuente de la mayoría de los border collie chocolate que vemos.
+
+Otro perro más reciente es el Int Sup CH Wisp de Bobby Dalziel, un portador diluido (azul) y en gran parte responsable del gran aumento en el número de perros azules criados para trabajo que vemos hoy.
+
+Sh CH Clan Abby Azul Aberdoone también está detrás de la mayoría de los perros azules que vemos en las exposiciones de a dia de hoy. Está importación de Nueva Zelanda se utilizó ampliamente como sementales y sus genes se han extendido por todo el Reino Unido y Europa, como resultado, él es la fuente de mucho de los genes diluidos que vemos en las líneas de la exposición. Es razonable esperar que otros rasgos recesivos de estos perros se hayan transmitido a traves de las generaciones también, algunos buenos y otros no tan buenos.
+
+Evidentemente no estoy diciendo que la reproducción de color a color (recesivo a recesivo) no debe hacerse, sólo que debe hacerse con cuidado y consideración, como deben aplicarse a todas las decisiones de cría en mi opinión.
+
+ No creo que muchas personas se detengan realmente a pensar de dónde han venido ciertos rasgos o en dónde podrían ir o considerar los riesgos que pueden estar tomando. Toda crianza implica tomar riesgos, una parte de ser un criador es aceptarlo y trabajar con ello, no elegir "reglas" y argumentos para justificar lo que quieres hacer.
 
 Y a ti, qué color de Border collie te gusta más? Cuentanoslo en [@borderscolliescom](https://www.facebook.com/borderscolliescom/)
 
