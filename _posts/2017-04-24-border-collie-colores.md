@@ -6,8 +6,7 @@ image: "todos-los-colores-del-border-collie.jpg"
 category: "articulos"
 tags: "cria"
 intro: "A pesar de la creencia popular de que el Border Collie es solo de color blanco y negro existe una gran variedad de colores para esta raza. Como se trata de un tema que requiere un conocimiento profundo de genética he decidido investigar..."
-description: "Todos hemos oído hablar de las ventajas que supone para nuestra lozanía
-tener un animal en el hogar."
+description: "A pesar de la creencia popular de que el Border Collie es solo de color blanco y negro existe una gran variedad de colores para esta raza."
 ---
 
 A pesar de la creencia popular de que el [Border Collie](http://www.borders-collies.com/raza-de-perro-border-collie/) es solo de color blanco y negro existe una gran variedad de colores para esta raza. Como se trata de un tema que requiere un conocimiento profundo de genética he decidido investigar y consultar a un experto. He contactado con la criadora Natalie Holtappel de [www.bryningbordrcollies.com](www.bryningbordrcollies.com) que me ha permitido traducir y publicar su articulo sobre los [colores del border collie](http://www.bryningbordercollies.com/Border-Collie-Colours).
