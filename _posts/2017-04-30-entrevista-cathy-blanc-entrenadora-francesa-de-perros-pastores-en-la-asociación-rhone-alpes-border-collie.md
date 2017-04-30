@@ -1,7 +1,7 @@
 ---
 layout: "post"
-title:  "5 comandos que tu perro debe conocer antes de hacer canicross"
-date: "2017-04-26 08:00:00"
+title:  "Entrevista a Cathy Blanc entrenadora de perros pastores en la asociación Rhone Alpes border collie"
+date: "2017-04-30 08:00:00"
 image: "cathy-balnc-entrenando-perro-pastor.jpg"
 category: "articulos"
 tags: "adiestramiento"
