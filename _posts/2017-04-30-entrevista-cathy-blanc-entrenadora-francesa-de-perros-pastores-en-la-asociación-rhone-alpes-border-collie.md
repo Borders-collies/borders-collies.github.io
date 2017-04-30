@@ -11,9 +11,11 @@ description: "Leyendo en internet noticias con, como no, los Border Collie como 
 
 Leyendo en internet noticias con los Border Collie como protagonistas,como no 😄, encontré en una web francesa la entrevista que le hacían a Cathy Blanc, entrenadora de perros pastores en la asociación [Rhone Alpes border collie](www.rhonealpes-bordercollie.com).
 
-Lo que más me llamó la atención del discurso de Cathy es un ejemplo en el que explicaba la necesidad de la **coherencia** en el **comportamiento de los humanos respecto a los animales**. Algo tan evidente que simplemente pasamos por alto. En el video que vi en France 3 y que podéis encontrar [aquí](http://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/conduite-troupeau-zoom-border-collie-surprenant-chien-berger-1211581.html), Cathy ponía un ejemplo muy simple pero muy claro de la incoherencia con la que actuamos a menudo las personas con nuestros animales.
+Lo que más me llamó la atención del discurso de Cathy es un ejemplo en el que explicaba la necesidad de la **coherencia** en el **comportamiento de los humanos respecto a los animales**. Algo tan evidente que simplemente podemos pasar por alto. En el video que vi en France 3 y que podéis encontrar [aquí](http://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/conduite-troupeau-zoom-border-collie-surprenant-chien-berger-1211581.html), Cathy ponía un ejemplo muy simple pero muy claro de la incoherencia con la que actuamos a menudo las personas con nuestros animales.
 
 El ejemplo era el siguiente, un día cualquiera que hace bueno tu perro entra en casa y se tumba en la alfombra del salon y tu no le dices absolutamente nada. Sin embargo, un día que ha llovido, tu querido perro se ha manchado de barro porque se ha rebozado en un charco, entra en casa y se tumba, como tantas veces, en la alfombra. Ese día tu le echas la bronca y le dices que no puede hacerlo. La cara de tu perro en ese momento debe ser de confusión suprema, puesto que él no entiende que ayer estaba limpio y hoy sucio. 😕😲 Incoherente por nuestra parte.
+
+Como su discurso me pareció muy interesante le he pedido a Cathy que comparta con nosotros su experiencia en el mundo del adiestramiento canino para conducción de rebaños con una entrevista.
 
 Para Cathy los dos **puntos indispensables** para una **buena comunicación** con tu perro son: **ser coherente** y saber **leer a tu perro** (comprender su lenguaje).
 
