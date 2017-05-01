@@ -5,13 +5,13 @@ date: "2017-05-01 08:00:00"
 image: "terapia-para-las-personas-que-sufren-de-enfermedades-mentales.jpg"
 category: "articulos"
 tags: "cria"
-intro: "Un reciente estudio  publicado en la revista británica BMC Psychiatry, realizado por Helen Brooks, una investigadora de salud mental de la Universidad de Manchester, subraya que los positivo resultados de la zooterapia en personas con problemas mentales."
+intro: "Un reciente estudio publicado en la revista BMC Psychiatry, subraya los positivos resultados de la zooterapia en personas con problemas mentales."
 description: "Un reciente estudio  publicado en la revista británica BMC Psychiatry, realizado por Helen Brooks, una investigadora de salud mental de la Universidad de Manchester, subraya que los positivo resultados de la zooterapia en personas con problemas mentales."
 ---
 
 La [zooterapia](https://es.wikipedia.org/wiki/Zooterapia) continúa dando pasos asombrosos. Todo el mundo sabe que la presencia de animales tiene un efecto positivo en los seres humanos, que nos ayuda a estar **más felices y más a gusto**, pero ahora la ciencia ha podido demostrar la **relación positiva** que se establece **entre** las **mascotas** y **pacientes con enfermedades mentales**.
 
-Un reciente estudio publicado en la revista británica [BMC Psychiatry](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-016-1111-3), realizado por Helen Brooks, una investigadora de salud mental de la Universidad de Manchester, subraya los positivo resultados de la zooterapia en personas con problemas mentales.
+Un reciente estudio publicado en la revista británica [BMC Psychiatry](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-016-1111-3), realizado por Helen Brooks, una investigadora de salud mental de la Universidad de Manchester, subraya los positivos resultados de la zooterapia en personas con problemas mentales.
 
 En términos de salud mental, el valor más amplio del papel de los animales se demuestra en la terapia asistida con animales (AAT), que ha demostrado ser eficaz en la población psiquiátrica de pacientes hospitalizados y en los centros de atención al paciente. Sin embargo, a pesar de que **la AAT ha ganado popularidad** en los últimos años, y que la terapia de animales se está volviendo más familiar en las salas de hospitales, las mascotas no se tienen en consideración en los procesos de planificación de cuidados emprendidos para manejar la salud mental de manera continua.
 
