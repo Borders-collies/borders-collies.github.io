@@ -9,7 +9,7 @@ intro: "Leyendo en internet noticias con, como no, los Border Collie como protag
 description: "Leyendo en internet noticias con, como no, los Border Collie como protagonistas acabe viendo en una web francesa la entrevista que le hacían a Cathy Blanc, entrenadora francesa de perros pastores en la asociación Rhone Alpes border collie"
 ---
 
-Leyendo en internet noticias con los Border Collie como protagonistas,como no 😄, encontré en una web francesa la entrevista que le hacían a Cathy Blanc, entrenadora de perros pastores en la asociación [Rhone Alpes border collie](www.rhonealpes-bordercollie.com).
+Leyendo en internet noticias con los Border Collie como protagonistas,como no 😄, encontré en una web francesa la entrevista que le hacían a Cathy Blanc, entrenadora de perros pastores en la asociación [Rhone Alpes border collie](http://www.rhonealpes-bordercollie.com/).
 
 Lo que más me llamó la atención del discurso de Cathy es un ejemplo en el que explicaba la necesidad de la **coherencia** en el **comportamiento de los humanos respecto a los animales**. Algo tan evidente que simplemente podemos pasar por alto. En el video que vi en France 3 y que podéis encontrar [aquí](http://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/conduite-troupeau-zoom-border-collie-surprenant-chien-berger-1211581.html), Cathy ponía un ejemplo muy simple pero muy claro de la incoherencia con la que actuamos a menudo las personas con nuestros animales.
 
