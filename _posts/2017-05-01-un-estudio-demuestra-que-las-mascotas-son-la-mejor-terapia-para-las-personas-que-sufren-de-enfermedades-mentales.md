@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title:  "Un estudio demuestra que las mascotas son la mejor terapia para las personas que sufren de enfermedades mentales"
+title:  "Un estudio demuestra que las mascotas son la mejor terapia para las personas que sufren enfermedades mentales"
 date: "2017-05-01 08:00:00"
 image: "terapia-para-las-personas-que-sufren-de-enfermedades-mentales.jpg"
 category: "articulos"
