@@ -4,7 +4,7 @@ title:  "Roosevelt, el border collie en silla de ruedas que esquía como un camp
 date: "2017-05-01 10:00:00"
 image: "Roosevelt-el-border-collie-en-silla-de-ruedas-que-esquía-como-un-campeon.jpg"
 category: "articulos"
-tags: "cria"
+tags: "noticias"
 intro: "Hoy os queremos presentar a Roosevelt, un Border Collie que nació con una malformación. Roosevelt tiene las piernas delanteras malformadas,su pierna derecha es muy delgada"
 description: "Hoy os queremos presentar a Roosevelt, un Border Collie que nació con una malformación. Roosevelt tiene las piernas delanteras malformadas,su pierna derecha es muy delgada, no tiene pata, y está bloqueada en una posición doblada."
 ---

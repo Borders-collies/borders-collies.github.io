@@ -4,7 +4,7 @@ title:  "10 señales que demuestran que eres un apasionado de los Border collies
 date: "2017-03-02 08:00:00"
 image: "border-ojitos.jpg"
 category: "articulos"
-tags: "cria"
+tags: "noticias"
 intro: "Hace un tiempo que te das cuenta que amas a los border collies, que este animal es una pasion para ti. Te contamos 10 señales inequivocas que demuestran que eres un apasionado de estos peludos."
 description: "Hace un tiempo que te das cuenta que amas a los border collies, que este animal es una pasion para ti. Te contamos 10 señales inequivocas que demuestran que eres un apasionado de estos peludos."
 ---

@@ -1,11 +1,17 @@
-- link: Border Collie Cria
+- link: Cria
   url: /border-collie-cria
 
-- link: Border Collie Cuidados
+- link: Cuidados
   url: /border-collie-cuidados
 
-- link: Border Collie Adiestramiento
+- link: Adiestramiento
   url: /border-collie-adiestramiento
 
-- link: Border Collie Videos
+- link: Entrevistas
+  url: /border-collie-entrevistas
+
+- link: Noticias
+  url: /border-collie-noticias
+
+- link: Videos
   url: /border-collie-videos

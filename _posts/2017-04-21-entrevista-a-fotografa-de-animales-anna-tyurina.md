@@ -4,7 +4,7 @@ title:  "Entrevista a la fotógrafa de animales Anna Tyurina"
 date: "2017-04-21 05:00:00"
 image: "anna-tyurina.jpg"
 category: "articulos"
-tags: "cria"
+tags: "entrevistas"
 intro: "Anna Tyurina, fotógrafa de animales. Su pasión por estar en contacto con los perros la llevo a iniciarse en el mundo de la fotografía. Te contamos cómo Anna se ha convertido en fotógrafa de animales y viaja por Rusia junto a su Border Collie"
 description: "Su pasión por estar en contacto con los perros la llevo a iniciarse en el mundo de la fotografía. Te contamos cómo Anna se ha convertido en fotógrafa de animales y viaja por Rusia junto a su Border Collie"
 ---

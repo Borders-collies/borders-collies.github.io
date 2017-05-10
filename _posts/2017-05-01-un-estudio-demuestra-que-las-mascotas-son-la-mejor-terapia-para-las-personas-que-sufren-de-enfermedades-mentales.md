@@ -4,7 +4,7 @@ title:  "Un estudio demuestra que las mascotas son la mejor terapia para las per
 date: "2017-05-01 08:00:00"
 image: "terapia-para-las-personas-que-sufren-de-enfermedades-mentales.jpg"
 category: "articulos"
-tags: "cria"
+tags: "noticias" 
 intro: "Un reciente estudio publicado en la revista BMC Psychiatry, subraya los positivos resultados de la zooterapia en personas con problemas mentales."
 description: "Un reciente estudio  publicado en la revista británica BMC Psychiatry, realizado por Helen Brooks, una investigadora de salud mental de la Universidad de Manchester, subraya que los positivo resultados de la zooterapia en personas con problemas mentales."
 ---

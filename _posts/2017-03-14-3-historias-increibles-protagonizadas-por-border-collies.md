@@ -4,7 +4,7 @@ title:  "3 Historias increíbles protagonizadas por Border collies"
 date: "2017-03-14 08:00:00"
 image: "3-historias.jpg"
 category: "articulos"
-tags: "cria"
+tags: "noticias"
 intro: "Hoy solo queremos hacernos eco y compartir con vosotros tres historias conmovedoras en las que los border collies son los protagonistas."
 description: "Ya sabemos que los Borders Collies son muy listos, no queremos repetirnos hoy solo queremos hacernos eco y compartir con vosotros tres historias diferentes, conmovedoras y que no te dejan indiferente en las que los border collies son los protagonistas."
 ---

@@ -4,7 +4,7 @@ title:  "Entrevista a Cathy Blanc entrenadora de perros pastores en la asociaci�
 date: "2017-04-30 08:00:00"
 image: "cathy-balnc-entrenando-perro-pastor.jpg"
 category: "articulos"
-tags: "adiestramiento"
+tags: "entrevistas"
 intro: "Leyendo en internet noticias con, como no, los Border Collie como protagonistas acabe viendo en una web francesa la entrevista que le hacían a Cathy Blanc, entrenadora francesa de perros pastores en la asociación Rhone Alpes border collie"
 description: "Leyendo en internet noticias con, como no, los Border Collie como protagonistas acabe viendo en una web francesa la entrevista que le hacían a Cathy Blanc, entrenadora francesa de perros pastores en la asociación Rhone Alpes border collie"
 ---
