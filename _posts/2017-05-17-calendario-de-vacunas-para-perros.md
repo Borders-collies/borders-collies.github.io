@@ -1,5 +1,5 @@
 ---
-layout: "post" 
+layout: "post"
 title:  "Calendario de vacunas para perros"
 date: "2017-05-17 08:00:00"
 image: "calendario-de-vacunas-para-perros.jpg"
