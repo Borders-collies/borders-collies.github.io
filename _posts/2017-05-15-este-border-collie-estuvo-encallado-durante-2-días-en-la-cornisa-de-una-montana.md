@@ -32,7 +32,7 @@ El cachorro fue bajado de la montaña por los valientes escaladores y devuelto a
 
 👏👏👏 Nos alegramos de que la solidaridad humana haya salvado la vida de este perro.
 
-Si quieres descubrir más consejos para cuidar a tu perro es por<a href="{{ site.url }}/border-collie-noticias/"> aquí</a>.
+Si quieres descubrir más noticias relacionadas con los Border Collie es por<a href="{{ site.url }}/border-collie-noticias/"> aquí</a>.
 
 Si te ha gustado esta noticia comparte este artículo con otros amantes de los Border Collie 😀
 
