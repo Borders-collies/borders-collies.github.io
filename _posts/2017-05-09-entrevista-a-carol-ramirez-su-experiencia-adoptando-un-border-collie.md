@@ -9,12 +9,11 @@ intro: "Desde borders-collies.com consideramos que la adopción es una alternati
 description: "Desde borders-collies.com consideramos que la adopción es una alternativa maravillosa a la hora de incorporar un miembro de cuatro patas a la familia."
 ---
 
-Desde borders-collies.com apoyamos la adopción y la cria responsable de animales. Consideramos que
-la adopción es una alternativa maravillosa a la hora de incorporar un miembro de cuatro patas a la familia.
+Desde borders-collies.com apoyamos la adopción y la cria responsable de animales. Consideramos que la adopción es una alternativa maravillosa a la hora de incorporar un miembro de cuatro patas a la familia.
 
 **Persona busca perro, perro busca persona = la combinación perfecta!**
 
-Por esa razón hemos decidido entrevistar a algunas personas que han decidido [adoptar un Border Collie](http://www.borders-collies.com/5-senales-a-tener-en-cuenta-para-adoptar-un-border-collie/) y compartir su experiencia con vosotros.
+Por esa razón hemos decidido entrevistar a algunas personas que han decidido [adoptar un Border Collie](http://www.borders-collies.com/5-senales-a-tener-en-cuenta-para-adoptar-un-border-collie/) y compartir su experiencia con nosotros.
 
 Le damos la palabra a Carol.
 

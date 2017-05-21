@@ -62,7 +62,7 @@ El Dr. Schultz cree que la vacuna no básica más importante para el perro es la
 
 Esta es una enfermedad compleja que involucra una serie de bacterias y virus que pueden causar esta enfermedad. La bordetella bronchiseptica es la más frecuente de las bacterias que contribuyen a esta enfermedad, aunque hay otros virus que también pueden contribuir como la Canina Parainfluenza, el virus de la Canine Influenza y otros. A dia de hoy existen varias vacunas para reducir la severidad de la tos de la perrera.
 
-Otras vacunas no básicas para el perro que son importantes son la [leptospirosis](https://es.wikipedia.org/wiki/Leptospirosis) y la [enfermedad de Lyme](www.borders-collies.com/Enfermedad-de-lyme-prevencion-conoce-tus-opciones-protege-a-tu-perro/).
+Otras vacunas no básicas para el perro que son importantes son la [leptospirosis](https://es.wikipedia.org/wiki/Leptospirosis) y la [enfermedad de Lyme](https://www.borders-collies.com/Enfermedad-de-lyme-prevencion-conoce-tus-opciones-protege-a-tu-perro/).
 
 Estas **vacunas no básicas**, a diferencia de las vacunas básicas, sólo proporcionan **inmunidad a corto plazo**, deben darse anualmente, tienen un riesgo para tu perro y no funcionan muy bien. Te recomendamos estudiar tu caso de manera personalizada con tu veterinario.
 
