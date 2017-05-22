@@ -38,8 +38,8 @@ _Gin un dia de trabajo_
 <blockquote>
 "Las protectoras están llenas, de joyas por pulir, de perros muy castigados y que todos ellos merecen una segunda oportunidad."
 </blockquote>
-<a href="http://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&title={{ page.title }}" class="" rel="nofollow"><img src= "{{site.url}}/assets/img/facebook.svg" width="24" height="25"></a>
-<a href="https://twitter.com/share?url={{ site.url }}{{ page.url }}&amp;text={{ page.title }}" class="" rel="nofollow" target="_blank"><img src= "{{site.url}}/assets/img/twitter.svg" width="24" height="25"></a>
+<a href="http://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&title={{ page.title }}" class="" rel="nofollow"><img src= "{{site.url}}/assets/img/facebook.svg" width="24" height="25"> Compartir</a>
+<a href="https://twitter.com/share?url={{ site.url }}{{ page.url }}&amp;text={{ page.title }}" class="" rel="nofollow" target="_blank"><img src= "{{site.url}}/assets/img/twitter.svg" width="24" height="25"> Tuitear</a>
 
 **Cuéntanos el caso de tu perro (explayate todo lo que quieras)**
 
@@ -54,8 +54,8 @@ A medida que nos fuimos conociendo y pude observar algunas reacciones pude deduc
 <blockquote>
 "siempre digo que fue ella quién me eligió. Fue amor a primera vista."
 </blockquote>
-<a href="http://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&title={{ page.title }}" class="" rel="nofollow"><img src= "{{site.url}}/assets/img/facebook.svg" width="24" height="25"></a>
-<a href="https://twitter.com/share?url={{ site.url }}{{ page.url }}&amp;text={{ page.title }}" class="" rel="nofollow" target="_blank"><img src= "{{site.url}}/assets/img/twitter.svg" width="24" height="25"></a>
+<a href="http://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&title={{ page.title }}" class="" rel="nofollow"><img src= "{{site.url}}/assets/img/facebook.svg" width="24" height="25"> Compartir</a>
+<a href="https://twitter.com/share?url={{ site.url }}{{ page.url }}&amp;text={{ page.title }}" class="" rel="nofollow" target="_blank"><img src= "{{site.url}}/assets/img/twitter.svg" width="24" height="25"> Tuitear</a>
 
 **Como fue el proceso de adaptación?**
 
@@ -89,8 +89,8 @@ Para mi, los pastores en general y el border collie en particular son perros que
 <blockquote>
 "Tuve que aprender a manejar mi inseguridad y la suya, estudiando y contando con una excelente profesional"
 </blockquote>
-<a href="http://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&title={{ page.title }}" class="" rel="nofollow"><img src= "{{site.url}}/assets/img/facebook.svg" width="24" height="25"></a>
-<a href="https://twitter.com/share?url={{ site.url }}{{ page.url }}&amp;text={{ page.title }}" class="" rel="nofollow" target="_blank"><img src= "{{site.url}}/assets/img/twitter.svg" width="24" height="25"></a>
+<a href="http://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&title={{ page.title }}" class="" rel="nofollow"><img src= "{{site.url}}/assets/img/facebook.svg" width="24" height="25">Compartir</a>
+<a href="https://twitter.com/share?url={{ site.url }}{{ page.url }}&amp;text={{ page.title }}" class="" rel="nofollow" target="_blank"><img src= "{{site.url}}/assets/img/twitter.svg" width="24" height="25">Tuitear</a>
 
 **Realizas algun tipo de actividad deportiva con tu perro? Agility, canicross, bicicleta ...**
 
