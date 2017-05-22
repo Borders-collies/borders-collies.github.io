@@ -86,7 +86,7 @@ Y que no duden en consultar a un profesional si lo requieren. Nadie nace enseña
 Pero no puedo dejar de decir que si se hace bien, son compañeros excelentes. Te seguirán hasta el fin del mundo y darán el máximo de sí mismos.
 Para mi, los pastores en general y el border collie en particular son perros que necesitan ocupación, si no se la das tú, se la buscan ellos.
 
-<blockquote>
+<blockquote> 
 "Tuve que aprender a manejar mi inseguridad y la suya, estudiando y contando con una excelente profesional"
 </blockquote>
 <a href="http://www.facebook.com/sharer/sharer.php?u={{ post.url }}" class="" rel="nofollow"><img src= "{{site.url}}/assets/img/facebook.svg" width="24" height="25"></a>
