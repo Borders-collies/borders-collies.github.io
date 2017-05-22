@@ -4,7 +4,7 @@ title:  "Cómo convencer a tu jefe y a tus compañeros de que te dejen llevar a 
 date: "2017-04-17 08:00:00"
 image: "llevar-tu-perro-al-trabajo.jpg"
 category: "articulos"
-tags: "cria"
+tags: "noticias"
 intro: "Todos hemos oído hablar de las ventajas que supone para nuestra lozanía
 tener un animal en el hogar. El tener una mascota se ha asociado con una serie de resultados positivos para la salud"
 description: "Todos hemos oído hablar de las ventajas que supone para nuestra lozanía
