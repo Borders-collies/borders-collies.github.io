@@ -47,6 +47,12 @@ Después de conocerlo bien, llegué a la conclusión de que en algún momento ll
 
 Cuándo quieres adoptar en una asociación cada una tiene un proceso diferente. Pero todas tienen algo en común que es la entrevista que hacen antes de que adoptes, el proceso de adaptación, y un seguimiento. En mi caso fue diferente, claro, pero normalmente es así.
 
+<blockquote>
+"Supongo que lo cogió alguien que desconocía la raza y al ser un perro tan explosivo no supieron manejarlo. Este es el problema de que esta raza se esté poniendo de moda…"
+</blockquote>
+<a href="http://www.facebook.com/sharer/sharer.php?u={{ post.url }}" class="" rel="nofollow"><img src= "{{site.url}}/assets/img/facebook.svg" width="24" height="25"></a>
+<a href="https://twitter.com/share?url={{ post.url }}&amp;text={{ page.title }}" class="" rel="nofollow" target="_blank"><img src= "{{site.url}}/assets/img/twitter.svg" width="24" height="25"></a>
+
 **Como fue el proceso de adaptación?**   
 
 El proceso de adaptación a Eco fue muy rápido. Yo tenía la suerte de vivir en una casa en medio del campo, sin ruidos, sin estrés, sin gente… Entonces se sintió muy cómodo. También tenía una manada muy estable y que lo aceptó desde el primer momento. Eco, desde el segundo o tercer día, empezó a confiar en mí plenamente y ahí pudimos empezar a trabajar.
@@ -73,6 +79,12 @@ Que lo adopte sabiendo que es realmente un Border Collie. Es una raza muy inteli
 **Realizas algun tipo de actividad deportiva con tu perro? Agility, canicross, bicicleta ...**
 
 Hace unos años sí que hacíamos canicross y bicicleta. Nos encantaba… Pero tuve una lesión bastante grave y lo dejé. Ahora estamos empezando a retomarlo otra vez pero la forma física la hemos perdido. Poco a poco…
+
+<blockquote>
+"tienes que adoptar sabiendo que necesitan tiempo, dinero y que pueden surgir numerosos problemas. Que no sea un capricho."
+</blockquote>
+<a href="http://www.facebook.com/sharer/sharer.php?u={{ post.url }}" class="" rel="nofollow"><img src= "{{site.url}}/assets/img/facebook.svg" width="24" height="25"></a>
+<a href="https://twitter.com/share?url={{ post.url }}&amp;text={{ page.title }}" class="" rel="nofollow" target="_blank"><img src= "{{site.url}}/assets/img/twitter.svg" width="24" height="25"></a>
 
 **Qué es lo que más os gusta hacer a tu perro y a ti?**
 

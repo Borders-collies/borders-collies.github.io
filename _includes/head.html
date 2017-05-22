@@ -25,9 +25,6 @@
   <link rel="stylesheet" href="/assets/css/app.css">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}" />
 
-    <!-- etsy -->
-  <meta name="verification" content="6d048c5a2f432b7baaa15e45ba6d8332" />
-
   <!-- RSS FEED
  ================================================== -->
  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}/feed.xml">
@@ -67,3 +64,25 @@
       </div>
       <div class="off-canvas-content" data-off-canvas-content>
         <!-- Page content -->
+
+        <!-- Share button -->
+        <meta property="og:type" content="article">
+        <meta property="og:title" content="{{ page.title }}">
+        <meta property="og:description" content="{{ page.description }}">
+        <meta property="og:image" content="{{ page.image}}" />
+        <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+        <meta property="og:image:width" content="640" />
+        <meta property="og:image:height" content="360" />
+        <meta property="article:published_time" content="{{ page.date }}" />
+        <meta property="article:modified_time" content="{{ page.date }}" />
+        <meta property="article:author" content="https://www.facebook.com/sara.m.mazo" />
+        <meta property="article:publisher" content="https://www.facebook.com/borderscolliescom/" />
+        <meta property="og:site_name" content="Borders collies" />
+        <meta property="fb:app_id" content="355648848128913" />
+        <meta property="og:locale:alternate" content="es_ES" />
+        <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:site" content="" />
+          <meta name="twitter:creator" content="">
+          <meta name="twitter:title" content="{{ page.title }}">
+          <meta name="twitter:description" content="{{ page.description }}">
+          <meta name="twitter:image" content="{{% page.image %}}">
