@@ -2,11 +2,11 @@
 layout: "post"
 title:  "Cómo te puede cambiar la vida adoptando un Border Collie, la historia de Andrea y Gin"
 date: "2017-05-22 08:00:00"
-image: "adoptando-un-border-collie-la-historia-de-andrea-y-gin.png"
+image: "adoptando-un-border-collie-la-historia-de-andrea-y-gin.jpg"
 category: "articulos"
 tags: "entrevistas"
 intro: "Andrea por un golpe de azar se vio adoptando a una joven Border Collie. Lo que no sabía era todas las consecuencias que esta decisión aportaría a su vida."
-description:  "Hoy queremos compartir con vosotros la historia de Andrea que por un golpe de azar se vio adoptando a una joven Border Collie. Lo que no sabía Andrea era todas las consecuencias que esta decisión aportaría a su vida."
+description:  "Hoy queremos compartir con vosotros la historia de Andrea que por un golpe de azar se vio adoptando a una joven Border Collie. Lo que no sabía Andrea era todas las consecuencias que esta decisión aportaría a su vida." 
 ---
 
 Hoy queremos compartir con vosotros la historia de Andrea que por un golpe de azar se vio adoptando a una joven Border Collie, Gin. Lo que no sabía Andrea era todas las consecuencias que esta decisión aportaría a su vida.
