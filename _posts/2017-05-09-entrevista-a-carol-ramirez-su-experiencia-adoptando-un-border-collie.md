@@ -50,8 +50,8 @@ Cuándo quieres adoptar en una asociación cada una tiene un proceso diferente. 
 <blockquote>
 "Supongo que lo cogió alguien que desconocía la raza y al ser un perro tan explosivo no supieron manejarlo. Este es el problema de que esta raza se esté poniendo de moda…"
 </blockquote>
-<a href="http://www.facebook.com/sharer/sharer.php?u={{ post.url }}" class="" rel="nofollow"><img src= "{{site.url}}/assets/img/facebook.svg" width="24" height="25"></a>
-<a href="https://twitter.com/share?url={{ post.url }}&amp;text={{ page.title }}" class="" rel="nofollow" target="_blank"><img src= "{{site.url}}/assets/img/twitter.svg" width="24" height="25"></a>
+<a href="http://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&title={{ page.title }}" class="" rel="nofollow"><img src= "{{site.url}}/assets/img/facebook.svg" width="24" height="25"></a>
+<a href="https://twitter.com/share?url={{ site.url }}{{ page.url }}&amp;text={{ page.title }}" class="" rel="nofollow" target="_blank"><img src= "{{site.url}}/assets/img/twitter.svg" width="24" height="25"></a>
 
 **Como fue el proceso de adaptación?**   
 
@@ -83,8 +83,8 @@ Hace unos años sí que hacíamos canicross y bicicleta. Nos encantaba… Pero t
 <blockquote>
 "tienes que adoptar sabiendo que necesitan tiempo, dinero y que pueden surgir numerosos problemas. Que no sea un capricho."
 </blockquote>
-<a href="http://www.facebook.com/sharer/sharer.php?u={{ post.url }}" class="" rel="nofollow"><img src= "{{site.url}}/assets/img/facebook.svg" width="24" height="25"></a>
-<a href="https://twitter.com/share?url={{ post.url }}&amp;text={{ page.title }}" class="" rel="nofollow" target="_blank"><img src= "{{site.url}}/assets/img/twitter.svg" width="24" height="25"></a>
+<a href="http://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&title={{ page.title }}" class="" rel="nofollow"><img src= "{{site.url}}/assets/img/facebook.svg" width="24" height="25"></a>
+<a href="https://twitter.com/share?url={{ site.url }}{{ page.url }}&amp;text={{ page.title }}" class="" rel="nofollow" target="_blank"><img src= "{{site.url}}/assets/img/twitter.svg" width="24" height="25"></a>
 
 **Qué es lo que más os gusta hacer a tu perro y a ti?**
 
