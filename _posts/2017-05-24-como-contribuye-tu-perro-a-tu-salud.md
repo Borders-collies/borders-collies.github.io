@@ -1,11 +1,11 @@
 ---
 layout: "post"
 title:  "Cómo contribuye tu perro a tu salud"
-date: "2017-05-21 08:00:00"
+date: "2017-05-24 08:00:00"
 image: "como-contribuye-tu-perro-a-tu-salud.jpg"
 category: "articulos"
 tags: "noticias"
-intro: "Siempre viene bien y es interesante que la ciencia cuantifique y explique como y porque nuestros adorables perros contribuyen a nuestra salud"
+intro: "Las personas a las que nos apasionan los perros ya sabíamos que tener uno, o varios, es una experiencia fantástica y que aportan innumerables cosas positivas a nuestra vida. Sin embargo, "
 description:  "Las personas a las que les apasionan los perros ya sabíamos que tener uno, o varios, es una experiencia fantástica y que aportan innumerables cosas positivas a nuestra vida."
 ---
 
