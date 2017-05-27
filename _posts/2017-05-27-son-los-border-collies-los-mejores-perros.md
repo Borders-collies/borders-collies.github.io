@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "post" 
 title:  "¿Son los Border Collies los mejores perros?"
 date: "2017-05-27 08:00:00"
 image: "son-los-border-collies-los-mejores-perros.jpg"
