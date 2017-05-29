@@ -1,5 +1,5 @@
 ---
-layout: "post" 
+layout: "post"
 title:  "¿Son los Border Collies los mejores perros?"
 date: "2017-05-27 08:00:00"
 image: "son-los-border-collies-los-mejores-perros.jpg"
@@ -74,7 +74,7 @@ Sin embargo, si estás buscando un perro que se siente en silencio todo el día 
 
 Puedes leer las entrevistas que hemos hecho a dos personas que han adoptado un Border Collie para obtener más información. Conoce el caso de [Carol y Eco](http://www.borders-collies/entrevista-a-carol-ramirez-su-experiencia-adoptando-un-border-collie/) y de [Andrea y Gin](http://www.borders-collies/como-te-puede-cambiar-la-vida-adoptando-un-border-collie-la-historia-de-andrea-y-gin/).
 
-Si quieres descubrir más informacion sobre los Border Collie es por<a href="{{ site.url }}//border-collie-cria//"> aquí</a>.
+Si quieres descubrir más informacion sobre los Border Collie es por<a href="{{ site.url }}/border-collie-cria/"> aquí</a>.
 
 Si te ha gustado esta noticia comparte este artículo con otros amantes de los Border Collie con los botones de la izquierda 😀
 
