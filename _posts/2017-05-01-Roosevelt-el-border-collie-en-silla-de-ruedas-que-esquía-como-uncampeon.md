@@ -36,6 +36,8 @@ Nos ha encantado descubrir la historia de Roosevelt y saber que puede disfrutar 
 
 Que te parece la historia? Escríbenos a hola@borders-collies.com y cuentanoslo.
 
+{% include components/descargar-guia-como-elegir-tu-border-collie-post.html %}
+
 Si te ha gustado este artículo compártelo con otros amantes de los Border Collie y si quieres conocer más historias siguenos en <a href="https://www.facebook.com/borderscolliescom/">facebook</a>.
 
 Estamos en contacto

@@ -124,6 +124,8 @@ Un estudio demostró que los pacientes con SIDA eran significativamente menos pr
 
 Y, no sé para ti, pero realmente no hay nada mejor que volver a casa después de un largo día, y poder coger la cara de tu perro entre tus manos, y darle muchos mimos. Está claro que los perros hacen mucho por nosotros.
 
+{% include components/descargar-guia-como-elegir-tu-border-collie-post.html %}
+
 Si quieres descubrir más noticias relacionadas con los Border Collie es por<a href="{{ site.url }}/border-collie-noticias/"> aquí</a>.
 
 Si te ha gustado esta noticia comparte este artículo con otros amantes de los Border Collie 😀

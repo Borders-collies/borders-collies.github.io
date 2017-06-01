@@ -76,10 +76,12 @@ Enciende la ducha de nuevo y empieza a enjuagar y quitar el champú del cachorro
 La mejor manera de hacerlo es dejar que el cachorro se sacuda algo del agua mientras está todavía en la bañera. Algunos perros lo hacen por sí mismos cuando se sienten mojados, otros necesitan un poco de estímulo. Me parece que si le haces cosquillas en la oreja va a pensar que es agua y tratará de sacudirla. Una vez que hayas hecho esto, coge una toalla y quitale la humedad.
 
 El resultado? un perro bien limpio!
+
 Si quieres ver otros consejos para cuidar a tu perro es por <a href="{{ site.url }}/border-collie-cuidados/">aquí</a>.
 
-Tienes algo que comentar o aportar?Estamos encantados de escucharte, escríbenos a hola@borders-collies.com.
-Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀
+Si te ha parecido interesante este artículo comparte con otros amantes de los Border Collie 😀
+
+Para estar al tanto de las ultimas noticias siguenos en nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/).
 
 Estamos en contacto
 

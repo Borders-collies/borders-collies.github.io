@@ -53,11 +53,11 @@ Siempre se consistente con tu método. Si dejas de jugar con tu cachorro o si gr
 
 Dile a otros miembros de la familia y amigos que hagan lo mismo. Tus esfuerzos serán mucho más eficaces si todos los demás reaccionan también de la misma manera. Tu cachorro aprenderá mucho más rápido que morder a otros durante los juegos no es un comportamiento aceptable.
 
-Si quieres seguir leyendo consejos para adiesrar a tu Border Collie es por<a href="{{ site.url }}/border-collie-adiestramiento/"> aqui</a>.
+Si quieres seguir leyendo consejos para adiestrar a tu Border Collie es por<a href="{{ site.url }}/border-collie-adiestramiento/"> aqui</a>.
 
-Tienes algo que comentar o aportar? Hay algo que quieres compartir? Estamos encantados de escucharte, escríbenos a hola@borders-collies.com.
+Si te ha gustado este artículo comparte con otros amantes de los Border Collie 😀
 
-Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀
+Para estar al tanto de las ultimas noticias siguenos en nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/).
 
 Estamos en contacto
 

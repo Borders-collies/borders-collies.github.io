@@ -74,6 +74,7 @@ Las razas más populares de perros son a menudo las más caras. Si el criador ti
 Es una señal clara  de que el criador no se preocupa por los perritos. Para ellos no son más que dinero. ¿Es realmente a esta  persona a quien quieres comprar tu cachorro? Creo que no 😄
 
 Quieres compartir tu experiencia con nosotros? Estamos encantados de escucharte, mandanos un mensaje a hola@borders-collies.com.
+
 Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀
 
 Estamos en contacto

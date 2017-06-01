@@ -44,6 +44,8 @@ También te puede interesar este articulo sobre los tipos de <a href="{{ site.ur
 
 Tienes un comentario, una pregunta, ganas de expresar tu opinión o experiencia? Envíanos un mensaje a hola@borders-collies.com.
 
+Para estar al tanto de las ultimas noticias siguenos en nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/).
+
 Cuidate!
 
 — Sara de borders-collies.com

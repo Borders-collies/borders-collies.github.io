@@ -32,8 +32,9 @@ Haznos saber en los comentarios cuánto tiempo te llevo entrenar a tu Border Col
 
 Continua el entrenamiento de tu Border Collie con<a href="{{ site.url }}/border-collie-adiestramiento/"> estos consejos</a>.
 
-Hay algo que quieres compartir? Estamos encantados de escucharte, escríbenos a hola@borders-collies.com.
-Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀
+Si te ha parecido interesante este artículo comparte con otros amantes de los Border Collie 😀
+
+Para estar al tanto de las ultimas noticias siguenos en nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/).
 
 Estamos en contacto
 

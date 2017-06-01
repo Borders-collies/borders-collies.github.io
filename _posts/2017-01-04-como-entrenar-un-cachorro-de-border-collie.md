@@ -62,7 +62,7 @@ Nos despedimos con un video genial que hemos visto en imgur 😍 del entrenamien
 
 Si quieres ver mas videos chulos con otros trucos que puedes enseñar a tu Border Collie visita esta <a href="{{ site.url }}/border-collie-videos/">sección.</a>
 
-Hay algo que quieres compartir? Estamos a tu disposicion, escribenos a hola@borders-collies.com 😀
+Hay algo que quieres compartir? Estamos a tu disposicion, escribenos a hola@borders-collies.com 😀 o siguenos en nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/).
 
 Estamos en contacto
 

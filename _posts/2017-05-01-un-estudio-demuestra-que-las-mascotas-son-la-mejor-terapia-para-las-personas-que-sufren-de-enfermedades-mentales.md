@@ -4,7 +4,7 @@ title:  "Un estudio demuestra que las mascotas son la mejor terapia para las per
 date: "2017-05-01 08:00:00"
 image: "terapia-para-las-personas-que-sufren-de-enfermedades-mentales.jpg"
 category: "articulos"
-tags: "noticias" 
+tags: "noticias"
 intro: "Un reciente estudio publicado en la revista BMC Psychiatry, subraya los positivos resultados de la zooterapia en personas con problemas mentales."
 description: "Un reciente estudio  publicado en la revista británica BMC Psychiatry, realizado por Helen Brooks, una investigadora de salud mental de la Universidad de Manchester, subraya que los positivo resultados de la zooterapia en personas con problemas mentales."
 ---
@@ -47,6 +47,8 @@ _"A través de los rituales de la alimentación, el ejercicio, la preparación y
 Los científicos querrían promover la zooterapia y verla impuesta como un método reconocido de tratamiento para los pacientes mentalmente enfermos. La investigadora espera que dentro de los próximos años, la terapia con animales se proponga en numerosas centros médicos y sea respetada como un método clásico de tratamiento.
 
 Desde borders-collies.com nos ha parecido muy interesante este estudio que demuestra una vez mas todo el bien que pueden hacernos nuestras mascotas.
+
+{% include components/descargar-guia-como-elegir-tu-border-collie-post.html %}
 
  Y tu, que opinas? escríbenos a hola@borders-collies.com y cuentanoslo.
 

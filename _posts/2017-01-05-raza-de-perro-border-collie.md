@@ -37,7 +37,8 @@ El adiestramiento de un Border Collie debe comenzar pronto, mientras es todavía
 
 Además los Borders son muy populares entre los entrenadores porque son obedientes y entusiastas cuando tienen que trabajar. Como hemos señalado anteriormente son muy inteligentes y les gusta aprender cosas nuevas por lo que es muy fácil <a href="{{ site.url }}/como-entrenar-un-cachorro-de-border-collie/">trabajar con ellos</a> esto hace que los adiestradores de perros los adoren.
 
-Tienes algo que comentar o aportar? Hay algo que quieres compartir? Estamos encantados de escucharte, mandanos un mensaje a hola@borders-collies.com.
+Hay algo que quieres compartir? Estamos a tu disposicion, escribenos a hola@borders-collies.com o siguenos en nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/).
+
 Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀
 
 Estamos en contacto

@@ -32,7 +32,10 @@ Un juguete que funciona bien es el Kong ya que tiene un objetivo y es que el per
 Si te gusta hacer las cosas tu mismo echa un vistazo a estas ideas de <a href="{{ site.url }}/4-juguetes-caseros-para-perros/">juguetes caseros para perros</a>.
 
 Tienes algo que comentar o aportar? Hay algo que quieres compartir? Estamos encantados de escucharte, mandanos un mensaje a hola@borders-collies.com.
+
 Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀
+
+Puedes seguirnos en <a href="https://www.facebook.com/borderscolliescom/">facebook</a>.
 
 Estamos en contacto
 
