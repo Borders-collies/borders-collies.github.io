@@ -1,7 +1,7 @@
 ---
-layout: "post" 
+layout: "post"
 title:  "Porque nuestros Border Collie inclinan la cabeza cuando les hablamos? No es solo para parecer adorables 😆"
-date: "2017-06-01 08:00:00"
+date: "2017-06-02 08:00:00"
 image: "porque-los-perros-ladean-la-cabeza-cuando-les-hablamos.jpg"
 category: "articulos"
 tags: "noticias"
