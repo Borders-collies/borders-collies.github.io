@@ -63,7 +63,7 @@ O tal vez la respuesta más simple es la mejor: quizás es sólo un signo de con
 
 Si quieres descubrir más noticias sobre Border Collies es por<a href="{{ site.url }}/border-collie-noticias/"> aquí</a>.
 
-Si te ha parecido interesante este artículo comparte con otros amantes de los Border Collie 😀
+Si te ha parecido interesante este artículo compartelo con otros amantes de los Border Collie 😀
 
 Para estar al tanto de las ultimas noticias siguenos en nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/).
 
