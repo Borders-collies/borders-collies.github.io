@@ -17,7 +17,7 @@ Los Border Collies son una [raza muy inteligente](http://www.borders-collies.com
 
  **2 - Programar una rutina**
 
-Puedes pensar que esto es extraño, pero todos los perros, y los border collies no son una excepción, necesitan un <a href="https://es.pinterest.com/pin/666462444827199668/">horario consistente</a>. Como dice el refrán somos animales de costumbres, si no sigues un horario estable tu Border Collie lo notara. Así que asegúrate de planificar un horario para él que encaja con el tuyo.
+Puedes pensar que esto es extraño, pero todos los perros, y los border collies no son una excepción, necesitan un <a href="https://es.pinterest.com/pin/666462444827199815/">horario consistente</a>. Como dice el refrán somos animales de costumbres, si no sigues un horario estable tu Border Collie lo notara. Así que asegúrate de planificar un horario para él que encaja con el tuyo.
 
 Algunos dueños de Border collie sacan a pasear a su compañero por la mañana, dejan que su familia o amigos jueguen con él y lo vigilen mientras ellos están en el trabajo y cuando el dueño llega a casa coge el relevo. En ese momento el dueño se ocupa de nuevo de su border collie jugando con él.
 
