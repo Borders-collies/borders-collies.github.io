@@ -1,10 +1,10 @@
 ---
 layout: "post"
 title: "Soluciones naturales para acabar con las garrapatas"
-date: "2017-06-09 07:00:00"
+date: "2017-06-09 03:00:00"
 image: "soluciones-naturales-para-la-temporada-de-la-garrapata.png"
 category: "articulos"
-tags: "cria"
+tags: "cuidados"
 intro: "Las enfermedades hereditarias pueden ocurrir en la mayoría, si no en todas las razas de perros. En los Border Collie también hay ciertas enfermedades que se producen, pero tenemos la suerte de tener disponibles una variedad de pruebas de..."
 description: "Las enfermedades hereditarias pueden ocurrir en la mayoría, si no en todas las razas de perros. En los Border Collie también hay ciertas enfermedades que se producen, pero tenemos la suerte de tener disponibles una variedad de pruebas de ADN y de salud que pueden ayudar a los criadores a identificarlas y evitarlas."
 ---
