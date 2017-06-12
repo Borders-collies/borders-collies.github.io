@@ -17,6 +17,9 @@ layout: default
             {% if post.id-youtube %}
               <a href="{{site.url}}/{{ post.permalink }}"><img src="http://img.youtube.com/vi/{{ post.id-youtube | remove: ' ' }}/mqdefault.jpg" alt="{{ post.title }}" width="219" height="106" /></a>
             {% endif %}
+            {% if post.id-vimeo %}
+              <a href="{{site.url}}/{{ post.permalink }}"><img src="http://img.vimeo.com/vi/{{ post.id-vimeo | remove: ' ' }}/mqdefault.jpg" alt="{{ post.title }}" width="219" height="106" /></a>
+            {% endif %}
               <div class="row collapse">
                 <div class="grid">
                   <a href="{{site.url}}/{{ post.permalink }}">{{ post.title }}</a>
@@ -28,6 +31,9 @@ layout: default
           <div>
             {% if post.id-youtube %}
               <img src="http://img.youtube.com/vi/{{ post.id-youtube | remove: ' ' }}/mqdefault.jpg" alt="{{ post.title }}" width="219" height="106" />
+            {% endif %}
+            {% if post.id-vimeo %}
+              <img src="http://img.vimeo.com/vi/{{ post.id-vimeo | remove: ' ' }}/mqdefault.jpg" alt="{{ post.title }}" width="219" height="106" />
             {% endif %}
               <div class="row collapse">
                 <div class="grid">
