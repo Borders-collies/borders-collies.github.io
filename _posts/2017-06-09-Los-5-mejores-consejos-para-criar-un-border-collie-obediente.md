@@ -9,7 +9,9 @@ intro: "No es ningún secreto que los border collies son uno de los caninos más
 description: "No es ningún secreto que los border collies son uno de los caninos más inteligentes que podemos encontrar. Son aprendices rápidos y muy perceptivos."
 ---
 
-No es ningún secreto que los [border collies son uno de los caninos más inteligentes](http://www.borders-collies.com/border-collie-perro-mas-inteligente-del-mundo) que podemos encontrar. Son aprendices rápidos y muy perceptivos. Son tan inteligentes de hecho, que saben exactamente qué cosas pueden conseguir fácilmente y que las cosas las conseguirán con dificultad. Esta es la razón por la cual es absolutamente importante que permanezcas constante enseñando a tu border collie para que te escuche. Estos son los 5 consejos más importantes sobre cómo criar un border collie obediente.
+No es ningún secreto que los [border collies son uno de los caninos más inteligentes](http://www.borders-collies.com/border-collie-perro-mas-inteligente-del-mundo) que podemos encontrar. Son aprendices rápidos y muy perceptivos. Son tan inteligentes de hecho, que saben exactamente qué cosas pueden conseguir fácilmente y que las cosas las conseguirán con dificultad. Esta es la razón por la cual es absolutamente importante que permanezcas constante enseñando a tu border collie para que te escuche.
+
+Estos son los 5 consejos más importantes sobre cómo criar un border collie obediente.
 
 ### 1. Ejecución
 
@@ -17,9 +19,11 @@ Nunca le des a tu border collie una orden que no tengas la intención de reforza
 
 ### 2. Positivo sobre negativo
 
-Trata de usar el refuerzo positivo al máximo y deja de lado el refuerzo negativo. El refuerzo positivo asegurará que tu border collie obedezca por afecto en lugar de miedo. Esto reducirá los niveles de estrés en tu border collie y hará de él un compañero más feliz.
+Trata de usar el refuerzo positivo al máximo y deja de lado el refuerzo negativo. El refuerzo positivo asegurará que tu border collie obedezca por afecto en lugar de miedo lo que reducirá los niveles de estrés en tu border collie y hará de él un compañero más feliz.
 
-En la gran mayoría de los los problemas que se puedan presentar pueden solucionarse con refuerzo positivo y con un cambio de actitud por parte del dueño. Si sientes que no tienes recursos ante ciertas situaciones consulta con un profesional en comportamiento canino.
+La gran mayoría de los problemas que se puedan presentar se pueden solucionar con refuerzo positivo y con un cambio de actitud por parte del dueño.
+
+Si sientes que no tienes recursos ante ciertas situaciones consulta con un profesional en comportamiento canino.
 
 ### 3. Menos es más
 
@@ -37,15 +41,16 @@ Si piensas que tu voz se ve afectada por tu estado de ánimo o que no destacas e
 
 ### 5. Tenlo desde que es jóven
 
-La mejor sugerencia sería que puedas tenerlo desde que es [cachorro](http://www.borders-collies.com/como-entrenar-un-cachorro-de-border-collie/), con unos 3 meses para asi poder empezar a entrenarlo.
+La mejor sugerencia sería que puedas tener a tu [Border Collie desde que es cachorro](http://www.borders-collies.com/como-entrenar-un-cachorro-de-border-collie/), con unos 3 meses para asi poder empezar a entrenarlo.
 
-Es cierto que como los Border Collies son animales muy inteligentes  se les puede enseñar nuevos trucos cuando son adultos. Pero, si esperas demasiado tiempo tendrás que trabajar contra sus malos hábitos y sus voluntades ya aprendidas y eso es doble trabajo.
+Es cierto que como los Border Collies son animales muy inteligentes y se les puede enseñar nuevos trucos cuando son adultos. Pero, si esperas demasiado tiempo tendrás que trabajar contra sus malos hábitos y sus voluntades ya aprendidas y eso es doble trabajo.
+
 Si los entrenas cuando son jóvenes, no tendrás que preocuparte de revertir malos hábitos, ya que de momento no existen y aprenderán las órdenes más rápido.
 
-Estos consejos están probados para trabajar una y otra vez con no sólo border collies, sino con casi cualquier raza de perro. Recuerda tener estas ideas en cuenta la próxima vez que estés trabajando con su border collie y pronto aprenderá a ser un compañero cachorro obediente!
+Estos consejos están probados para trabajar una y otra vez con no sólo border collies, sino con casi cualquier raza de perro. Recuerda tener estas ideas en cuenta la próxima vez que estés trabajando con tu Border collie y pronto aprenderá a ser un compañero obediente!
 
 Cómo se comporta tu Border Collie? Quieres contárnoslo?
-Estamos encantados de escucharte comparte tu experiencia en nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/).
+Estamos encantados de escucharte, comparte tu experiencia en nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/).
 
 Si te ha gustado lo que te hemos contado comparte este artículo con otros fans del Border Collie 😀
 
