@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Los 5 mejores consejos para criar un border collie obediente"
-date: "2017-06-09 09:00:00"
+date: "2017-06-12 06:00:00" 
 image: "Los-5-mejores-consejos-para-criar-un-border-collie-obediente.jpg"
 category: "articulos"
 tags: "adiestramiento"
