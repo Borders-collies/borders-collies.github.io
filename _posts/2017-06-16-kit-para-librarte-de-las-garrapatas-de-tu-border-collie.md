@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title:  "Kit para librarte de las garrapatas en tu border collie"
-date: "2017-06-09 07:00:00"
+date: "2017-06-16 02:00:00"
 image: "kit-para-librarte-de-las-garrapatas-de-tu-border-collie.jpg"
 category: "articulos"
 tags: "productos"
