@@ -53,6 +53,6 @@ Si quieres descubrir más consejos para adiestrar a tu Border Collie es por<a hr
 
 Si te ha gustado este artículo compártelo con otros amantes de los Border Collie con los botones de la izquierda.
 
-Estamos en contacto
+Estamos en contacto 
 
 — Sara de borders-collies.com
