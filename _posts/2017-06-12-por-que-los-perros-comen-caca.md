@@ -52,7 +52,7 @@ Parásitos intestinales que absorben los nutrientes que su perro debe estar reci
 
 Ciertas enfermedades como la diabetes y problemas de tiroides, así como los esteroides, pueden hacer a los perros lo suficientemente voraces para comer heces (honestamente muchos perros no necesitan más que un empujón).
 
-**5. Malabsorción**
+**5. Mala absorción**
 
 Cualquier otra condición que puede conducir a la mala absorción de nutrientes a su vez puede conducir a comer heces. No sólo tu perro quiere comer sus heces, debido a los sabrosos nutrientes no digeridos, sino que puede encontrar las heces de un gato aún más deliciosas. Es importante considerar que heces está buscando, porque también puede ser un indicador de una deficiencia o enfermedad en esa mascota.
 
@@ -98,11 +98,11 @@ Los perros que fueron castigados por hacer popo en casa pueden comenzar a asocia
 
 Un perro más joven puede aprender este comportamiento de un perro más viejo que ha adquirido un gusto por el estiércol. Así que asegúrate de acabar con el problema de raíz.
 
-Ahora ya sabemos que existen multiples razones por las que tu Border Collie puede comer caca. Pero, ahora la cuestion real es qué podemos hacer para atajar el problema.
-
 <div class="text-center">
  <img src= "{{site.url}}/assets/img/articulos/border-collie-que-come-caca.jpg" width="650" height="auto" alt="{{ post.title }}">
 </div>
+
+Ahora ya sabemos que existen multiples razones por las que tu Border Collie puede comer caca. Pero, ahora la cuestion real es qué podemos hacer para atajar el problema.
 
 #### Lista rápida
 
