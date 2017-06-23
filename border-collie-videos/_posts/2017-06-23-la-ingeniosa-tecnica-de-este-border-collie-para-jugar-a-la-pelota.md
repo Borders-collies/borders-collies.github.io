@@ -6,7 +6,7 @@ category: "videos"
 date: "2017-06-23 06:00:00"
 video: "https://www.youtube.com/embed/VzCMPd614BE"
 id-youtube: "VzCMPd614BE"
-video-description: "En los Países Bajos, este Border Collie ha encontrado una singeniosa manera de divertirse jugando a la pelota con la gente que pasa por su casa.
+video-description: "En los Países Bajos, este Border Collie ha encontrado una ingeniosa manera de divertirse jugando a la pelota con la gente que pasa por su casa.
 
 Los interesados en el trabajo del profesor Stanley Coren acerca de la psicología canina sin duda conocéis el ranking de inteligencia de perros que se ha establecido. En el primer puesto de las razas más inteligentes está el Border Collie. Este perro pastor brilla en una gran variedad de campos gracias a su capacidad de observación y análisis notable, incluyendo agilidad y obediencia.
 Y cuando nos fijamos en las siguientes imágenes, es fácil estar de acuerdo con el profesor Stanley Coren y sus conclusiones.
