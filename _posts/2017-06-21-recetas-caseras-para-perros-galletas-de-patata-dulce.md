@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "post" 
 title:  "Recetas caseras para perros: galletas de patata dulce"
 date: "2017-06-21 08:00:00"
 image: "recetas-caseras-para-perros-galletas-de-patata-dulce.jpg"
