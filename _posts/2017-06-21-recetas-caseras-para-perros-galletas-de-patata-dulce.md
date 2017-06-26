@@ -1,5 +1,5 @@
 ---
-layout: "post" 
+layout: "post"
 title:  "Recetas caseras para perros: galletas de patata dulce"
 date: "2017-06-21 08:00:00"
 image: "recetas-caseras-para-perros-galletas-de-patata-dulce.jpg"
@@ -11,12 +11,12 @@ description: "Después de haber compartido con vosotros cómo hacer galletas de 
 
 Después de haber compartido con vosotros cómo hacer [galletas de plátano y zanahoria para vuestros perros](http://www.borders-collies.com/recetas-caseras-para-perros-galletas-de-platano-y-zanahoria/) y la [receta de las galletas de manzana](http://www.borders-collies.com/recetas-caseras-para-perros-galletas-de-manzana/) hoy os traemos una nueva receta llena de sabor y natural para vuestro peludo.
 
-**Por qué hemos elegido las galletas de la patata dulce deshidratada?**
+### Por qué hemos elegido las galletas de la patata dulce deshidratada?
 
 Porque están hechas a base de productos naturales y son un alimento sano para usar como premios.
 Otra ventaja es que tu perro tardará un poquito más en comersela y no la engullirá de un solo bocado. Además le ayudan a “regularse” cuando lo necesita.
 
-**Qué aporta la patata dulce a tu perro?** 🍠🍠
+### Qué aporta la patata dulce a tu perro? 🍠🍠
 
 _Una rica fuente de beta-caroteno_
 
@@ -30,7 +30,7 @@ _Alto en fibra, bajo en grasa_
 
 Las patatas dulces son ricas en fibra dietética que es ideal para la salud digestiva. Además, contienen muy poca grasa. Ambas características hacen las adiciones sanas de las patatas dulces a la dieta de su perro.
 
-**Qué necesitas para hacer las galletas para perros de patata dulce?**   
+### Qué necesitas para hacer las galletas para perros de patata dulce?   
 
 - Patatas dulces grandes
 - Mandolina o cuchillo afilado
@@ -38,7 +38,7 @@ Las patatas dulces son ricas en fibra dietética que es ideal para la salud dige
 - Algo (aceite, mejor que mejor) para engrasar la bandeja
 - Horno
 
-**Preparación**
+### Preparación
 
 Precalienta el horno a 225 grados. Mientras tanto, corta una de las partes superiores de las patatas para hacer más fácil cortarlas. Cuidadosamente corta en rodajas gruesas a lo largo de la patata con un cuchillo afilado o una mandolina, alrededor de 8 milimetros de grosor para mandíbulas de la talla del Border Collie. Si vas a cortar las patatas con la mandolina puedes optar por dejar la piel.
 
