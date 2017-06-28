@@ -2,7 +2,7 @@
 layout: "post"
 title:  "Entrevista a la consultora canina Sumara Marletta"
 date: "2017-06-28 08:00:00"
-image: "entrevista-a-la-consultora-canina-sumara-marletta.jpg"
+image: "entrevista-a-la-consultora-canina-sumara-marletta.JPG" 
 category: "articulos"
 tags: "entrevistas"
 intro: "Buscando libros sobre nuestros amigos peludos me tope con dos dirigidos al público infantil que me llamaron la atención."
