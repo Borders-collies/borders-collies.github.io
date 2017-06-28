@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title:  "Entrevista a Carol Ramirez, su experiencia adoptando un Border Collie"
+title:  "Carol Ramirez nos cuenta su experiencia adoptando un Border Collie"
 date: "2017-05-09 00:30:00"
 image: "entrevista-a-carol-ramirez-su-experiencia-adoptando-un-border-collie.jpg"
 category: "articulos"
@@ -15,7 +15,7 @@ Desde borders-collies.com apoyamos la adopción y la cria responsable de animale
 
 Por esa razón hemos decidido entrevistar a algunas personas que han decidido [adoptar un Border Collie](http://www.borders-collies.com/5-senales-a-tener-en-cuenta-para-adoptar-un-border-collie/) y compartir su experiencia con nosotros.
 
-Le damos la palabra a Carol.
+Hoy es el turno de Carol asi que le damos la palabra.
 
 **Cuentanos algo sobre ti! Quien eres, donde vives, que te gusta hacer?**
 
@@ -100,7 +100,7 @@ _Eco jugando al Disc dog_
 **Cualquier perro es adoptable, con paciencia y tiempo** consigues que cualquier perro sea plenamente feliz. Y sobre todo, que se **adopte con responsabilidad y con información** de la raza si es un perro de raza. Los que salen por la televisión o en películas no son así de fábrica, así que no nos dejemos “engañar” por eso.
 
 
-_Esperamos que os haya gustado tanto la historia de Eco y Carol como a nosotros. Desde aquí  queremos darle las gracias a Carol por su tiempo y por las pedazo de fotos tan chulas que nos ha mandado._ 👏🏼👏🏼👏🏼
+_Esperamos que os haya gustado tanto la historia de Eco y Carol como a nosotros. Desde aquí queremos darle las gracias a Carol por su tiempo y por las pedazo de fotos tan chulas que nos ha mandado._ 👏🏼👏🏼👏🏼
 
 Si tu también has adoptado un Border Collie y quieres dar a conocer su historia escríbenos a hola@borders-collies.com.
 

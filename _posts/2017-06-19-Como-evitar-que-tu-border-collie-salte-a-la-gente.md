@@ -47,7 +47,7 @@ Si tu Border Collie comienza a saltar de nuevo haz que se siente y se quede quie
 
 Sé que a algunos propietarios de mascota les encanta dar a sus perros emotivos “adioses” y “holas”, pero con ello lo único que hacen es que su perro se ponga más ansioso. Cada vez que el dueño lo hace, el perro asume que es algo grande por lo que vale la pena emocionarse, así que se alimenta ese comportamiento.
 
-Esperamos haberte ayudado, si quieres compartir tu experiencia cuéntanosl en nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/).
+Esperamos haberte ayudado, si quieres compartir tu experiencia cuéntanosla en nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/).
 
 Si quieres descubrir más consejos para adiestrar a tu Border Collie es por<a href="{{ site.url }}/border-collie-adiestramiento/"> aquí</a>.
 

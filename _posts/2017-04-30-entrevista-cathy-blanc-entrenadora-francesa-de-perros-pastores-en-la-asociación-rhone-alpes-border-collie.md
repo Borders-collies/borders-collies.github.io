@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title:  "Entrevista a Cathy Blanc entrenadora de perros pastores en la asociación Rhone Alpes border collie"
+title:  "Aprendemos como trabajan los Border Collies con las ovejas con Cathy Blanc"
 date: "2017-04-30 08:00:00"
 image: "cathy-balnc-entrenando-perro-pastor.jpg"
 category: "articulos"
@@ -26,6 +26,12 @@ El tercer objetivo es conectar dos mundos desconocidos, el de la ciudad y el de 
 
 El último objetivo es proponer al público una actividad que esté en perfecta adecuación con lo que es el Border Collie. Este perro, no pastor, nunca está tan equilibrado como cuando evolua en el medio en el que ha sido creado.
 
+<blockquote>
+"Los dos puntos indispensables para una buena comunicación con tu perro son: ser coherente y saber leer a tu perro"
+</blockquote>
+<a href="http://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&title={{ page.title }}" class="" rel="nofollow"><img src= "{{site.url}}/assets/img/facebook.svg" width="24" height="25"> Compartir</a>
+<a href="https://twitter.com/share?url={{ site.url }}{{ page.url }}&amp;text={{ page.title }}" class="" rel="nofollow" target="_blank"><img src= "{{site.url}}/assets/img/twitter.svg" width="24" height="25"> Tuitear</a>
+
 Sin más dilación dejamos la palabra a Cathy en la entrevista que ha realizado con nosotros. Las fotos de la misma las ha seleccionado Cathy y nos cuenta en cada una porque.
 
 <div class="text-center">
@@ -33,7 +39,7 @@ Sin más dilación dejamos la palabra a Cathy en la entrevista que ha realizado 
 </div>
 _La foto muestra un trabajo de separación de ovejas. Cathy enseña a su perro, Hund, a separar un lote y lo apoya en su confrontación con una de ellas._
 
-**1) Cuéntanos algo sobre ti, cual es tu bagaje profesional y en que estas trabajando.**
+**Cuéntanos algo sobre ti, cual es tu bagaje profesional y en que estas trabajando.**
 
 Soy hija de agricultores, mi padre tenía dos oficios, por un lado era profesor y por otro productor de queso de cabra.
 Mis padres siempre han rescatado perros de la Sociedad Protectora de Animales para tenerlos en nuestra explotación  e instintivamente yo los adiestraba para el mejor uso según su potencial (algunos, no eran buenos para trabajar con cabras y sin embargo encontraban su lugar como perro guardián, o mascota...)
@@ -42,7 +48,7 @@ Posteriormente, descubrí el Border Collie.
 Tras los pasos de mi padre, yo también tengo una doble profesión: profesora de matemáticas, por un lado y criadora de ovejas por otro.
 Actualmente, continúo entrenando en Irlanda del Norte en Gerard GRAHAM y comparto mis conocimientos a través de la Asociación Border Collie de Rhône-Alpes.
 
-**2) ¿Para acceder a tus cursos, se necesita cumplir algún requisito de la parte del perro o del guía?**
+**¿Para acceder a tus cursos, se necesita cumplir algún requisito de la parte del perro o del guía?**
 
 Los cursos son accesibles sólo perros de la raza pastor (Sección 1 Grupo 1 según la clasificación de la [FCI](http://www.fci.be/es/Nomenclature/), Perros de pastor y perros boyeros (excepto perros boyeros suizos).
 
@@ -51,7 +57,7 @@ Los cursos son accesibles sólo perros de la raza pastor (Sección 1 Grupo 1 seg
 </div>
 _La foto muestra un trabajo de separación de ovejas. Cathy enseña a su perro, Hund, a separar un lote y lo apoya en su confrontación con una de ellas._
 
-**3) ¿Cuando recomiendas que comience a trabajar con un cachorro de border collie?**
+**¿Cuando recomiendas que comience a trabajar con un cachorro de border collie?**
 
 Un cachorro puede comenzar una iniciación por algunas tomas de contacto (posiblemente a distancia, simplemente asistiendo a la formación si su madurez no es aún suficiente).
 
@@ -68,17 +74,23 @@ También tengo que hacerle entender la finalidad de todo esto, si no siempre rep
 
 Similitudes entre ambos? 😃
 
+<blockquote>
+"Su evolución dependerá sólo de la calidad de su dueño: a menudo es él el freno del perro."
+</blockquote>
+<a href="http://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&title={{ page.title }}" class="" rel="nofollow"><img src= "{{site.url}}/assets/img/facebook.svg" width="24" height="25"> Compartir</a>
+<a href="https://twitter.com/share?url={{ site.url }}{{ page.url }}&amp;text={{ page.title }}" class="" rel="nofollow" target="_blank"><img src= "{{site.url}}/assets/img/twitter.svg" width="24" height="25"> Tuitear</a>
+
 <div class="text-center">
  <img src= "{{site.url}}/assets/img/articulos/border-collie-de-trabajo.jpg" width="650" height="auto" alt="{{ post.title }}">
 </div>
 _Foto que muestra las actitudes de depredación empleadas por Macc (hijo de Inverness, ver más abajo)_
 
-**4. ¿Cuánto tiempo - de media - se necesita para adiestrar a un perro?**
+**¿Cuánto tiempo - de media - se necesita para adiestrar a un perro?**
 
 El aprendizaje de la conducción de un rebaño es un trabajo de toda una vida.
 El adiestramiento consiste en conseguir que el perro produzca acciones a las que no piensa para que desarrolle nuevas habilidades.
 
-**5. Puesto que no hay chucherías, u otros premios, ¿qué motiva al perro a hacer el trabajo?**
+**Puesto que no hay chucherías, u otros premios, ¿qué motiva al perro a hacer el trabajo?**
 
 El perro pastor ama su trabajo: siente una gran satisfacción estando en contacto con animales.
 No hay necesidad de una pelota o una croqueta. En la ejecución de las órdenes dadas, su acción sobre la manada es en sí mismo una recompensa.
@@ -89,7 +101,7 @@ En su caso, el trabajo es una fuente de placer!
 </div>
 _Foto que muestra las actitudes de depredación empleadas por Inverness._
 
-**6. ¿Cómo se comunican el Border Collie y su dueño?**
+**¿Cómo se comunican el Border Collie y su dueño?**
 
 **Lo importante es comunicarse con su perro.**
 A diferencia de los seres humanos, todos los perros tienen un **lenguaje universal**.
@@ -102,7 +114,7 @@ La sonrisa en el ser humano, tiene el mismo significado que la "sonrisa" de un p
 Oh, no te preocupes... los perros tienen una gran capacidad de adaptación y ellos comprenderán rápidamente que el ser humano es paradójico: cuando muestra los dientes es realmente feliz.
 Tu perro va a descifrar tu idioma. Pero es que es él quien debe hacer el esfuerzo de entenderte?
 
-**7. Qué es lo que se necesita para conseguir conducir un rebaño de ovejas?**
+**¿Qué es lo que se necesita para conseguir conducir un rebaño de ovejas?**
 
 Para dirigir con éxito un rebaño, debes formar un equipo con tu perro. Tendrás que comunicarte con él con el fin de intercambiar información.
 Vas a tener que aprender a "leer" a tu perro.
@@ -114,6 +126,12 @@ La raza tiene una influencia? El número ? La hora del día? La topografía de l
 
 Por eso, la palabra se usa es MANDO.
 Aprender a dar una orden en el momento adecuado, anticipando la reacción de la manada, por lo que el perro lleva la oveja allí donde desea.
+
+<blockquote>
+"Los perros tienen una gran capacidad de adaptación y ellos comprenderán rápidamente que el ser humano es paradójico."
+</blockquote>
+<a href="http://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&title={{ page.title }}" class="" rel="nofollow"><img src= "{{site.url}}/assets/img/facebook.svg" width="24" height="25"> Compartir</a>
+<a href="https://twitter.com/share?url={{ site.url }}{{ page.url }}&amp;text={{ page.title }}" class="" rel="nofollow" target="_blank"><img src= "{{site.url}}/assets/img/twitter.svg" width="24" height="25"> Tuitear</a>
 
 <div class="text-center">
  <img src= "{{site.url}}/assets/img/articulos/cathy-blanc-importancia-de-conocer-la-ovejas.jpg" width="450" height="auto" alt="{{ post.title }}">
