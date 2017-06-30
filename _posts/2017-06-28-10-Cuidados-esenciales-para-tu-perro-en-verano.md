@@ -11,19 +11,19 @@ description: "Que el mes de junio ha sido un mes excepcionalmente caluroso no lo
 
 Que el mes de junio ha sido un mes excepcionalmente caluroso no lo duda nadie. Los termómetros han rondado temperaturas extremadamente altas para esta época del año. 🌡️ El calor nos deja bastante bajitos de energía y así de golpe nos cuesta digerirlo.
 
-A nuestros amigos peludos les pasa lo mismo. Para ellos también es duro hacer frente al calor y por eso tenemos que **prestarles especial atención**. Ellos no son autónomos al 100% y no pueden pegarse una ducha para refrescarse como nosotros cualdo les apetece 🛀 o ir al frigo a por agua freca.
+A nuestros amigos peludos les pasa lo mismo. Para ellos también es duro hacer frente al calor y por eso tenemos que **prestarles especial atención**. Ellos no son autónomos al 100% y no pueden pegarse una ducha para refrescarse como nosotros cuando les apetece 🛀 o ir al frigo a por agua fresca.
 
 Para mitigar el calor de tu perro este verano que acaba de comenzar te proponemos estos 10 consejos.
 
 #### 1) Pasea con tu perro en las horas más frescas.
 
-Dado que estos son los momentos más fríos del día son prontito por la mañana o al final del dia, aprovecha estos momentos para sacar a pasear a tu perro. De esta manera el paseo sera más cómodo tanto para ti como para tu perro.
+Dado que estos son los momentos más fríos del día son prontito por la mañana o al final del dia, aprovecha estos momentos para sacar a pasear a tu perro. De esta manera el paseo será más cómodo tanto para ti como para tu perro.
 
 En borders collies nos gusta [fomentar el ejercicio con nuestra mascota](http://www.borders-collies.com/5-comandos-que-tu-perro-debe-conocer-antes-de-lanzarte-a-hacer-canicross/) para tener un perro sano, pero esta en esta época del año hay que rebajar la intensidad.
 
 #### 2) Calzale unas botas especiales para perros.
 
-Si no puedes pasear a tu perro durante las primeras horas del día o por la noche esta es una buena manera de protegerlo. El calor se eleva desde el suelo, especialmente en superficies como cemento y asfalto, que son las que ocupan la mayoria de las ciudades. Los perros absorben y liberan calor, entre otros, a través de sus pies. Al igual que las botas impiden que el perro absorba el frío en invierno, también lo aíslan el calor en verano.
+Si no puedes pasear a tu perro durante las primeras horas del día o por la noche esta es una buena manera de protegerlo. El calor se eleva desde el suelo, especialmente en superficies como cemento y asfalto, que son las que ocupan la mayoría de las ciudades. Los perros absorben y liberan calor, entre otros, a través de sus pies. Al igual que las botas impiden que el perro absorba el frío en invierno, también lo aíslan el calor en verano.
 
 <table class="stack">
   <thead>
@@ -54,7 +54,7 @@ La insolación en los perros se manifiesta con:
 - Vómito
 - Falta de cordinacion
 
-Si tu perro sufre alguno de estos sintomas ponte en contacto con un veterinario lo antes posible.
+Si tu perro sufre alguno de estos síntomas ponte en contacto con un veterinario lo antes posible.
 
 #### 4) Mantén a tu perro hidratado.
 
@@ -99,7 +99,7 @@ Dos buenas opciones para que no le falte el agua a tu perro cuando vayas de excu
       <tr>
        <th>Piscina para perros</th>
        <th>Fuente para perros</th>
-       <th>Collar de frio para perros</th>
+       <th>Collar de frío para perros</th>
       </tr>
       <tr>
        <th><a class="button" href="https://www.amazon.es/Mia-home-Piscina-perros-160-cm-160x30cm/dp/B00J95WDGG/ref=as_li_ss_tl?ie=UTF8&qid=1498668824&sr=8-26&keywords=piscina+perros&linkCode=ll1&tag=bordecolli06-21&linkId=7380c5995f79ec0829841f94b358d2c5">Comprar en Amazon</a></th>
@@ -161,13 +161,13 @@ La mejor actividad que puedes hacer en verano o cuando hace calor es la natació
 
 #### 9) Deja que tu perro cave.
 
-Tu perro puede recurrir a encontrar su propia manera de evitar el calor. La naturaleza ha enseniado a los perros a cavar para encontrar comida u ocultarla. También lo hacen para preparar su lugar para dar a luz y aunque quizas no lo sabias para mantenerse frescos! Si tu perro se pone en modo excavadora dejalo, lo hace para tener menos calor.
+Tu perro puede recurrir a encontrar su propia manera de evitar el calor. La naturaleza ha enseñado a los perros a cavar para encontrar comida u ocultarla. También lo hacen para preparar su lugar para dar a luz y aunque quizás no lo sabias para mantenerse frescos! Si tu perro se pone en modo excavadora dejalo, lo hace para tener menos calor.
 
 #### 10) Deja a tu perro comprobar el tiempo.
 
 Los perros no tienen un smartphone (por lo menos aun!) para consultar el tiempo en Google, por lo que no saben por qué se les niega un largo paseo. Permite que tu perro salga y sienta por sí mismo que hace demasiado calor o demasiado frío para dar un largo paseo. Instintivamente, el perro entenderá que tiene que acortar su caminata, o simplemente volver a casa donde se está mejor.
 
-Esperamos que estos consejos os sean utiles, si quieres compartir tu experiencia cuéntanosla en nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/).
+Esperamos que estos consejos os sean útiles, si quieres compartir tu experiencia cuéntanosla en nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/).
 
 Si quieres descubrir más consejos para cuidar a tu Border Collie es por<a href="{{ site.url }}/border-collie-cuidados/"> aquí</a>.
 
