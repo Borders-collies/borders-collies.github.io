@@ -96,7 +96,9 @@ Puede que no sea el perrito lindo que una vez fui, pero todavía te quiero tanto
 
 Estas 15 ideas nos parecen las reglas de oro para tener una relacion sana y responsabilizarnos de nuestro amigo peludo. Si hemos decidido tener un perro tenemos que darlo todo por él de la misma manera que él nos da todo su amor incondicional.
 
-Qué te ha parecido este manifiesto? Si te ha gustado compartelo con otros amantes de los perros con los botones de la izquierda 😀 
+{% include components/descargar-guia-como-elegir-tu-border-collie-post.html %}
+
+Qué te ha parecido este manifiesto? Si te ha gustado compartelo con otros amantes de los perros con los botones de la izquierda 😀
 
 Si quieres descubrir más información sobre el Border Collie es por<a href="{{ site.url }}/border-collie-cria/"> aquí</a>.
 
