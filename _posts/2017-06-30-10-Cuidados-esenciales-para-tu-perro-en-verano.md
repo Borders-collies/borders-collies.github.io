@@ -1,10 +1,10 @@
 ---
 layout: "post"
 title:  "10 Cuidados esenciales para tu perro en verano 🌞"
-date: "2017-06-30 10:00:00"
+date: "2017-07-01 08:00:00"
 image: "10-cuidados-esenciales-para-tu-perro-en-verano.jpg"
 category: "articulos"
-tags: "articulos" 
+tags: "productos"
 intro: "Que el mes de junio ha sido un mes excepcionalmente caluroso no lo duda nadie. 🌡️ La calor nos deja bastante bajitos de energía y así de golpe nos cuesta digerirlo. "
 description: "Que el mes de junio ha sido un mes excepcionalmente caluroso no lo duda nadie. La calor nos deja bastante bajitos de energía y así de golpe nos cuesta digerirlo."
 ---
