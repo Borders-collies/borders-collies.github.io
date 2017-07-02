@@ -2,7 +2,7 @@
 layout: "post"
 title:  "Entrevista a la consultora canina Sumara Marletta"
 date: "2017-06-28 08:00:00"
-image: "entrevista-a-la-consultora-canina-sumara-marletta.JPG" 
+image: "entrevista-a-la-consultora-canina-sumara-marletta.JPG"
 category: "articulos"
 tags: "entrevistas"
 intro: "Buscando libros sobre nuestros amigos peludos me tope con dos dirigidos al público infantil que me llamaron la atención."
@@ -103,7 +103,7 @@ Error 3: No trabajar bien el vínculo, o creer que darle salchichas es crear ví
 
 A través de mis redes sociales:
 
-- Pagina web [www.consultoriacanina.com](www.consultoriacanina.com)<br>
+- Pagina web [www.consultoriacanina.com](https://www.consultoriacanina.com)<br>
 - Twitter  [@sumaramarletta](https://twitter.com/sumaramarletta?lang=es)<br>
 - Facebook<br>
 [@Consultoria Canina](https://www.facebook.com/consultoriacanina/)<br>
