@@ -73,7 +73,7 @@ Otra ventaja de este tipo de camas es que si el pipi se escapa son fáciles de l
 
 ### Camas para perros con ansiedad
 
-Para algunos perros ansiosos, las camas de madriguera como la cueva acogedora (véase arriba) son una opción excelente; Sin embargo, otros perros que sufren de ansiedad pueden tener miedo de la oscuridad o el concepto de estar ocultos o cubiertos. Otra buena opción para perros ansiosos es una cama de nido o cama de perro de reforzar que cuenta con lados levantados sin la cobertura por encima. Las camas del sillín son generalmente más costosas que camas rellenadas simples, porque la mayoría son hechas y llenadas más con el relleno más durable. Bolster camas también tienden a ser más voluminoso que otros tipos de camas de perro, por lo que necesita para asegurarse de que tiene el espacio en casa. Creemos que su perro le encantará el apoyo adicional y la sensación de tener su propio "sofá".
+Para algunos perros ansiosos, las camas de nido o camas que cuentan con los lados levantados sin cobertura por encima pueden ser una excelente idea. Estas camas son en general más compararse que las camas planas porque la mayoría estan hechas y rellenas con relleno más durable. También tienden a ser más voluminosas que otros tipos de camas de perro, por lo que necesitas asegurarte de que tienes el espacio necesario en casa. Creemos que a tu perro le encantará el apoyo adicional y la sensación de tener su propio "sofá".
 
 **Petfusion Ultimate Pet cama Premium Edition con cubiertas de espuma de memoria sólida**
 
