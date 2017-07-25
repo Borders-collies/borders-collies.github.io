@@ -244,6 +244,6 @@ Hemos reunido una lista de los mejores collares de pulgas y un resumen de cada c
 
 Esperamos haberte ayudado a elegir tu collar antipulgas, puedes consultar más productos para tu Border Collie en [esta página](http://www.borders-collies.com/border-collie-productos/).
 
-Si te ha parecido interesante este artículo compártelo con otros amantes de los Border Collie 😀
+Si te ha parecido interesante este artículo compártelo con otros amantes de los Border Collie ??
 
 Para estar al tanto de las últimas noticias síguenos en nuestras [página de Facebook](https://www.facebook.com/borderscolliescom/).
