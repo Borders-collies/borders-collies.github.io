@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title:  "Como cuidar las almohadillas de tu Border Collie en verano"
+title:  "Cómo cuidar las almohadillas de tu Border Collie en verano"
 date: "2017-07-05 09:00:00"
 image: "como-cuidar-las-almohadillas-de-tu-border-collie-en-verano.jpg"
 category: "articulos"
@@ -63,3 +63,7 @@ Si te ha gustado este artículo compártelo con otros amantes de los Border Coll
 Estamos en contacto
 
 — Sara de borders-collies.com
+
+<div class="text-center">
+  <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=48&l=ur1&category=pets&banner=0JF8KFCW434YEBR6PWG2&f=ifr&linkID=13aed09d49f1870bed4c32728a68e6b8&t=bordecolli06-21&tracking_id=bordecolli06-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+</div>

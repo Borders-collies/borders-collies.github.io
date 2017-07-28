@@ -43,6 +43,10 @@ Si morder cosas compulsivamente está causado por el estrés, tendrás que inten
 
 Llevar a tu perro a correr es una buena manera de hacerle hacer ejercicio. Coge a tu Border y dale un buen paseo para que trabaje su cuerpo y mente.
 
+<div class="text-center">
+  <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=22&l=ur1&category=pets&banner=00S1N256W5CYHCQZ5AG2&f=ifr&linkID=66ceab1cc6f0385fe5f60ea8ba5e3fb1&t=bordecolli06-21&tracking_id=bordecolli06-21" width="250" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+</div>
+
 Si quieres descubrir más trucos para adiestrar a tu Border Collies es por<a href="{{ site.url }}/border-collie-adiestramiento/"> aquí</a>.
 
 Si te ha parecido interesante este artículo comparte con otros amantes de los Border Collie 😀

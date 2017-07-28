@@ -40,6 +40,10 @@ Ahora necesitas que se calme de nuevo hasta que se siente tranquilamente. No abr
 Entiendo que al principio todos estos pasos no son divertidos pero son los pasos necesarios para conseguir que tu perro no tire de la correa.
 Otra buena idea es pasear a tu Border Collie más a menudo, de esta manera aprenderá mucho más rápido.
 
+<div class="text-center">
+  <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=22&l=ur1&category=pets&banner=00S1N256W5CYHCQZ5AG2&f=ifr&linkID=66ceab1cc6f0385fe5f60ea8ba5e3fb1&t=bordecolli06-21&tracking_id=bordecolli06-21" width="250" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+</div>
+
 Puedes encontrar otros trucos para entrenar a tu Border Collie <a href="{{ site.url }}/border-collie-adiestramiento/">aquí</a>.
 
 Hay algo que quieres compartir? Estamos encantados de escucharte, escríbenos a hola@borders-collies.com.

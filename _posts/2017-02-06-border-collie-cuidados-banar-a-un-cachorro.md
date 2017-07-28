@@ -77,6 +77,10 @@ La mejor manera de hacerlo es dejar que el cachorro se sacuda algo del agua mien
 
 El resultado? un perro bien limpio!
 
+<div class="text-center">
+  <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=22&l=ur1&category=pets&banner=00S1N256W5CYHCQZ5AG2&f=ifr&linkID=66ceab1cc6f0385fe5f60ea8ba5e3fb1&t=bordecolli06-21&tracking_id=bordecolli06-21" width="250" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+</div>
+
 Si quieres ver otros consejos para cuidar a tu perro es por <a href="{{ site.url }}/border-collie-cuidados/">aquí</a>.
 
 Si te ha parecido interesante este artículo comparte con otros amantes de los Border Collie 😀

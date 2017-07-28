@@ -43,6 +43,10 @@ El tercero es un grupo de Facebook que se dedica a anunciar perros, adultos o ca
 
 Se publican varios anuncios diarios en todas las paginas asi que es muy probable que si quieres adoptar un Border encuentres uno.
 
+<div class="text-center">
+  <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=22&l=ur1&category=pets&banner=00S1N256W5CYHCQZ5AG2&f=ifr&linkID=66ceab1cc6f0385fe5f60ea8ba5e3fb1&t=bordecolli06-21&tracking_id=bordecolli06-21" width="250" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+</div>
+
 Hay algo que quieres compartir? Estamos a tu disposicion, escribenos a hola@borders-collies.com o siguenos en nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/).
 
 Te ha gustado lo que te hemos contado? comparte nuestro articulo con otros amantes del Border Collie 😀
