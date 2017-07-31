@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title:  "Las mejores camas para tu Border Collie"
-date: "2017-07-10 09:00:00"
+date: "2017-07-10 09:00:00" 
 image: "las-4-mejores-camas-para-perros.jpg"
 category: "articulos"
 tags: "productos"
