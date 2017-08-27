@@ -13,24 +13,28 @@ Los border collies se consideran una de las [razas de perro más inteligentes de
 
 Esta raza de perros no son para todo el mundo, pero si crees que puedes estar a la altura de un Border Collie y responder a sus necesidades entonces tendrás un compañero leal e inteligente.
 
-### Temperamento y personalidad de la raza Border Collie
+#### Temperamento y personalidad de la raza Border Collie
+
 Esta raza en particular requiere una gran cantidad de estimulación mental y física. A los Border Collies a los que se les niega la estimulación que necesitan rápidamente se aburren y se ven obligados a buscar formas alternativas de entretenerse.
 Estas maneras pueden incluir la[ morder ropa, muebles](http://www.borders-collies.com/que-hacer-para-que-tu-border-collie-deje-de-morder-todas-tus-cosas/) y otros comportamientos destructivos.
 A estos perros les encanta estar ocupados en todo momento. Ciertamente no son perros que disfrutan sentándose en casa todo el día esperando a sus dueños, necesitan algo para mantenerlos ocupados o tendrás un enorme lío cuando vuelvas a casa.
 Si necesitas ideas en este articulo te contamos [8 maneras de entretener a tu perro cuando estás en el trabajo](http://www.borders-collies.com/8-maneras-de-entretener-a-tu-perro-cuando-estas-en-el-trabajo/)
 
-####Entrenamiento del Border Collie
+#### Entrenamiento del Border Collie
+
 Como dijimos anteriormente, los border collies son muy inteligentes. Son capaces de aprender trucos elaborados con el enfoque correcto, lo que los hace muy populares entre los entrenadores de perros.
 La raza border collie necesita estimulación mental y física y un collie que no está debidamente entrenado está obligado a coger algunos hábitos desagradables - como morderlo todo.
 
 
-###Ejercicio
+#### Ejercicio
+
 El Border Collie fue criado para correr en grandes campos abiertos y tiene mucha energía para mantenerse activo durante períodos prolongados de tiempo.
 A pesar de que originalmente se consideran sólo "perros pastor", ahora son mucho más que eso. Los amantes del perro en todo el mundo han abrazado la raza Border Collie y la han invitado a sus hogares, sin embargo la necesidad de una actividad vigorosa todavía está arraigada profundamente en ellos.
 Los Border collies en principio no son perros de apartamento, necesitan un montón de espacio para correr y jugar. El ejercicio para ellos es importante tanto para su salud y como para su felicidad.
 Así que si eres o vas a ser dueño de un border collie asegúrate de ofrecer a tu perro mucho tiempo para correr y usar su energía.
 
 #### Aseo
+
 Los border collies son generalmente fáciles de preparar. No requieren de un montón de baños, pero es necesario cepillarlos semanalmente para deshacerse de cualquier pelo extra que está pegado a su manto.
 Como cualquier otra raza de pelo largo, el border collie pierde pelo especialmente en primavera y otoño y debido a su pelo más largo este fenómeno es mucho más notable.
 
