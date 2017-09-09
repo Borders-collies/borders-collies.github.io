@@ -4,7 +4,7 @@ title: "Los mejores consejos para ir en bici con tu perro"
 date: "2017-09-09 07:00:00"
 image: "los-mejores-consejos-para-ir-en-bici-con-tu-perro.jpg"
 category: "articulos"
-tags: "cuidados"
+tags: "adiestramiento"
 intro: "¿Tiene un perro enérgico que necesita mucho ejercicio, o está buscando una manera de pasar más tiempo con él y entrenar?
 Puede que tenga la solución para ti. Ir en bici con tu perro!!"
 description: "¿Tiene un perro enérgico que necesita mucho ejercicio, o está buscando una manera de pasar más tiempo con él y entrenar?
