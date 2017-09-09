@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Los mejores consejos para ir en bici con tu perro"
-date: "2017-09-07 07:00:00"
+date: "2017-09-09 07:00:00"
 image: "los-mejores-consejos-para-ir-en-bici-con-tu-perro.jpg"
 category: "articulos"
 tags: "cuidados"
@@ -13,7 +13,7 @@ Puede que tenga la solución para ti. Ir en bici con tu perro!!"
 
 ¿Tiene un perro enérgico que necesita mucho ejercicio, o está buscando una manera de pasar más tiempo con él y entrenar?
 
-Puede que tenga la solución para ti. Ir en bici con tu perro!! 🚵🏻 
+Puede que tenga la solución para ti. Ir en bici con tu perro!! 🚵🏻
 
 El BTT es un deporte muy popular en estos días. Las bicicletas de montaña están diseñadas especialmente para mejorar el rendimiento en terrenos accidentados. Sí, puede tomar un poco de práctica y tiempo, pero lo que es una gran manera para que ambos para obtener algunos ejercicios extremos, disfrutar del aire libre y pasar algún tiempo juntos.
 
