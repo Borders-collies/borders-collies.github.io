@@ -60,7 +60,7 @@ Primero cepilla a tu cachorro para deshacerte del cabello suelto y desenredar el
 
 <h4>Paso 3 - Remoja a tu perro</h4>
 
-Yo uso el cabezal de ducha para este paso. Si no puedes usar la suya, puedes hacerlo con una jarra o, si lo haces en el exterior, usar una manguera de agua. Comienza desde la parte superior y moja completamente el pelo de su perro. Ten mucho cuidado y trata de no meter agua en las orejas del cachorro.
+Yo uso el cabezal de ducha para este paso. Si no puedes usar la suya, puedes hacerlo con una jarra o, si lo haces en el exterior, usar una manguera de agua. Comienza desde la parte superior y moja completamente el pelo de tu perro. Ten mucho cuidado y trata de no meter agua en las orejas del cachorro.
 
 <h4>Paso 4 - Pon champú al cachorro</h4>
 
