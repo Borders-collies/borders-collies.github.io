@@ -48,7 +48,7 @@ Una de las razones más comunes por las que los perros son entregados a los refu
 Saca a la calle a tu perro en momentos específicos: la primera vez después de despertarte, después de cada comida, después de jugar y justo antes de acostarse. Después de que tu perro haga sus necesidades pasa un poco de tiempo jugando con él, sino no querrá hacer pipí y caca de inmediato si todo lo que vas a hacer es arrastrarlo de vuelta a casa una vez que haya terminado.
 
 Cuando estés en la casa, evita accidentes. No dejes a un perro joven o nuevo toda la casa para él de inmediato. Manténlo donde puedas verlo. Si no puedes vigilarlo, pónlo en su cesta o su camita, o una pequeña habitación a prueba de perros (quizás la cocina). A medida que se haga mayor, será más físicamente capaz de mantener su orina y heces durante períodos más largos. También habrá aprendido que llega a salir en momentos específicos.
-
+ 
 Espero que os hayan gustado estos consejos. Si queréis añadir alguno otro escribeme a hola@borders-collies.com
 
 Si te ha gustado lo que te hemos contado comparte este artículo con otros fans del Border Collie 😃 y siguenos en nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/).
