@@ -8,7 +8,7 @@ tags: "cria"
 intro: "Aunque la mayoría de la gente se imagina el tradicional pelo largo, blanco y negro cuando piensa en un Border Collie, la raza tiene una amplia variedad de colores de pelo y texturas."
 description: "Aunque la mayoría de la gente se imagina el tradicional pelo largo, blanco y negro cuando piensa en un Border Collie, la raza tiene una amplia variedad de colores de pelo y texturas."
 ---
- 
+
 Aunque la mayoría de la gente se imagina el tradicional pelo largo, blanco y negro cuando piensa en un Border Collie, la raza tiene una amplia [variedad de colores](http://www.borders-collies.com/border-collie-colores/) de pelo y texturas.
 
 Desde una perspectiva genética, el Border Collie puede tener tanto pelo largo como pelo corto. El pelo corto es dominante sobre el largo, pero que una vez que un perro de pelo largo cria con uno de pelo largo no hay posibilidad de que tengamos un cachorro de pelo corto. Es por eso que en la raza hay muchos más Border Collies de pelo largo. Cuando se cría a un perro de pelo largo, el gen de pelo largo que lleva información del pelo corto producirá aproximadamente 50% de pelo largo y 50% corto.
@@ -23,9 +23,9 @@ La variedad de pelo largo también puede tener variación. Algunos perros llevan
 
 La raza ha sido diseñada para poder sobrellevar cualquier condición en la que el trabajo debe ser realizado, y un pelo sano es esencial, sin importar su longitud. Normalmente el tipo de pelo se puede distinguir en perritos de a partir de 5 semanas.
 
-Huelga decir que los perros con pelo corto son mucho más fáciles de cuidar. Su pelo no recoge el agua o la suciedad en el mismo grado que los perros de pelo largo. Las capas cortas se secan más rápidamente después de un baño, nadando o trabajando bajo la lluvia. El pelo corto no requiere de un aseo excesivo. Una vez más con un cepillo simple en ocasiones podemos mantener el e el pelo en buenas condiciones. Los perros de pelo corto no  tampoco otros desechos. Por estas razones, son muy populares el sur de estados unidos, donde los ranchos ganaderos no tienen tiempo para mantener a un perro suave.
+Huelga decir que los perros con pelo corto son mucho más fáciles de cuidar. Su pelo no recoge el agua o la suciedad en el mismo grado que los perros de pelo largo. Las capas cortas se secan más rápidamente después de un baño, nadando o trabajando bajo la lluvia. El pelo corto no requiere de un aseo excesivo. Una vez más con un cepillo simple en ocasiones podemos mantener el e el pelo en buenas condiciones. Los perros de pelo corto no  tampoco otros desechos. Por estas razones, son muy populares el sur de Estados Unidos, donde los ranchos ganaderos no tienen tiempo para mantener a un perro suave.
 
- Cabe señalar que, independientemente del pelo que tengan en el exterior, todos son Border Collies en el interior. Sólo hay una diferencia entre los perros de pelo largo y corto, y es la longitud (y por lo tanto la facilidad de manejo) del pelo.
+Cabe señalar que, independientemente del pelo que tengan en el exterior, todos son Border Collies en el interior. Sólo hay una diferencia entre los perros de pelo largo y corto, y es la longitud (y por lo tanto la facilidad de manejo) del pelo.
 
 Muchos grandes Border Collies han sido de la variedad de pelo corto. Si uno asiste a un ensayo de pastoreo de Border Collie, será fácil encontrar muchos perros así. La gente que pastorea no discrimina a los perros por el tipo del pelo - y muchos prefieren los de pelo corto por su fácil mantenimiento. Pero, por alguna razón, no son tan comunes en los deportes de perro como la obediencia o el agility.
 
