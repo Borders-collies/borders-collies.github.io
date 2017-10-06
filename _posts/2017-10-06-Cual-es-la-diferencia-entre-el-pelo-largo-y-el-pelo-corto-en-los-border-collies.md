@@ -8,7 +8,7 @@ tags: "cria"
 intro: "Aunque la mayoría de la gente se imagina el tradicional pelo largo, blanco y negro cuando piensa en un Border Collie, la raza tiene una amplia variedad de colores de pelo y texturas."
 description: "Aunque la mayoría de la gente se imagina el tradicional pelo largo, blanco y negro cuando piensa en un Border Collie, la raza tiene una amplia variedad de colores de pelo y texturas."
 ---
-
+ 
 Aunque la mayoría de la gente se imagina el tradicional pelo largo, blanco y negro cuando piensa en un Border Collie, la raza tiene una amplia [variedad de colores](http://www.borders-collies.com/border-collie-colores/) de pelo y texturas.
 
 Desde una perspectiva genética, el Border Collie puede tener tanto pelo largo como pelo corto. El pelo corto es dominante sobre el largo, pero que una vez que un perro de pelo largo cria con uno de pelo largo no hay posibilidad de que tengamos un cachorro de pelo corto. Es por eso que en la raza hay muchos más Border Collies de pelo largo. Cuando se cría a un perro de pelo largo, el gen de pelo largo que lleva información del pelo corto producirá aproximadamente 50% de pelo largo y 50% corto.
