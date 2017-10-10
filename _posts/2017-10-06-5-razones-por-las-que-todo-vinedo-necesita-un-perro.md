@@ -4,7 +4,7 @@ title:  "5 razones por las que todo viñedo necesita un perro 🍇"
 date: "2017-10-10 08:00:00"
 image: "5-razones-por-las-que-todo-vinedo-necesita-un-perro.jpg"
 category: "articulos"
-tags: "cria"
+tags: "noticias"
 intro: "Parece que el mejor amigo de un enólogo puede ser su perro, ya sea comprado a un criador o adoptado en un refugio."
 description: "Parece que el mejor amigo de un enólogo puede ser su perro, ya sea comprado a un criador o adoptado en un refugio."
 ---
