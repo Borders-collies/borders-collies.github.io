@@ -8,7 +8,7 @@ tags: "noticias"
 intro: "Los Border Collies son, de manera general, más impulsivos que los Labradores  Retrievers, según una investigación publicada
 en 2016. Seguro que esta afirmacion no sorprende a casi nadie. 😅"
 description: "Los Border Collies son, de manera general, más impulsivos que los Labradores  Retrievers, según una investigación publicada
-en 2016. Seguro que esta afirmacion no sorprende a casi nadie. 😅"
+en 2016. Seguro que esta afirmacion no sorprende a casi nadie."
 ---
 
 Los Border Collies son, de manera general, más impulsivos que los Labradores  Retrievers, según una investigación publicada
@@ -43,3 +43,11 @@ convierte en el foco principal para los criadores (como en las líneas de exposi
 y reducir las diferencias medias de impulsividad entre las razas.
 
 Ahora se realizarán más estudios para explorar estas diferencias y determinar si los hallazgos similares también son ciertos para otras razas.
+
+¿Te apetece leer más noticias sobre los Border Collie? Consulta nuestro apartado de [noticias perrunas](http://www.borders-collies.com/border-collie-noticias/).
+
+Si te ha gustado lo que te hemos contado comparte este artículo con otros fans del Border Collie 😀 y siguenos en nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/).
+
+Estamos en contacto
+
+— Sara de borders-collies.com
