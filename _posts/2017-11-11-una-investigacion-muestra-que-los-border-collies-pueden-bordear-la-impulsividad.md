@@ -22,8 +22,7 @@ de impulsividad entre las líneas de exposicion de las dos razas. Las líneas de
 y competiciones, por ejemplo.
 
 El estudio fue realizado por un grupo de investigadores en las áreas de comportamiento animal y genética evolutiva en la Universidad de Lincoln.
-Se recogieron datos sobre 1.161 border collies y labradores usando la Escala de evaluación de la impulsividad del perro (DIAS)
-- un cuestionario reportado por el dueño del perro compuesto de 18 preguntas - para analizar su temperamento.
+Se recogieron datos sobre 1.161 border collies y labradores usando la Escala de evaluación de la impulsividad del perro (DIAS) - un cuestionario reportado por el dueño del perro compuesto de 18 preguntas - para analizar su temperamento.
 
 Fernanda Fadel, autora del estudio de la Facultad de Ciencias de la Vida de la Universidad de Lincoln, explicó:
 
