@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Un perro mayor puede aprender nuevos trucos pero los jóvenes aprenden más rápido"
+title:  "Un perro mayor puede aprender nuevos trucos pero los jóvenes aprenden más rápido"
 date: "2017-12-16 07:00:00"
 image: "un-perro-mayor-puede-aprender-nuevos-trucos-pero-los-jovenes-aprenden-mas-rapido.jpg"
 category: "articulos"
@@ -38,3 +38,5 @@ Si te ha gustado lo que te hemos contado comparte este artículo con otros fans 
 Estamos en contacto
 
 — Sara de borders-collies.com
+
+
