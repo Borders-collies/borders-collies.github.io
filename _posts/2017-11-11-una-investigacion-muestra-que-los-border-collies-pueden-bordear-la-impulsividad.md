@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title:  "Una investigación muestra que los Border collies pueden bordear la impulsividad"
-date: "2017-11-11 07:00:00"
+date: "2017-11-15 07:00:00"
 image: "una-investigacion-muestra-que-los-border-collies-pueden-bordear-la-impulsividad.jpg"
 category: "articulos"
 tags: "noticias"
