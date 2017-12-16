@@ -2,7 +2,7 @@
 layout: "post"
 title:  "Evita los picotazos con el mejor collar antipulgas para perros"
 date: "2017-07-25 08:00:00"
-image: "evita-los-picotazos-con-el mejor-collar-antipulgas-para-perros.jpg"
+image: "evita-los-picotazos-con-el-mejor-collar-antipulgas-para-perros.jpg"
 category: "articulos"
 tags: "productos"
 intro: "¿Tu perro se rasca más que normal? Ups! tu Border Collie podría tener pulgas o garrapatas ...!!! Descubre por qué son importantes y cuál es el mejor collar de pulgas para perros."
