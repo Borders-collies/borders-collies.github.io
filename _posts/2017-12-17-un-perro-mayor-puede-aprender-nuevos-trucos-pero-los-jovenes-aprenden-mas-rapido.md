@@ -9,7 +9,7 @@ intro: "Los resultados están ahí y han desmentido profundamente ese viejo dich
 description: "Los resultados están ahí y han desmentido profundamente ese viejo dicho: "No se pueden enseñar trucos nuevos a un perro viejo ". Pues, resulta que se puede, pero tendrás que ser un poco más paciente."
 ---
 
-_Los resultados están ahí y han desmentido profundamente ese viejo dicho: "No se pueden enseñar trucos nuevos a un perro viejo ". Pues, resulta que se puede, pero tendrás que ser un poco más paciente._
+_Los resultados están ahí y han desmentido profundamente ese viejo dicho: No se pueden enseñar trucos nuevos a un perro viejo. Pues, resulta que se puede, pero tendrás que ser un poco más paciente._
 
 Investigadores del Instituto de Investigación Messerli de Viena estudiaron las capacidades cognitivas de los perros a medida que envejecen. Específicamente, analizaron la capacidad de aprendizaje de un perro, su memoria y su uso del razonamiento lógico, conjuntos de habilidades que hasta ese momento, solo habían sido estudiados en humanos.
 
