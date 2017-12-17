@@ -5,8 +5,8 @@ date: "2017-12-17 07:00:00"
 image: "un-perro-mayor-puede-aprender-nuevos-trucos-pero-los-jovenes-aprenden-mas-rapido.jpg"
 category: "articulos"
 tags: "noticias"
-intro: "Los resultados están ahí y han desmentido profundamente ese viejo dicho: "No se pueden enseñar trucos nuevos a un perro viejo ". Pues, resulta que se puede, pero tendrás que ser un poco más paciente."
-description: "Los resultados están ahí y han desmentido profundamente ese viejo dicho: "No se pueden enseñar trucos nuevos a un perro viejo ". Pues, resulta que se puede, pero tendrás que ser un poco más paciente."
+intro: "Los resultados están ahí y han desmentido profundamente ese viejo dicho: No se pueden enseñar trucos nuevos a un perro viejo . Pues, resulta que se puede, pero tendrás que ser un poco más paciente."
+description: "Los resultados están ahí y han desmentido profundamente ese viejo dicho: No se pueden enseñar trucos nuevos a un perro viejo . Pues, resulta que se puede, pero tendrás que ser un poco más paciente."
 ---
 
 _Los resultados están ahí y han desmentido profundamente ese viejo dicho: No se pueden enseñar trucos nuevos a un perro viejo. Pues, resulta que se puede, pero tendrás que ser un poco más paciente._
