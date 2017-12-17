@@ -5,8 +5,8 @@ date: "2017-12-17 07:00:00"
 image: "un-perro-mayor-puede-aprender-nuevos-trucos-pero-los-jovenes-aprenden-mas-rapido.jpg"
 category: "articulos"
 tags: "noticias"
-intro: "Los resultados están ahí y han desmentido profundamente ese viejo dicho: No se pueden enseñar trucos nuevos a un perro viejo . Pues, resulta que se puede, pero tendrás que ser un poco más paciente."
-description: "Los resultados están ahí y han desmentido profundamente ese viejo dicho: No se pueden enseñar trucos nuevos a un perro viejo . Pues, resulta que se puede, pero tendrás que ser un poco más paciente."
+intro: "Los resultados están ahí y han desmentido profundamente ese viejo dicho: No se pueden enseñar trucos nuevos a un perro viejo. Pues, resulta que se puede, pero tendrás que ser un poco más paciente."
+description: "Los resultados están ahí y han desmentido profundamente ese viejo dicho: No se pueden enseñar trucos nuevos a un perro viejo. Pues, resulta que se puede, pero tendrás que ser un poco más paciente."
 ---
 
 _Los resultados están ahí y han desmentido profundamente ese viejo dicho: No se pueden enseñar trucos nuevos a un perro viejo. Pues, resulta que se puede, pero tendrás que ser un poco más paciente._
@@ -19,7 +19,7 @@ Lisa Wallis y Friederike Range llevaron a cabo la investigación que contó con 
 
 Para las pruebas iniciales, los perros se dividieron en cinco grupos en función de su edad y se probaron en cuatro tareas diseñadas para medir sus capacidades cognitivas: aprendizaje, razonamiento lógico y memoria.
 
-A los perritos se les mostraron un total de ocho imágenes, dos a la vez. Al tocar una de las dos imágenes presentadas, los perros fueron recompensados ??con un obsequio, pero no recibieron nada cada vez que tocaron la segunda imagen. Los investigadores querían saber si los perros podían tomar una decisión consciente. Huelga decir que, con el tiempo, los perritos comenzaron a conectar la recompensa con ciertas imágenes e independientemente de la secuencia o combinación en la que se presentasen, pronto seleccionaron la que les daría un premio.
+A los perritos se les mostraron un total de ocho imágenes, dos a la vez. Al tocar una de las dos imágenes presentadas, los perros fueron recompensados con un obsequio, pero no recibieron nada cada vez que tocaron la segunda imagen. Los investigadores querían saber si los perros podían tomar una decisión consciente. Huelga decir que, con el tiempo, los perritos comenzaron a conectar la recompensa con ciertas imágenes e independientemente de la secuencia o combinación en la que se presentasen, pronto seleccionaron la que les daría un premio.
 
 ¿Los resultados? Envejecer afecta las capacidades cognitivas de los perros. Aunque todos eran capaces de aprender, los perros más viejos fueron más lentos para conectar una determinada imagen con la obtención del premio.
 
