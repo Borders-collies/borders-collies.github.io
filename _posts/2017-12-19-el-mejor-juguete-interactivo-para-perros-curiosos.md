@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title:  "Porqué los perros jóvenes aprenden más rápido"
-date: "2017-12-17 07:00:00"
+date: "2017-12-19 07:00:00"
 image: "el-mejor-juguete-interactivo-para-perros-curiosos.jpg"
 category: "articulos"
 tags: "productos"
