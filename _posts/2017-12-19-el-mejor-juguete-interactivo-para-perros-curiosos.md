@@ -23,9 +23,6 @@ Los perros son animales muy juguetones e inteligentes. Si tienes un perrito curi
 
 Este juego recompensa a tu perro por abrir correctamente los diferentes compartimentos. Para jugar, es muy fácil, solo tienes que colocar las golosinas favoritas de tu perro en uno o en todos los compartimentos. Cuando tu perro desliza las cobijas o levanta las aletas o los conos, se revelarán las golosinas para que se las coma.
 
-trixie-flip-board
-
-
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/productos/trixie-flip-board.jpg" width="500" height="auto" alt="cepillo para perros Dyson Groom">
 </div>
