@@ -19,8 +19,8 @@ Pídale a un niño de cuatro años que esté muy quieto en una habitación él s
 Cuando vuelvas a casa, dile a ese niño que puede caminar afuera durante 10 minutos, pero luego regresará a pasar la noche. Repite esta rutina a diario. Sí, esto es lo que viven muchos perros todos los días.
 Los perros son animales muy juguetones e inteligentes. Si tienes un perrito curioso, ¿por qué no canalizar su energía en un juego que va a satisfacer su curiosidad durante horas?
 
+### Trixie Flip Board
 
-Trixie Flip Board
 Este juego recompensa a tu perro por abrir correctamente los diferentes compartimentos. Para jugar, es muy fácil, solo tienes que colocar las golosinas favoritas de tu perro en uno o en todos los compartimentos. Cuando tu perro desliza las cobijas o levanta las aletas o los conos, se revelarán las golosinas para que se las coma.
 
 trixie-flip-board
