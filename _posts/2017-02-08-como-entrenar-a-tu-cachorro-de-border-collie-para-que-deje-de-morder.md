@@ -35,7 +35,7 @@ Hay varios métodos que puedes usar para evitar que un Border Collie muerda. Voy
 
 <h4>Consejo de entrenamiento 1</h4>
 
-Deja de jugar inmediatamente con st cachorro Collie siempre que le muerda. Trata de hacer que sea muy obvio el por qué has dejado de jugar. Tan pronto como te muerda, vuélvete y toma cualquier juguete con el que estuvieras jugando lejos de él. Tu cachorro Collie aprenderá rápidamente que morder terminará la diversión para ambos.
+Deja de jugar inmediatamente con tu cachorro siempre que te muerda. Trata de hacer que sea muy obvio el por qué has dejado de jugar. Tan pronto como te muerda, vuélvete y toma cualquier juguete con el que estuvieras jugando lejos de él. Tu cachorro Collie aprenderá rápidamente que morder terminará la diversión para ambos.
 
 <h4>Consejo de entrenamiento 2</h4>
 
