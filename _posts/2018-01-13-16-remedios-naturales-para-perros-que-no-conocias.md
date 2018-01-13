@@ -65,71 +65,71 @@ Debido a que la homeopatía es una medicina energética, los remedios no deben a
 
 Ahora que ya te sientes cómodo usando remedios homeopáticos te dejamos con la lista de **16 cosas geniales para hacer con la homeopatía**.
 
-1. Cortar uñas
+**1 - Cortar uñas**
 
 ¿Alguna vez te has cortado las uñas a tu perro y ahora están sangrando por todas tus alfombras? ¡Dale Hypericum!
 Es un gran remedio para las heridas de los nervios, especialmente en los dedos de los pies y las uñas.
 
-2. Ataque al cubo de la basura
+**2 - Ataque al cubo de la basura**
 
 ¿Atacó tu perro el cubo de basura y ahora no se siente tan bien? Está vomitando y está esforzándose por cagar todo? ¡Nux vomica lo rescatará!
 Nux vomica es el remedio perfecto para usar después de atracones o exposición a sustancias tóxicas (piensa a administrarlo después de medicamentos o cirugía también).
 
-3. Mordeduras de garrapatas
+**3 - Mordeduras de garrapatas**
 
 ¡Todos los dueños de perros temen a las mordeduras de garrapatas! ¿Pero sabías que hay un remedio que realmente puede ayudar a prevenir enfermedades transmitidas por garrapatas?
 Dele a su perro Ledum palustre dos veces al día durante dos días después de la picadura.
 
-4. Golpes y contusiones
+**4 - Golpes y contusiones**
 
 ¡Árnica es tu remedio para cualquier lesión física! Si tu perro se ha torcido algo o se ha dado un golpe dale Arnica. Funciona muy bien para el tejido magullado e inicia una curación más rápida. Yo lo uso para mi tambien.
 
-5. Cuerpos extraños
+**5 - Cuerpos extraños**
 
 ¿Ha pisado tu perro un espino o tiene una cola de zorro en su oreja?
 La sílice (también llamada Silicea) es un remedio fantástico para empujar cosas que no pertenecen al cuerpo. ¡Incluso puede ayudar a vaciar las glándulas anales!
 
-6. Abscesos
+**6 - Abscesos**
 
 ¿Tu perro tiene un absceso maloliente que está a punto de erupcionar? Hepar sulphuris puede ayudar a que el absceso madure y comience a drenar el pus.
 
-7. Cortes y rasguños
+**7 - Cortes y rasguños**
 
 ¿Alguna vez tu perro ha tenido una batalla con una valla de alambre? ¿El corte o raspado es irregular, desigual y doloroso? Caléndula tiene una gran afinidad por la piel y es un sorprendente sanador de heridas.
 
-8. Vómitos y diarrea repentinos
+**8 - Vómitos y diarrea repentinos**
 
 ¿Tu perro de repente está malito? Si está vomitando y tiene diarrea maloliente (especialmente si hay comida no digerida), entonces el Arsenicum album hará que se sienta mejor rápido.
 
-9. Fiebre repentina
+**9 - Fiebre repentina**
 
 Si tu perro tiene una fiebre repentina y está jadeando de dolor y tiene enrojecimiento en la piel o en los oídos, Belladonna puede bajar la temperatura rápidamente.
 
-10. Hinchazón
+**10 - Hinchazón**
 
 La hinchazón puede ser una afección potencialmente mortal para los perros. Si tu perro tiene cólicos, gases dolorosos o torsión, llévate Carbo vegetabilis de camino a la clínica veterinaria de emergencia ... ¡es posible que encuentres que a tu perro le está yendo mucho mejor!
 
-11. Huesos rotos
+**11 - Huesos rotos**
 
 Por supuesto, debes llevar a tu perro a tu veterinario si sospechas que tiene un hueso roto, pero puede acelerar la curación en huesos fracturados, fracturas sin unión o demoradas y dolor por fracturas con Symphytum.
 
-12. Ojos rojos y acuosos
+**12 - Ojos rojos y acuosos**
 
 ¿Ha estado su perro corriendo en hierba alta y ahora sus ojos están rojos? La conjuntivitis y los ojos irritados responden muy bien a Euphrasia.
 
-13. Infecciones del tracto urinario
+**13 - Infecciones del tracto urinario**
 
 Los perros que tienen ardor e impulso en la vejiga responden muy bien a Cantharis. Otro gran uso de este remedio es quemaduras con ampollas en la piel.
 
-14. Congelación
+**14 - Congelación**
 
 Los perros pueden sufrir rápidamente de congelación en los pies o en áreas desprotegidas durante los meses de invierno. Agaricus funciona muy bien para la congelación, especialmente en la cola, los pies y las orejas.
 
-15. Quemaduras
+**15 - Quemaduras**
 
 Las quemaduras menores y las quemaduras solares responderán bien a Urtica urens. Si las quemaduras son más severas o si la piel está rota, usa Cantharis.
 
-16. Dolor en la dentición del cachorro
+**16 - Dolor en la dentición del cachorro**
 
 Al igual que los bebés humanos, los cachorros pueden sufrir la incomodidad de los dientes nuevos. La camomilla calmará esos síntomas, especialmente si hay diarrea verdosa.
 
