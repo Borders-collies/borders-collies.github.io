@@ -131,8 +131,8 @@ La cantidad recomendada es de 1 cucharadita por cada 4,5 kg de peso, pero empiez
 
 Como menciononé anteriormente, es posible que también desees tratar a tu perro de forma tópica con aceite de coco. Este método será bueno para las pulgas, piel seca, infecciones de la piel, cortes pequeños y patas secas. Frota el aceite de coco en la piel de tu perro o en su piel y limpia cualquier exceso.
 
-Como puede ver, hay una gran lista de beneficios del aceite de coco para la salud de tu perro.
-y tu, ¿has probado ya el aceite de coco en tu Border Collie? Cuentanos tu experiencia en Nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/). Seguro que tu experiencia es útil a nuestros lectores. 😉 
+Como puedes ver, hay una gran lista de beneficios del aceite de coco para la salud de tu perro.
+y tu, ¿has probado ya el aceite de coco en tu Border Collie? Cuentanos tu experiencia en nuestra [página de Facebook](https://www.facebook.com/borderscolliescom/). Seguro que es útil para nuestros lectores. 😉
 
 Estamos en contacto
 

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title:  "El mejor juguete interactivo para perros curiosos"
+title:  "16 remedios naturales para perros que no conocias"
 date: "2018-01-13 07:00:00"
 image: "16-remedios-naturales-para-perros-que-no-conocias.jpg"
 category: "articulos"
