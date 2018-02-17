@@ -13,12 +13,10 @@ Si estás leyendo este post imagino que tienes un nuevo miembro en la familia, c
 
 Ahora déjame decirte que es muy importante entrenar a tu Border Collie mientras es todavía cachorro. Cuanto antes empieces a entrenar con él antes empezarás a ver los resultados. Es importante establecer un correcto enfoque del entrenamiento si quieres crear una buena relación con tu perro. No quieres que te escuche porque te tiene miedo, quieres que tu cachorro te escuche porque te respeta.
 
-<!-- BEGIN ZOOPLUS PARTNER NETWORK -->
-<a href="https://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.6570&tst=!!TIMESTAMP!!" target="_blank" rel="nofollow">
-<img src="https://marketing.net.zooplus.es/ts/i3811177/tsv?amc=con.zooplus.268576.280776.6570&tst=!!TIMESTAMP!!" border=0 width="468" height="60" alt="zooplus.es" />
-</a>
-
-<!-- END ZOOPLUS PARTNER NETWORK -->
+<div class="text-center">
+  <img src="https://marketing.net.zooplus.es/ts/i3811177/tsv?amc=con.zooplus.268576.280776.6570&tst=!!TIMESTAMP!!" border=0 width="468" height="60" alt="zooplus.es" />Comprar en Amazon</a><br>
+  <a href="https://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.6570&tst=!!TIMESTAMP!!" target="_blank" rel="nofollow">
+</div>
 
 <h3>Entrenamiento de obediencia</h3>
 
