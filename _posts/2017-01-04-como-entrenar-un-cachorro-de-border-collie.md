@@ -50,7 +50,7 @@ R: Antes de enseñarle cualquier truco tienes que asegurarte de que el perro sab
 
 P: ¿Por qué mi perro confunde el nombre de las órdenes?
 
-R: No es tan raro que un perro confunda las órdenes, sobre todo cuando hay un premio de por medio. Si tu cachorro simplemente gira a través de todo lo que sabe hasta que consigue el premio entonces probablemente no asocia los nombres de las órdenes con las acciones.
+R: No es tan raro que un perro confunda las órdenes, sobre todo cuando hay un [premio](http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2F) de por medio. Si tu cachorro simplemente gira a través de todo lo que sabe hasta que consigue el premio entonces probablemente no asocia los nombres de las órdenes con las acciones.
 
 Práctica cada truco individualmente y haz que lo repita entre 3 y 4 veces seguidas. Esto le ayudará a asociar el nombre del truco con lo que tiene que hacer. El uso de la mano para hacer señales es también una buena manera de eliminar la confusión que pueda ser causada  por palabras que suenan similares.
 

@@ -42,6 +42,8 @@ Algunas cremas disponibles en el mercado:
 
 - Ado Film
 
+- [Crema Trixie para cuidar las almohadillas - Pro Care](http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fhigiene_canina_maquinas_cortapelo%2Fhigiene_patas_perro%2F57511)
+
 ### 4. Remedios caseros para las almohadillas de los perros
 
 Como para todo también tenemos soluciones naturales para proteger las almohadillas de nuestros perretes con remedios caseros. Podemos darle aloe vera. El Aloe vera regenera las células de la piel favoreciendo la regeneración de la almohadilla. Ademas actua como un analgesico y antiinflamatorio. Ayudando a que nuestro perrete pueda caminar sin sentir dolor. Y por último, el aloe vera es antiséptico con lo que evitará la infección.

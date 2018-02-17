@@ -15,14 +15,14 @@ description: "¿Alguna vez has visto a un entrenador de perros profesional usar 
 
 ¿Por qué un Border Collie, u otro perro, va a sentirse motivado a hacer algo sólo por el sonido de un clic? Si realmente piensas en ello, parece un poco tonto ¿no?. Bueno, en realidad no es el sonido del clic lo que motiva en sí al perro a trabajar.
 
-Cuando los entrenadores comienzan el entrenamiento con clicker para perros, también utilizan recompensas y premios. Así que cada vez que el perro hace un truco correctamente, le dan un premio presionando el botón del clicker al mismo tiempo.
+Cuando los entrenadores comienzan el entrenamiento con clicker para perros, también utilizan recompensas y premios. Así que cada vez que el perro hace un truco correctamente, le dan un [premio](http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2F) presionando el botón del clicker al mismo tiempo.
 
 Como repiten este patrón: **orden-sonido del clicker-premio**, el Border Collie comienza a **asociar** el clic con el entrenamiento. Así que a base de entrenar el perro asocia el **clic con el premio**.
 
 La sincronización es crucial para entrenar a tu perro.
 Si tu perro está haciendo un truco impecable por primera vez. ¡Hazselo saber!
 
-1 - Haz clic y dale a tu perro su premio.
+1 - Haz clic y dale a tu perro su [premio](http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2F).
 
 2 - Repite este paso tantas veces como sea necesario, hasta que tu perro haya asociado el clic con el tratamiento.
 
@@ -45,7 +45,7 @@ El entrenamiento con clicker para perros por lo general sólo vale la pena si pl
 
 El principal **beneficio** del clicker es que se trata de un **método positivo** para indicar el **buen comportamiento**. Además, el **sonido** del clicker tiene la ventaja de **destacar** entre otros sonidos ambientales o normales (como la voz).
 
-Otra ventaja es que está **desprovisto de afecto**, es neutro, y tiene siempre el mismo valor, el **sonido es siempre el mismo**. Esto le da ventajas prácticas, tales como que el aprendizaje es más rápido porque la marca del buen comportamiento es más clara. Por otro lado es más fácil diferenciar el premio en relación al comportamiento marcado.
+Otra ventaja es que está **desprovisto de afecto**, es neutro, y tiene siempre el mismo valor, el **sonido es siempre el mismo**. Esto le da ventajas prácticas, tales como que el aprendizaje es más rápido porque la marca del buen comportamiento es más clara. Por otro lado es más fácil diferenciar el [premio](http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2F) en relación al comportamiento marcado.
 
 Otro beneficio a medio - largo plazo de entrenar a tu perro con clicker es que no necesitas golosinas para enseñarle un truco. Esto es especialmente útil si tu perro ya tiene un poco de sobrepeso y estás tratando de aligerar su dieta.
 
