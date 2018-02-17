@@ -9,13 +9,13 @@ intro: "Los dos tipos más populares de alimentos para perros en el mercado son 
 description: "Los dos tipos más populares de alimentos para perros en el mercado son el pienso seco (o croquetas), que la mayoría de los propietarios parecen elegir para sus Border Collies, o la comida enlatada, que parece sabrosa y deliciosa. Pero, a la hora de la verdad, cual es mejor?"
 ---
 
-Los dos tipos más populares de alimentos para perros en el mercado son el pienso seco (o croquetas), que la mayoría de los propietarios parecen elegir para sus Border Collies, o la comida en lata, que parece sabrosa y deliciosa. Pero, a la hora de la verdad, cuál es mejor?
+Los dos tipos más populares de alimentos para perros en el mercado son el [pienso seco (o croquetas)](http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fpienso_perros), que la mayoría de los propietarios parecen elegir para sus Border Collies, o la comida en lata, que parece sabrosa y deliciosa. Pero, a la hora de la verdad, cuál es mejor?
 
 Cuando se trata de la nutrición, 9 de cada 10 veces <a href="http://www.borders-collies.com/alimentos-toxicos-para-tu-border-collie/">la comida casera</a> con un multivitamínico sería la mejor opción. Sin embargo, si debemos elegir entre las dos primeras te presentamos una lista de los beneficios e inconvenientes de cada una.
 
  **Pienso seco**
 
-La croqueta seca en la mayor parte de los casos es más barata. Pero el ahorro no es el único beneficio de alimentar a tu perro a base de pienso seco.
+La croqueta seca en la mayor parte de los casos es más barata. Pero el ahorro no es el único beneficio de alimentar a tu perro a base de [pienso seco](http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fpienso_perros).
 
 ![](https://s3-us-west-2.amazonaws.com/notion-static/29a6c4d8a99d456ea40d041e8eff41ed/comida-para-perros-pienso-seco.jpg)
 
@@ -41,7 +41,7 @@ Es seco, duro y no sabe demasiado bien. Algunos Border Collies simplemente no qu
 
 - Contiene una gran cantidad de “relleno”
 
-Para llenar las bolsas de pienso y hacerlas más grandes ahorrando costes, algunos fabricantes (pero no todos, por suerte) añaden a la comida alimentos que no proporciona ningún valor nutricional a tu Border Collie.
+Para llenar las bolsas de [pienso](http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fpienso_perros) y hacerlas más grandes ahorrando costes, algunos fabricantes (pero no todos, por suerte) añaden a la comida alimentos que no proporciona ningún valor nutricional a tu Border Collie.
 
 - No proporcionan tanta humedad.
 
