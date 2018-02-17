@@ -17,9 +17,15 @@ Su carácter es muy activo,  incluso cuando tienen que realizar una pequeña ord
 
 Si estás pensando en tener un Border Collie seria aconsejable tener cerca un espacio amplio donde poder ir con él a correr y jugar tranquilamente, un parque, un camino, un campo, una ribera. Según las posibilidades de cada uno.
 
+<div class="text-center show-for-large">
+  <a href="https://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.6576&tst=!!TIMESTAMP!!" target="_blank" rel="nofollow">
+    <img src="https://marketing.net.zooplus.es/ts/i3811177/tsv?amc=con.zooplus.268576.280776.6576&tst=!!TIMESTAMP!!" border=0 width="468" height="60" alt="zooplus.es" />
+  </a>
+</div>
+
 A causa de su temperamento la falta de estimulación mental puede crear malos hábitos en el Border Collie como morder cosas que no debe, libros, cojines, zapatos o todo lo que pille.
 
-Como hemos comentado, <a href="{{ site.url }}/raza-de-perro-border-collie/">el origen del Border Collie</a> es trabajar con las ovejas en el campo, por lo que están predispuestos naturalmente para el trabajo. Tienen una increíble resistencia lo que los hace  difíciles de agotar. Para haceros una idea, con un Border Collie puedes hacer una carrera en bici de  unos 15 km (más o menos) a un ritmo de 1.5 km cada 5 minutos y que él lleve el ritmo perfectamente.
+Como hemos comentado, [el origen del Border Collie](http://www.borders-collies.com/raza-de-perro-border-collie/) es trabajar con las ovejas en el campo, por lo que están predispuestos naturalmente para el trabajo. Tienen una increíble resistencia lo que los hace  difíciles de agotar. Para haceros una idea, con un Border Collie puedes hacer una carrera en bici de  unos 15 km (más o menos) a un ritmo de 1.5 km cada 5 minutos y que él lleve el ritmo perfectamente.
 
 {% include components/descargar-guia-como-elegir-tu-border-collie-post.html %}
 
