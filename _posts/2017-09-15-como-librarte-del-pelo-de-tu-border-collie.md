@@ -15,7 +15,7 @@ Se lo que necesitas! Un robot aspirador! 😲🙄 🤔
 
 Si, si, no hace falta que te lo pienses mucho. Trabaja todos los dias por ti, deja la casa sin pelo en el suelo, lo que hace que el pelo que antes podía ir por el aire y pegarse en muebles, ropa de cama o vestimenta varía vaya directo a su depósito y de alli a la basura.
 
-¿No te lo crees? Pues mira! Este es el deposito del [Conga Excellance](https://www.amazon.es/Cecotec-Conga-Excellance-Robot-aspirador/dp/B01LYCUMX6/ref=as_li_ss_tl?ie=UTF8&qid=1505468090&sr=8-2&keywords=conga&linkCode=ll1&tag=bordecolli06-21&linkId=4d0c988615c7537c681358970cf38368) de [Cecotec](https://www.amazon.es/s/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias=aps&field-keywords=conga&linkCode=ll2&tag=bordecolli06-21&linkId=e8051b98ff0affc8c95dea0602c100a2) de mi madre.
+¿No te lo crees? Pues mira! Este es el deposito del [Conga Excellance](https://clk.tradedoubler.com/click?p=283907&a=3006258&g=&url=https://cecotec.es/robot-aspirador-conga-excellence-990) [Cecotec](https://clk.tradedoubler.com/click?p=283907&a=3006258&g=&url=https://cecotec.es/robot-aspirador-conga-excellence-990) de mi madre.
 
 <div class="text-center">
  <img src= "{{site.url}}/assets/img/articulos/robot-aspirador-librarte-del-pelo-de-tu-perro.jpg" width="650" height="auto" alt="Border collie baño">
@@ -35,7 +35,7 @@ Si bien adoramos a nuestras mascotas, nos gusta poco que su pelo campe librement
 
 ### Consejos para elegir el mejor robot aspirador para mascotas
 
-Para elegir el mejor robot aspirador para mascotas necesitamos tener en cuenta 6 criterios que te explicamos a continuación. Después tendremos que elegir en función de nuestro presupuesto el aspirador que responda de la mejor manera a estos criterios.
+Para elegir el [mejor robot aspirador](https://clk.tradedoubler.com/click?p=283907&a=3006258&g=&url=https://cecotec.es/robot-aspirador-conga-excellence-990) para mascotas necesitamos tener en cuenta 6 criterios que te explicamos a continuación. Después tendremos que elegir en función de nuestro presupuesto el aspirador que responda de la mejor manera a estos criterios.
 
 **1. Cobertura de la superficie**
 
@@ -55,14 +55,14 @@ El objetivo es que los pelos de las mascotas se enganchen lo menos posible en lo
 **5. Filtro HEPA o especial mascotas**
 
 El filtro es una parte importante de nuestro aspirador. Este componente es la garantía de que el robot va a atrapar ciertas partículas perjudiciales que se encuentran en el aire.
-La clasificación HEPA (High Efficiency Particle Arrester), en español Atrapador de Partículas de Alta Eficiencia, garantiza que el filtro recoge las esporas de moho, el polvo, los ácaros del polvo, la caspa de las mascotas y otros alérgenos que se encuentran en el aire. Por esa razón es importante que nuestro robot aspirador tenga un filtro HEPA como el  [Conga Excellance](https://www.amazon.es/Cecotec-Conga-Excellance-Robot-aspirador/dp/B01LYCUMX6/ref=as_li_ss_tl?ie=UTF8&qid=1505468090&sr=8-2&keywords=conga&linkCode=ll1&tag=bordecolli06-21&linkId=4d0c988615c7537c681358970cf38368)  o en su defecto un filtro especial para animales.
+La clasificación HEPA (High Efficiency Particle Arrester), en español Atrapador de Partículas de Alta Eficiencia, garantiza que el filtro recoge las esporas de moho, el polvo, los ácaros del polvo, la caspa de las mascotas y otros alérgenos que se encuentran en el aire. Por esa razón es importante que nuestro robot aspirador tenga un filtro HEPA como el  [Conga Excellance](https://clk.tradedoubler.com/click?p=283907&a=3006258&g=&url=https://cecotec.es/robot-aspirador-conga-excellence-990)  o en su defecto un filtro especial para animales.
 
 **6. Capacidad del depósito**
 
 Cuando tenemos animales peludos en el hogar el depósito se va a llenar más rápido que en una casa sin mascotas por lo que es recomendable que sea grande. De todas maneras poco cuesta vaciarlo diariamente, lo que personalmente veo más higiénico.
 Hay aspiradoras con una capacidad de 0,3 L hasta 0,7 L de desperdicios.
 
-Ahora ya sabes con estos consejos y según tu presupuesto no te lo pienses más y pon un robot aspirador en tu hogar.
+Ahora ya sabes con estos consejos y según tu presupuesto no te lo pienses más y pon un [robot aspirador](https://clk.tradedoubler.com/click?p=283907&a=3006258&g=&url=https://cecotec.es/robot-aspirador-conga-excellence-990) en tu hogar.
 
 Los primeros días te aconsejo que lo uses mientras tu estes en casa, porque a pesar de ser mucho menos ruidoso que otro tipo de aspiradores tu perro puede mostrarse poco receptivo, tenerle miedo o incluso querer morderle. Por eso es bueno que estés cerca para enseñarle cómo debe comportarse con tu nuevo gadget tecnológico.
 

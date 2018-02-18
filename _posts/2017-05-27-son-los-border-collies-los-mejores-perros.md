@@ -46,17 +46,17 @@ Aunque estos perros son susceptibles a **ciertos problemas** de salud como la **
 
 Al igual que cualquier otro perro, los Border Collies mudan de pelo. La única cosa a tener en cuenta sobre esta raza es que su pelo es de longitud media por lo que los pelos son mucho más notable en la ropa y en ciertos muebles. Generalmente **mudan de pelo dos veces al año**, pero espera a ver pelo por casa durante todo el año.
 
-Una buena manera de reducir la caída y de guardar el brillo es cepillarlos por lo menos una vez por semana. Esto ayudará a deshacerse de cualquier pelo suelto que este colgando y mejorará la capa de pelo de tu perro.
+Una buena manera de reducir la caída y de guardar el brillo es [cepillarlos](http://www.zooplus.es/esearch.htm#q=cepillo%20perros) por lo menos una vez por semana. Esto ayudará a deshacerse de cualquier pelo suelto que este colgando y mejorará la capa de pelo de tu perro.
 
-Los Border Collies no necesitan ser bañados con frecuencia. Cuando decidas [dar a tu perro un baño](http://www.borders-collies.com/border-collie-cuidados-banar-a-un-cachorro/), asegúrate de usar productos seguros sólo para mascotas. Los champús y jabones humanos no son buenos para su pelo.
+Los Border Collies no necesitan ser bañados con frecuencia. Cuando decidas [dar a tu perro un baño](http://www.borders-collies.com/border-collie-cuidados-banar-a-un-cachorro/), asegúrate de [usar productos seguros sólo para mascotas](http://www.zooplus.es/shop/tienda_perros/higiene_canina_maquinas_cortapelo). Los champús y jabones humanos no son buenos para su pelo.
 
 ### Ejercicio
 
-Los border collies adoran el ejercicio y jugar. Necesitan actividades que les obliguen a usar sus mentes también. Esta es la razón por la que jugar a buscar algo, jugar con un Frisbee o hacer [canicross](http://www.borders-collies.com/5-comandos-que-tu-perro-debe-conocer-antes-de-lanzarte-a-hacer-canicross/) es muy divertido para ellos.
+Los border collies adoran el ejercicio y jugar. Necesitan actividades que les obliguen a usar sus mentes también. Esta es la razón por la que jugar a buscar algo, jugar con un [Frisbee](http://www.zooplus.es/esearch.htm#q=frisbee) o hacer [canicross](http://www.borders-collies.com/5-comandos-que-tu-perro-debe-conocer-antes-de-lanzarte-a-hacer-canicross/) es muy divertido para ellos.
 
 Si estás pensando en ser el orgulloso dueño de un Border Collie, prepárate para estar al aire libre por lo menos un par de horas al día con él, o para trabajar con él. De lo contrario, no te dejará solo y seguirá molestándote para que lo saques o te ocupes de él y no parar hasta que lo hagas.
 
-Si eres un poco manitas también puedes hacerle tu msmo algunos [juguetes caseros](http://www.borders-collies.com//4-juguetes-caseros-para-perros/) para trabajar su ingenio.
+Si eres un poco manitas también puedes hacerle tu mismo algunos [juguetes caseros](http://www.borders-collies.com//4-juguetes-caseros-para-perros/) para trabajar su ingenio.
 
 <div class="text-center">
  <img src= "{{site.url}}/assets/img/articulos/border-collie-ejercicio.jpg" width="650" height="auto" alt="{{ post.title }}">

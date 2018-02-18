@@ -33,12 +33,12 @@ El Border Collie fue criado para correr en grandes campos abiertos y tiene mucha
 
 A pesar de que originalmente se consideran sólo "perros pastor", ahora son mucho más que eso. Los amantes del perro en todo el mundo han abrazado la raza Border Collie y la han invitado a sus hogares, sin embargo la necesidad de una actividad vigorosa todavía está arraigada profundamente en ellos.
 
-Los Border collies en principio no son perros de apartamento, necesitan un montón de espacio para correr y jugar. El ejercicio para ellos es importante tanto para su salud y como para su felicidad.
+Los Border collies en principio no son perros de apartamento, necesitan un montón de espacio para correr y [jugar](http://www.zooplus.es/shop/tienda_perros/juguetes_deporte_perros). El ejercicio para ellos es importante tanto para su salud y como para su felicidad.
 Así que si eres o vas a ser dueño de un border collie asegúrate de ofrecer a tu perro mucho tiempo para correr y usar su energía.
 
 #### Aseo
 
-Los border collies son generalmente fáciles de preparar. No requieren de un montón de baños, pero es necesario cepillarlos semanalmente para deshacerse de cualquier pelo extra que está pegado a su manto.
+Los border collies son generalmente fáciles de preparar. No requieren de un montón de baños, pero es necesario [cepillarlos semanalmente](http://www.zooplus.es/shop/tienda_perros/higiene_canina_maquinas_cortapelo) para deshacerse de cualquier pelo extra que está pegado a su manto.
 Como cualquier otra raza de pelo largo, el border collie pierde pelo especialmente en primavera y otoño y debido a su pelo más largo este fenómeno es mucho más notable.
 
 #### Salud

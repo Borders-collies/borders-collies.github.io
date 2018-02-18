@@ -13,7 +13,7 @@ El Border Collie es conocido por tener mucha energía. Es un perro fácilmente a
 
 Si buscas un perro tranquilo y que no requiera mucha atención, no te decantes por el Border Collie, este perro no es para ti. Debido a su alta energía no es uno de esos perros ¨alfombra¨que están siempre tumbados por toda la casa.
 
-Su carácter es muy activo,  incluso cuando tienen que realizar una pequeña orden como sentarse, están entusiasmados con hacerlo correctamente. Por ejemplo, después de la orden sentado no suelen quedarse tranquilos si no que se quedan sentados, mirando atentamente a su amo esperando la siguiente orden. Esta es la razon por la que requieren mucho tiempo para dar largos paseos, juegos, y sacar así toooda esa energía.
+Su carácter es muy activo,  incluso cuando tienen que realizar una pequeña orden como sentarse, están entusiasmados con hacerlo correctamente. Por ejemplo, después de la orden sentado no suelen quedarse tranquilos si no que se quedan sentados, mirando atentamente a su amo esperando la siguiente orden. Esta es la razon por la que requieren mucho tiempo para [dar largos paseos](http://www.zooplus.es/esearch.htm#q%3DArneses%252C%2520correas%2520y%2520collares%26catl%3D2Perros%3EArneses%2C%20correas%20y%20collares%26cats%3D2Perros%253EArneses%252C%2520correas%2520y%2520collares), [juegos](http://www.zooplus.es/shop/tienda_perros/juguetes_deporte_perros), y sacar así toooda esa energía.
 
 Si estás pensando en tener un Border Collie seria aconsejable tener cerca un espacio amplio donde poder ir con él a correr y jugar tranquilamente, un parque, un camino, un campo, una ribera. Según las posibilidades de cada uno.
 
@@ -27,7 +27,7 @@ Creo que no se puede hacer suficiente hincapié en la cantidad de energía que t
 
 El carácter del Border Collie depende también en gran medida de lo aburrido que este. Si estás en el trabajo todo el día y tu BC está encerrado en casa sin nada que hacer es sólo cuestión de tiempo que comience a actuar de forma negativa. Asegúrate de dejarle un juguete para mantenerlo ocupado y que tenga algo que hacer. Los BC tienen que estar a menudo haciendo algo, así que trata de ser creativo.  Con ellos puedes estar constantemente enseñándoles <a href="{{ site.url }}/border-collie-adiestramiento/">nuevos trucos y órdenes</a>.
 
-Un juguete que funciona bien es el [Kong](https://www.amazon.es/Classic-Dog-Toy-Medium-Red/dp/B000AYN7LU/ref=as_li_ss_tl?ie=UTF8&qid=1498466164&sr=8-1&keywords=kong&linkCode=ll1&tag=lasaspirad-21&linkId=bef48763ebe0e7a414dd272ffeca936b) ya que tiene un objetivo y es que el perro consiga comer los premios que contiene este mordedor en su interior. Además el material es muy resistente, y el resultado es duradero.
+Un juguete que funciona bien es el [Kong](https://www.amazon.es/Classic-Dog-Toy-Medium-Red/dp/B000AYN7LU/ref=as_li_ss_tl?ie=UTF8&qid=1498466164&sr=8-1&keywords=kong&linkCode=ll1&tag=lasaspirad-21&linkId=bef48763ebe0e7a414dd272ffeca936b) ya que tiene un objetivo y es que el perro consiga comer los [premios](http://www.zooplus.es/esearch.htm#q=premios%20perro) que contiene este mordedor en su interior. Además el material es muy resistente, y el resultado es duradero.
 
 Si te gusta hacer las cosas tu mismo echa un vistazo a estas ideas de <a href="{{ site.url }}/4-juguetes-caseros-para-perros/">juguetes caseros para perros</a>.
 
