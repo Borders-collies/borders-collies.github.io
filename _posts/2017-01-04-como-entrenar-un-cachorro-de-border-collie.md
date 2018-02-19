@@ -19,6 +19,25 @@ Hay una leyenda urbana  que dice que no es necesario el entrenamiento ni la obed
 
 No tienes que esperar a que tu perro tenga estos malos hábitos para corregirlos porque entonces será mucho más difícil deshacer estas costumbres y obtener un buen comportamiento. La obediencia no se usa sólo para arreglar problemas de comportamiento sino también para prevenirlos.
 
+<table class="stack">
+  <thead>
+    <tr>
+      <th width="250" class="text-center"><a href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fpienso_perros%2Ftaste_of_the_wild%2Ftaste_of_the_wild_puppy%2F409377"><img src="{{site.url}}/assets/img/productos/Taste-of-the-Wild-High-Prairie-Puppy.jpg" width="200" height="auto" alt="Taste-of-the-Wild-High-Prairie-Puppy"></a></th>
+      <th width="250" class="text-center"><a  href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fpienso_perros%2Facana%2Facana_puppy%2F382161"><img src="{{site.url}}/assets/img/productos/Acana-puppy-small-breed-heritage-pienso-para-perros.jpg" width="200" height="auto" alt="collar de perro eneko"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <th>Taste of the Wild High Prairie Puppy</th>
+      <th>Acana Puppy Small Breed Heritage pienso</th>
+     </tr>
+     <tr>
+      <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fpienso_perros%2Ftaste_of_the_wild%2Ftaste_of_the_wild_puppy%2F409377">Comprar en Amazon</a></th>
+        <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fpienso_perros%2Facana%2Facana_puppy%2F382161">Comprar en Amazon</a></th>
+    </tr>
+  </tbody>
+</table>
+
 <h3>Trucos para entrenar a tu cachorro</h3>
 
 Los Border Collies son perros extremadamente inteligentes y aprenden rápido. Sin embargo cuando se trata de un cachorro, no puede pasar directamente a enseñar  trucos complicados. Primero debes empezar con lo básico y poco a poco conforme el perro ha asimilado las órdenes básicas subir la dificultad.
