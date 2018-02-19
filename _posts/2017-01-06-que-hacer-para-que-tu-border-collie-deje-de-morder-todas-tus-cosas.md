@@ -24,6 +24,25 @@ Si tu Collie está mordiendo algo que se supone no debe morder, y lo coges en el
 
 Así que si llegas a casa y tu perro está mordiendo tus zapatos, primero obtén su atención llamándolo por su nombre con una voz fuerte y firme. Entonces te mirará como sorprendido, dile "No", y rápidamente quítale el zapato, ponlo fuera de su zona de alcance y reemplázalo por uno de sus juguetes. Cuando coja entre sus dientes el juguete, alaba su comportamiento, diciéndole por ejemplo “muy bien” o “buen chico”.
 
+<table class="stack">
+  <thead>
+    <tr>
+      <th width="250" class="text-center"><a href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fcomederos%2Fbebedero_perro%2Fdrinkwell%2F56149"><img src="{{site.url}}/assets/img/productos/Bebedero-fuente.jpg" width="200" height="auto" alt="NORTHMATE"></a></th>
+      <th width="250" class="text-center"><a  href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fcomederos%2Fdeposito_alimentos%2F650429"><img src="{{site.url}}/assets/img/productos/Contenedor-de-comida.jpg" width="200" height="auto" alt="Soporte ajustable"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <th>Bebedero fuente Drinkwell Original de PetSafe</th>
+      <th>Contenedor de comida</th>
+     </tr>
+     <tr>
+      <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fcomederos%2Fbebedero_perro%2Fdrinkwell%2F56149">Comprar</a></th>
+        <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fcomederos%2Fdeposito_alimentos%2F650429">Comprar</a></th>
+    </tr>
+  </tbody>
+</table>
+
 <h3>El Border Collie que muerde cosas por aburrimiento</h3>
 
 Si tu Collie sólo muerde cosas cuando lo dejas solo en casa, probablemente lo haga por aburrimiento. El perro seguramente se siente solo cuando te has ido y para mantener su mente ocupada, empieza a morder tu silla favorita, tus zapatos, tu ropa, etc.

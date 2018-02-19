@@ -31,6 +31,25 @@ La gente ha empezado a adquirir Border Collies atraídos por su imagen de inteli
 
 Sin embargo el <a href="{{ site.url }}/el-caracter-del-border-collie/">Border Collie no es un ¨perro de casa¨</a>, necesitan espacio, y actividad tanto física, ejercicios, juegos, como mental. Estas características los convierte en unas mascotas exigentes, no aptas para cualquiera.
 
+<table class="stack">
+  <thead>
+    <tr>
+      <th width="250" class="text-center"><a href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fcomederos%2Fbebedero_perro%2Fdrinkwell%2F56149"><img src="{{site.url}}/assets/img/productos/Bebedero-fuente.jpg" width="200" height="auto" alt="NORTHMATE"></a></th>
+      <th width="250" class="text-center"><a  href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fcomederos%2Fdeposito_alimentos%2F650429"><img src="{{site.url}}/assets/img/productos/Contenedor-de-comida.jpg" width="200" height="auto" alt="Soporte ajustable"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <th>Bebedero fuente Drinkwell Original de PetSafe</th>
+      <th>Contenedor de comida</th>
+     </tr>
+     <tr>
+      <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fcomederos%2Fbebedero_perro%2Fdrinkwell%2F56149">Comprar</a></th>
+        <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fcomederos%2Fdeposito_alimentos%2F650429">Comprar</a></th>
+    </tr>
+  </tbody>
+</table>
+
 En un entorno apropiado y con un dueño comprometido y que desee sacar lo mejor de esta energética raza pueden ser la mascota perfecta.
 
 El adiestramiento de un Border Collie debe comenzar pronto, mientras es todavía un cachorro, simplemente porque es más fácil entrenar a un perro cuando su cerebro está todavía desarrollándose.
