@@ -32,8 +32,8 @@ No tienes que esperar a que tu perro tenga estos malos hábitos para corregirlos
       <th>Acana Puppy Small Breed Heritage pienso</th>
      </tr>
      <tr>
-      <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fpienso_perros%2Ftaste_of_the_wild%2Ftaste_of_the_wild_puppy%2F409377">Comprar en Amazon</a></th>
-        <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fpienso_perros%2Facana%2Facana_puppy%2F382161">Comprar en Amazon</a></th>
+      <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fpienso_perros%2Ftaste_of_the_wild%2Ftaste_of_the_wild_puppy%2F409377">Comprar</a></th>
+        <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fpienso_perros%2Facana%2Facana_puppy%2F382161">Comprar</a></th>
     </tr>
   </tbody>
 </table>
