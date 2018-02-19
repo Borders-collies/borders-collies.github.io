@@ -29,6 +29,25 @@ Además organiza diferentes concursos de pastoreo a lo largo del año como el or
 
 Si quieres tener un Border Collie y no puedes permitirte el comprarlo o simplemente eres más afín con la filosofía de la adopción te propongo tres enlaces interesantes.
 
+<table class="stack">
+  <thead>
+    <tr>
+      <th width="250" class="text-center"><a href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fcomederos%2Fcomederos_antivoracidad%2Fantivoracidad%2F409478"><img src="{{site.url}}/assets/img/productos/NORTHMATE.jpg" width="200" height="auto" alt="NORTHMATE"></a></th>
+      <th width="250" class="text-center"><a  href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fcomederos%2Fcomederos_altos%2F360718"><img src="{{site.url}}/assets/img/productos/Soporte-ajustable.jpg" width="200" height="auto" alt="Soporte ajustable"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <th>NORTHMATE ® Green comedero antivoracidad</th>
+      <th>Soporte ajustable para perros</th>
+     </tr>
+     <tr>
+      <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fcomederos%2Fcomederos_antivoracidad%2Fantivoracidad%2F409478">Comprar</a></th>
+        <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fcomederos%2Fcomederos_altos%2F360718">Comprar</a></th>
+    </tr>
+  </tbody>
+</table>
+
 El primero es de una asociación protectora de Border Collie y perros pastores:
 
 - SOS BORDER COLLIE, siguelos en su <a href="https://www.facebook.com/pages/SOS-Border-Collie/203046183045195">pagina de Facebook</a><br>

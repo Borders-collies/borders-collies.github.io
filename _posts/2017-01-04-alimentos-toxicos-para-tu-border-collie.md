@@ -47,6 +47,25 @@ Hay muchas frutas que no son malas, sin embargo tienes siempre que evitar las se
 
 Si tu perro ha comido alguna de estas cosas, llama a tu veterinario con el peso de tu perro y la cantidad del alimento consumido. Algunos de los alimentos mencionadas anteriormente son inofensivos en pequeñas cantidades y sólo son peligrosas en cantidades más grandes.
 
+<table class="stack">
+  <thead>
+    <tr>
+      <th width="250" class="text-center"><a href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fsnacks_perros%2Fhigiene_dental%2Fpedigree%2F651676"><img src="{{site.url}}/assets/img/productos/Pedigree-DentaStix.jpg" width="200" height="auto" alt="Taste-of-the-Wild-High-Prairie-Puppy"></a></th>
+      <th width="250" class="text-center"><a  href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fsnacks_perros%2Fsnacks_cachorros"><img src="{{site.url}}/assets/img/productos/barkoo_mini_bones_50__8.jpg" width="200" height="auto" alt="collar de perro eneko"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <th>Pedigree DentaStix</th>
+      <th>Barkoo Mini Bones</th>
+     </tr>
+     <tr>
+      <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fsnacks_perros%2Fhigiene_dental%2Fpedigree%2F651676">Comprar</a></th>
+        <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fsnacks_perros%2Fsnacks_cachorros">Comprar</a></th>
+    </tr>
+  </tbody>
+</table>
+
 Si te apetece darle un capricho sano a tu perro consulta esta <a href="{{ site.url }}/recetas-caseras-para-perros-galletas-de-manzana/">receta casera de galletas de manzana</a>.
 
 Hay algo que quieres compartir? Escríbenos a hola@borders-collies.com, estamos encantados de escucharte.

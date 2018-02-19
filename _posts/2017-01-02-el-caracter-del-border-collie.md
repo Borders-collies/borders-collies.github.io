@@ -15,6 +15,25 @@ Si buscas un perro tranquilo y que no requiera mucha atención, no te decantes p
 
 Su carácter es muy activo,  incluso cuando tienen que realizar una pequeña orden como sentarse, están entusiasmados con hacerlo correctamente. Por ejemplo, después de la orden sentado no suelen quedarse tranquilos si no que se quedan sentados, mirando atentamente a su amo esperando la siguiente orden. Esta es la razon por la que requieren mucho tiempo para [dar largos paseos](http://www.zooplus.es/esearch.htm#q%3DArneses%252C%2520correas%2520y%2520collares%26catl%3D2Perros%3EArneses%2C%20correas%20y%20collares%26cats%3D2Perros%253EArneses%252C%2520correas%2520y%2520collares), [juegos](http://www.zooplus.es/shop/tienda_perros/juguetes_deporte_perros), y sacar así toooda esa energía.
 
+<table class="stack">
+  <thead>
+    <tr>
+      <th width="250" class="text-center"><a href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fsnacks_perros%2Fhigiene_dental%2Fpedigree%2F651676"><img src="{{site.url}}/assets/img/productos/Pedigree-DentaStix.jpg" width="200" height="auto" alt="Taste-of-the-Wild-High-Prairie-Puppy"></a></th>
+      <th width="250" class="text-center"><a  href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fsnacks_perros%2Fsnacks_cachorros"><img src="{{site.url}}/assets/img/productos/barkoo_mini_bones_50__8.jpg" width="200" height="auto" alt="collar de perro eneko"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <th>Pedigree DentaStix</th>
+      <th>Barkoo Mini Bones</th>
+     </tr>
+     <tr>
+      <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fsnacks_perros%2Fhigiene_dental%2Fpedigree%2F651676">Comprar</a></th>
+        <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fsnacks_perros%2Fsnacks_cachorros">Comprar</a></th>
+    </tr>
+  </tbody>
+</table>
+
 Si estás pensando en tener un Border Collie seria aconsejable tener cerca un espacio amplio donde poder ir con él a correr y jugar tranquilamente, un parque, un camino, un campo, una ribera. Según las posibilidades de cada uno.
 
 A causa de su temperamento la falta de estimulación mental puede crear malos hábitos en el Border Collie como morder cosas que no debe, libros, cojines, zapatos o todo lo que pille.

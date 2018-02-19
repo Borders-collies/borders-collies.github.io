@@ -53,6 +53,25 @@ Si conoces a alguien que ya tenga un Border Collie, preguntale donde lo compró.
 <img src= "{{site.url}}/assets/img/articulos/como-encontrar-un-criador-respetable-de-border-collie-2.jpg" width="550" height="auto" alt="{{ post.title }}">
 </div>
 
+<table class="stack">
+  <thead>
+    <tr>
+      <th width="250" class="text-center"><a href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fpienso_perros%2Ftaste_of_the_wild%2Ftaste_of_the_wild_puppy%2F409377"><img src="{{site.url}}/assets/img/productos/Taste-of-the-Wild-High-Prairie-Puppy.jpg" width="200" height="auto" alt="Taste-of-the-Wild-High-Prairie-Puppy"></a></th>
+      <th width="250" class="text-center"><a  href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fpienso_perros%2Facana%2Facana_puppy%2F382161"><img src="{{site.url}}/assets/img/productos/Acana-puppy-small-breed-heritage-pienso-para-perros.jpg" width="200" height="auto" alt="collar de perro eneko"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <th>Taste of the Wild High Prairie Puppy</th>
+      <th>Acana Puppy Small Breed Heritage pienso</th>
+     </tr>
+     <tr>
+      <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fpienso_perros%2Ftaste_of_the_wild%2Ftaste_of_the_wild_puppy%2F409377">Comprar</a></th>
+        <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fpienso_perros%2Facana%2Facana_puppy%2F382161">Comprar</a></th>
+    </tr>
+  </tbody>
+</table>
+
 <h3>Señales de peligro de un criador</h3>
 
 Ahora es el momento de indicarte algunas señales de peligro que debes tener en cuenta y en caso de identificarlas en el criador que estas apunto de elegir, cambiar de idea ya que puede tratarse de un criador que solo busca la pura ganancia sin tener en cuenta la salud y el bienestar de sus cachorros.

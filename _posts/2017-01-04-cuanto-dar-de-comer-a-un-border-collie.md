@@ -38,6 +38,25 @@ Las recomendaciones impresas en los paquetes de comida para perros siempre estim
 
 Otro problema que presentan estas indicaciones es que no saben cuanta actividad realiza tu perro. Puede que tu perro sea un super atleta y este activo prácticamente todo el día, en cuyo caso necesitará más comida de la que se indica en el envase. O puede que tu perro sea un mueble y se pase todo el día tirado, en cuyo caso estará alimentándose muy por encima de sus necesidades.
 
+<table class="stack">
+  <thead>
+    <tr>
+      <th width="250" class="text-center"><a href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fcomederos%2Fcomederos_antivoracidad%2Fantivoracidad%2F409478"><img src="{{site.url}}/assets/img/productos/NORTHMATE.jpg" width="200" height="auto" alt="NORTHMATE"></a></th>
+      <th width="250" class="text-center"><a  href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fcomederos%2Fcomederos_altos%2F360718"><img src="{{site.url}}/assets/img/productos/Soporte-ajustable.jpg" width="200" height="auto" alt="Soporte ajustable"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <th>NORTHMATE ® Green comedero antivoracidad</th>
+      <th>Soporte ajustable para perros</th>
+     </tr>
+     <tr>
+      <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fcomederos%2Fcomederos_antivoracidad%2Fantivoracidad%2F409478">Comprar</a></th>
+        <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fcomederos%2Fcomederos_altos%2F360718">Comprar</a></th>
+    </tr>
+  </tbody>
+</table>
+
 Las etiquetas se deben utilizar como una guía general, pero sin confiar demasiado en ellas. Se recomienda controlar el peso del perro para una estimación mucho más precisa de cuánto debes alimentar a tu border collie.
 
 También te puede interesar este articulo sobre los tipos de <a href="{{ site.url }}/comida-para-perros-pienso-seco-o-comida-en-lata/">comida para tu perro.</a>
