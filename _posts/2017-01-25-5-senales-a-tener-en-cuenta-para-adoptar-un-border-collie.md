@@ -40,6 +40,22 @@ Tienes que ser consciente y decidir, si estás buscando un perro dinámico y jug
 
 Cuando estés visitando la asociación, estaría bien que toda la familia te acompañe para ver cómo responde el perro a todos vosotros.  No hay ningún problema si el perro se comporta tímidamente ante tanta gente. Lo que hay que ver es si hay signos de agresión, desconfianza o gruñidos.
 
+<table class="stack">
+  <thead>
+    <tr>
+      <th width="250" class="text-center"><a href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fespecial_frio_lluvia_perros%2Fcasetas_para_perros%2Fcasetas_de_madera%2F189764"><img src="{{site.url}}/assets/img/productos/Caseta-Trixie.jpg" width="200" height="auto" alt="NORTHMATE"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <th>Caseta Trixie Natura con terraza para perros</th>
+     </tr>
+     <tr>
+      <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fespecial_frio_lluvia_perros%2Fcasetas_para_perros%2Fcasetas_de_madera%2F189764">Comprar</a></th>
+    </tr>
+  </tbody>
+</table>
+
 Por último si no estás seguro de algo pregunta a los trabajadores de la protectora o asociacion estarán encantados en ayudarte.
 
 Si quieres descubrir más información sobre el Border Collies es por<a href="{{ site.url }}/border-collie-cria/"> aquí</a>.
