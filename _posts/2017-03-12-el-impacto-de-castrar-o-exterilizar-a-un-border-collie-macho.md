@@ -40,6 +40,25 @@ Esto sólo ocurre cuando el perro es castrado a una edad temprana. Cuanto más t
 
 La castración conlleva ciertos cambios hormonales, el ritmo del metabolismo disminuye y esto puede conducir, si no ponemos medidas, al sobrepeso de nuestro perro.
 
+<table class="stack">
+  <thead>
+    <tr>
+      <th width="250" class="text-center"><a href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fhigiene_canina_maquinas_cortapelo%2Fchampu_perros%2Fpet_head%2F359654"><img src="{{site.url}}/assets/img/productos/champu-puppy-fun.jpg" width="200" height="auto" alt="Taste-of-the-Wild-High-Prairie-Puppy"></a></th>
+      <th width="250" class="text-center"><a  href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fhigiene_canina_maquinas_cortapelo%2Fchampu_perros%2Fquiko_wash_clean_shine%2F597859"><img src="{{site.url}}/assets/img/productos/quiko-wash.jpg" width="200" height="auto" alt="collar de perro eneko"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <th>Pet Head: Puppy Fun champú para perros</th>
+      <th>Barkoo Mini Bones</th>
+     </tr>
+     <tr>
+      <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fhigiene_canina_maquinas_cortapelo%2Fchampu_perros%2Fpet_head%2F359654">Comprar</a></th>
+        <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fhigiene_canina_maquinas_cortapelo%2Fchampu_perros%2Fquiko_wash_clean_shine%2F597859">Comprar</a></th>
+    </tr>
+  </tbody>
+</table>
+
  **Los impactos de la castración para tu perro en su carácter**
 
 - Efecto notable en el comportamiento de tu perro
