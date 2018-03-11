@@ -26,6 +26,25 @@ Prepara todo lo que necesitas antes de que tu cachorro esté listo. Será mucho 
 
 Nunca uses champú humano en un perro. Los productos químicos que hay en los productos de higiene humana son demasiados fuertes para los perros. En su lugar compra un champú para mascotas que mantendrá seguro a su cachorro Border Collie y olerá genial.
 
+<table class="stack">
+  <thead>
+    <tr>
+      <th width="250" class="text-center"><a href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fhigiene_canina_maquinas_cortapelo%2Fchampu_perros%2Fpet_head%2F359654"><img src="{{site.url}}/assets/img/productos/champu-puppy-fun.jpg" width="200" height="auto" alt="Taste-of-the-Wild-High-Prairie-Puppy"></a></th>
+      <th width="250" class="text-center"><a  href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fhigiene_canina_maquinas_cortapelo%2Fchampu_perros%2Fquiko_wash_clean_shine%2F597859"><img src="{{site.url}}/assets/img/productos/quiko-wash.jpg" width="200" height="auto" alt="collar de perro eneko"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <th>Pet Head: Puppy Fun champú para perros</th>
+      <th>Barkoo Mini Bones</th>
+     </tr>
+     <tr>
+      <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fhigiene_canina_maquinas_cortapelo%2Fchampu_perros%2Fpet_head%2F359654">Comprar</a></th>
+        <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fhigiene_canina_maquinas_cortapelo%2Fchampu_perros%2Fquiko_wash_clean_shine%2F597859">Comprar</a></th>
+    </tr>
+  </tbody>
+</table>
+
 <h4>Toalla</h4>
 
 Este es un básico. No importa qué tipo de toalla que utilices, pero una que absorba bien el agua más es lo mejor. Tu cachorro estará empapado después del baño.
@@ -57,6 +76,10 @@ Reúne todos tus materiales y ponlos en algún lugar cerca. Debes dejar a tu alc
 <h4>Paso 2 - Prepara a tu cachorro</h4>
 
 Primero cepilla a tu cachorro para deshacerte del cabello suelto y desenredar el cabello del perro ya que será más fácil para ti bañarlo. Luego pon a tu Border Collie en la bañera y coloca una bola de algodón en cada una de sus orejas. No las metas demasiado, solo lo suficiente como para cubrir el canal auditivo. Las primeras veces que hagas esto, espera que el cachorro se sacuda por lo menos un par de veces, poco a poco se acostumbrara. No uses las bolas de algodón húmedas de nuevo - en su lugar usar dos limpias para evitar una infección del oído.
+
+<div class="small-8 small-centered columns">
+  <iframe class="text-center" src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=12&l=ur1&category=pets&banner=13ASXSQNNM2X3V34SY02&f=ifr&linkID=26e52c1281ed8ac195b2d2e1591e3ab2&t=bordecolli06-21&tracking_id=bordecolli06-21" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+</div>
 
 <h4>Paso 3 - Remoja a tu perro</h4>
 

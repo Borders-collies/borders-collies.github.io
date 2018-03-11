@@ -14,6 +14,10 @@ Este es un problema común con muchos cachorros. Por mucho que te guste jugar co
 
 Por lo general, los cachorros superan este tipo de comportamiento en el momento en que llegan a la edad adulta y no muerden más. A veces sin embargo, si no aprenden que el morder no es la manera divertida de jugar, pueden guardar este hábito en la vida adulta. Por lo tanto, es mejor que hagas algo y detengas los mordiscos antes de que empiecen a doler de verdad.
 
+<div class="small-8 small-centered columns">
+  <iframe class="text-center" src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=12&l=ur1&category=pets&banner=13ASXSQNNM2X3V34SY02&f=ifr&linkID=26e52c1281ed8ac195b2d2e1591e3ab2&t=bordecolli06-21&tracking_id=bordecolli06-21" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+</div>
+
 <h3>Porque tu cachorro te muerde</h3>
 
 Los cachorros son como los niños de muchas maneras. Son curiosos, inocentes y muy juguetones. Sin embargo y para nuestra desgracia los únicos juegos que saben jugar incluyen gruñir, ladrar y morder. Desde que nacieron, los únicos tipos de juegos que jugaban con sus hermanos eran perseguirse y jugar a pelear.
