@@ -25,6 +25,25 @@ Un dia, Carole recibe por fin la llamada definitiva. El distrito de Newark and S
 
 Carole no podia estar más contenta y Casey tampoco cuando la vio. 👏
 
+<table class="stack">
+  <thead>
+    <tr>
+      <th width="250" class="text-center"><a href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fjuguetes_deporte_perros%2Fjuegos_inteligencia%2Ftrixie%2F449995"><img src="{{site.url}}/assets/img/productos/trixie-dog.jpg" width="200" height="auto" alt="Taste-of-the-Wild-High-Prairie-Puppy"></a></th>
+      <th width="250" class="text-center"><a  href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fjuguetes_deporte_perros%2Fjuegos_inteligencia%2Ftrixie%2F621369"><img src="{{site.url}}/assets/img/productos/trixie-dog-activity.jpg" width="200" height="auto" alt="collar de perro eneko"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <th>Trixie Dog Activity Memory Trainer juego de inteligencia</th>
+      <th>Trixie Dog Activity Turn Around juego de inteligencia para mascotas</th>
+     </tr>
+     <tr>
+      <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fjuguetes_deporte_perros%2Fjuegos_inteligencia%2Ftrixie%2F449995">Comprar</a></th>
+        <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fjuguetes_deporte_perros%2Fjuegos_inteligencia%2Ftrixie%2F621369">Comprar</a></th>
+    </tr>
+  </tbody>
+</table>
+
  **De perro abandonado a detector de venenos en los parques**
 
 Esta es la historia de Albatrox, un border collie abandonado en 2014 y encontrado por el Centro Municipal de Protección Animal de Zaragoza cuando tenía 3 años.

@@ -30,6 +30,25 @@ No hay nada más natural para un perro que ladrar. Es de esta manera que expresa
 
 Son una molestia tanto para el propietario y como para sus vecinos, que a veces pueden conducir a disputas o incluso ir más allá. El problema se presenta especialmente por la noche o cuando el animal está solo en casa. No se trata de evitar por completo que el perro ladre, ya que tu Border Collie necesita comunicarse contigo, sino de asegurarse de que sus ladridos no se convierten en fuente de problemas.
 
+<table class="stack">
+  <thead>
+    <tr>
+      <th width="250" class="text-center"><a href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fjuguetes_deporte_perros%2Fjuegos_inteligencia%2Ftrixie%2F449995"><img src="{{site.url}}/assets/img/productos/trixie-dog.jpg" width="200" height="auto" alt="Taste-of-the-Wild-High-Prairie-Puppy"></a></th>
+      <th width="250" class="text-center"><a  href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fjuguetes_deporte_perros%2Fjuegos_inteligencia%2Ftrixie%2F621369"><img src="{{site.url}}/assets/img/productos/trixie-dog-activity.jpg" width="200" height="auto" alt="collar de perro eneko"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <th>Trixie Dog Activity Memory Trainer juego de inteligencia</th>
+      <th>Trixie Dog Activity Turn Around juego de inteligencia para mascotas</th>
+     </tr>
+     <tr>
+      <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fjuguetes_deporte_perros%2Fjuegos_inteligencia%2Ftrixie%2F449995">Comprar</a></th>
+        <th><a class="button" href="http://marketing.net.zooplus.es/ts/i3811177/tsc?amc=con.zooplus.268576.280776.9541&smc=280776&rmd=2&trg=http%3A%2F%2Fwww.zooplus.es%2F-326860%2Fshop%2F%252B5PRESAFF%2Ftienda_perros%2Fjuguetes_deporte_perros%2Fjuegos_inteligencia%2Ftrixie%2F621369">Comprar</a></th>
+    </tr>
+  </tbody>
+</table>
+
  **Porque ladra tu perro y cómo evitarlo**
 
 Aquí te presentamos algunas situaciones comunes en las que puedes encontrarte como propietario de un Border Collie. Si crees que el problema describe tu situación simplemente aplica la solución para resolver el tema de los ladridos.
