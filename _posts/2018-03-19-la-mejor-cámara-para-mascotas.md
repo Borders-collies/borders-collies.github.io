@@ -13,7 +13,7 @@ Comprar una cámara para que poder saludar a tu peludete 🐶 😍 durante el d�
 **Furbo Pet Camera**
 
 <div class="text-center">
- <img src= "{{site.url}}/assets/img/productos/turbo-pet-camera.jpg" width="550" height="auto" alt="Border collie baño">
+ <img src= "{{site.url}}/assets/img/productos/turbo-pet-camera.jpg" width="300" height="auto" alt="Border collie baño">
 </div>
 <div class="text-center">
   <a class="button" href="http://amzn.to/2GJdkUx">Comprar en Amazon</a>
@@ -22,7 +22,7 @@ Comprar una cámara para que poder saludar a tu peludete 🐶 😍 durante el d�
 **Pet cube Bites Pet Camera**
 
 <div class="text-center">
- <img src= "{{site.url}}/assets/img/productos/petcube-bites-pet-camera.jpg" width="550" height="auto" alt="Border collie baño">
+ <img src= "{{site.url}}/assets/img/productos/petcube-bites-pet-camera.jpg" width="300" height="auto" alt="Border collie baño">
 </div>
 <div class="text-center">
   <a class="button" href="http://amzn.to/2Iyng3L">Comprar en Amazon</a>
@@ -31,7 +31,7 @@ Comprar una cámara para que poder saludar a tu peludete 🐶 😍 durante el d�
 **Dog IP Pet Camera**
 
 <div class="text-center">
- <img src= "{{site.url}}/assets/img/productos/camara-LXMIMI.jpg" width="550" height="auto" alt="Border collie baño">
+ <img src= "{{site.url}}/assets/img/productos/camara-LXMIMI.jpg" width="300" height="auto" alt="Border collie baño">
 </div>
 <div class="text-center">
   <a class="button" href="http://amzn.to/2IBdKgb">Comprar en Amazon</a>
@@ -56,7 +56,7 @@ Hay varias versiones de cámaras para mascotas y todas tienen varias caracterís
 **Furbo Pet Camera**
 
 <div class="text-center">
- <img src= "{{site.url}}/assets/img/productos/turbo-pet-camera.jpg" width="550" height="auto" alt="Border collie baño">
+ <img src= "{{site.url}}/assets/img/productos/turbo-pet-camera.jpg" width="300" height="auto" alt="Border collie baño">
 </div>
 <div class="text-center">
   <a class="button" href="http://amzn.to/2GJdkUx">Comprar en Amazon</a>
@@ -73,7 +73,7 @@ Y, solo porque estoy un poco obsesionada con perros bonitos y artilugios geniale
 **Pet cube Bites Pet Camera**
 
 <div class="text-center">
- <img src= "{{site.url}}/assets/img/productos/petcube-bites-pet-camera.jpg" width="550" height="auto" alt="Border collie baño">
+ <img src= "{{site.url}}/assets/img/productos/petcube-bites-pet-camera.jpg" width="300" height="auto" alt="Border collie baño">
 </div>
 <div class="text-center">
   <a class="button" href="http://amzn.to/2Iyng3L">Comprar en Amazon</a>
@@ -91,7 +91,7 @@ Aquí hay un gran video de Petcube que muestra cómo la cámara para mascotas pu
 **Dog IP Pet Camera**
 
 <div class="text-center">
- <img src= "{{site.url}}/assets/img/productos/camara-LXMIMI.jpg" width="550" height="auto" alt="Border collie baño">
+ <img src= "{{site.url}}/assets/img/productos/camara-LXMIMI.jpg" " height="auto" alt="Border collie baño">
 </div>
 <div class="text-center">
   <a class="button" href="http://amzn.to/2IBdKgb">Comprar en Amazon</a>
