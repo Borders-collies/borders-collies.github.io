@@ -93,7 +93,7 @@ navegador instalado en su ordenador:</p>
 
 <p class="lead">Además, también puede gestionar el almacén de cookies en su navegador a través de herramientas como las siguientes</p>
 
-<p class="lead">• <a href="www.ghostery.com"/>Ghostery</a></p>
+<p class="lead">• <a href="www.ghostery.com">Ghostery</a></p>
 
 <p class="lead">Aceptación de la Política de cookies</p>
 
@@ -109,12 +109,3 @@ presente sesión.</p>
 
 <p class="lead">• Modificar su configuración. Podrá obtener más información sobre qué son las cookies, conocer la Política de
 cookies de www.miweb.es y modificar la configuración de su navegador.</p>
-
-</article>
-      <p class="lead">
-        Tienes un comentario, ganas de expresar tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com
-      </p>
-      <p class="lead">
-        Hasta pronto <a href="https://twitter.com/Las_aspiradoras">@Las_aspiradoras.com</a> 😊
-      </p>
-     </div>
